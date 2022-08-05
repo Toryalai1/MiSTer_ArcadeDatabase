@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>srumbler</setname>
+   <alternative>no</alternative>
+   <name>The Speed Rumbler (set 1)</name>
+   <region>World</region>
+   <year>1986</year>
+   <category>Shooter</category>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

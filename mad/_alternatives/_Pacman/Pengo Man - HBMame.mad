@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>pengman</setname>
+   <alternative>yes</alternative>
+   <name>Pengo Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>2000</year>
+   <category>Maze</category>
+   <manufacturer>Scott Lawrence</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

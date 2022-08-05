@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>cworld</setname>
+   <alternative>no</alternative>
+   <name>Capcom World (Japan)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+</misterarcadedescription>

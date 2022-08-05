@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>pzloop2jd</setname>
+   <alternative>yes</alternative>
+   <name>Puzz Loop 2 (Japan 010226 Phoenix Edition) (bootleg)</name>
+   <region>Japan</region>
+   <year>2001</year>
+   <category>Puzzle</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

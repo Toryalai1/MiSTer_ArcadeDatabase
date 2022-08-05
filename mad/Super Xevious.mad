@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>xevious</setname>
+   <alternative>no</alternative>
+   <name>Super Xevious</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

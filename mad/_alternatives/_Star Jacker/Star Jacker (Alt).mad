@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>starjacks</setname>
+   <alternative>yes</alternative>
+   <name>Star Jacker</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1983</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System 1</platform>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

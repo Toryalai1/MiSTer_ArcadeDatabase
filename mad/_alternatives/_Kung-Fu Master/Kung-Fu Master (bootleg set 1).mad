@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>kungfub</setname>
+   <alternative>yes</alternative>
+   <name>Kung-Fu Master</name>
+   <resolution>15kHz</resolution>
+   <year>1984</year>
+   <category>Beat 'em Up</category>
+   <manufacturer>Irem</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <platform>Irem M62</platform>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

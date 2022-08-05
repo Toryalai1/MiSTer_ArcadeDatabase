@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>defender</setname>
+   <alternative>no</alternative>
+   <name>Defender</name>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Williams</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>5</num_buttons>
+   <players>1</players>
+   <move_inputs>joystick 2-way vertical</move_inputs>
+</misterarcadedescription>

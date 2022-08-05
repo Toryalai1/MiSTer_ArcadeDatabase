@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ckongdks</setname>
+   <alternative>no</alternative>
+   <name>Donkey Kong (Spanish Crazy Kong bootleg)</name>
+   <year>1981</year>
+   <category>Maze / Monkeys</category>
+   <manufacturer>bootleg</manufacturer>
+   <bootleg>yes</bootleg>
+</misterarcadedescription>

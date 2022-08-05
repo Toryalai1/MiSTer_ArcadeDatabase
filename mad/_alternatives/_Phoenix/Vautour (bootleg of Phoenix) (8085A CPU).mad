@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vautour</setname>
+   <alternative>yes</alternative>
+   <name>Vautour</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Tehkan</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

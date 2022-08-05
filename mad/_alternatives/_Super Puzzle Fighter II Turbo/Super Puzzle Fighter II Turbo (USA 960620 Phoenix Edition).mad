@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>spf2td</setname>
+   <alternative>yes</alternative>
+   <name>Super Puzzle Fighter II Turbo (USA 960620 Phoenix Edition) (bootleg)</name>
+   <region>USA</region>
+   <year>1996</year>
+   <category>Puzzle</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

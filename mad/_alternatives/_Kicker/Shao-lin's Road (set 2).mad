@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>shaolinb</setname>
+   <alternative>yes</alternative>
+   <name>Shao-lin's Road (set 2)</name>
+   <region>World</region>
+   <year>1985</year>
+   <manufacturer>Konami</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>

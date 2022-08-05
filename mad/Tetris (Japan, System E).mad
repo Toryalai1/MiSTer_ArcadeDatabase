@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>tetrisse</setname>
+   <alternative>no</alternative>
+   <name>Tetris (Japan, System E)</name>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1988</year>
+   <category>Puzzle / Drop</category>
+   <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System E</platform>
+   <series>Tetris</series>
+   <players>1</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

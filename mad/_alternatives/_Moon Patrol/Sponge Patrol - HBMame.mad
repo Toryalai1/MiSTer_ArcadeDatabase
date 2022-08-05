@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>spatrol</setname>
+   <alternative>yes</alternative>
+   <name>Sponge Patrol</name>
+   <resolution>15kHz</resolution>
+   <year>2008</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Irem</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Irem M52</platform>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

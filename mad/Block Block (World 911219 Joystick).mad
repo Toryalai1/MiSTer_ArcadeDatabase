@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>block</setname>
+   <alternative>no</alternative>
+   <name>Block Block (World 911219 Joystick)</name>
+   <region>World</region>
+   <year>1991</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 2</move_inputs>
+</misterarcadedescription>

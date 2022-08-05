@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bnjm</setname>
+   <alternative>yes</alternative>
+   <name>Bump 'n' Jump</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Racing</category>
+   <manufacturer>Data East</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

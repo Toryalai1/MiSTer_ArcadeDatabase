@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>candory</setname>
+   <alternative>yes</alternative>
+   <name>Candory</name>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Platform - Climb</category>
+   <manufacturer>bootleg</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <series>Mario</series>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

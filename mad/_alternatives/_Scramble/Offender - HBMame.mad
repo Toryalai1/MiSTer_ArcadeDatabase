@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>offender</setname>
+   <alternative>yes</alternative>
+   <name>Offender</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1998</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Konami</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>xmvsfu1d</setname>
+   <alternative>yes</alternative>
+   <name>X-Men Vs. Street Fighter (USA 961004 Phoenix Edition) (bootleg)</name>
+   <region>USA</region>
+   <year>1996</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

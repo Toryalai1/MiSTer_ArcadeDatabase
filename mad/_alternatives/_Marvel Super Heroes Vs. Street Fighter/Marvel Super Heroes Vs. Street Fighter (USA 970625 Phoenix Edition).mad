@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mshvsfu1d</setname>
+   <alternative>yes</alternative>
+   <name>Marvel Super Heroes Vs. Street Fighter (USA 970625 Phoenix Edition) (bootleg)</name>
+   <region>USA</region>
+   <year>1997</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

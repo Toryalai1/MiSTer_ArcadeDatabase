@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>fantzn2</setname>
+   <alternative>no</alternative>
+   <name>Fantasy Zone II - The Tears of Opa-Opa (MC-8123, 317-0057)</name>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1988</year>
+   <category>Shooter</category>
+   <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System E</platform>
+   <series>Fantasy Zone</series>
+   <players>1</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>xmcotar1d</setname>
+   <alternative>yes</alternative>
+   <name>X-Men: Children of the Atom (Euro 950105 Phoenix Edition) (bootleg)</name>
+   <region>Europe</region>
+   <year>1994</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

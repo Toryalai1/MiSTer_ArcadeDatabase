@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>280zzzap</setname>
+   <alternative>no</alternative>
+   <name>280Z-ZZAP</name>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
+   <year>1976</year>
+   <category>Racing</category>
+   <manufacturer>Dave Nutting Associates</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <players>1</players>
+   <special_controls>paddle</special_controls>
+</misterarcadedescription>

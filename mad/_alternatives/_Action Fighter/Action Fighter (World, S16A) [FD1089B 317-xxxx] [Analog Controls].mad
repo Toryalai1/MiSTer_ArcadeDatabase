@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>afighterd</setname>
+   <alternative>yes</alternative>
+   <name>Action Fighter (World, S16A) [FD1089B 317-xxxx] [Analog Controls]</name>
+   <region>World</region>
+   <year>1986</year>
+   <manufacturer>Sega</manufacturer>
+   <platform>SEGA S16A</platform>
+   <players>1</players>
+</misterarcadedescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>opaopan</setname>
+   <alternative>no</alternative>
+   <name>Opa Opa (Rev A, unprotected)</name>
+   <resolution>15kHz</resolution>
+   <year>1987</year>
+   <category>Maze</category>
+   <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System E</platform>
+   <series>Fantasy Zone</series>
+   <players>1</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

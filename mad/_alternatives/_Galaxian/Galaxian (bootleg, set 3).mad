@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>galaxbsf2</setname>
+   <alternative>yes</alternative>
+   <name>Galaxian</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1979</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <series>Galaxian</series>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

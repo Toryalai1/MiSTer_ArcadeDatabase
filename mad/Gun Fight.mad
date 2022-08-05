@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>gunfight</setname>
+   <alternative>no</alternative>
+   <name>Gun Fight</name>
+   <resolution>15kHz</resolution>
+   <year>1975</year>
+   <category>Arena</category>
+   <manufacturer>Dave Nutting Associates</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

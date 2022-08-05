@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ssf2xjr1d</setname>
+   <alternative>yes</alternative>
+   <name>
+Super Street Fighter II X: Grand Master Challenge (Japan 940223 Phoenix Edition) (bootleg)
+</name>
+   <region>Japan</region>
+   <year>1994</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sgemfd</setname>
+   <alternative>yes</alternative>
+   <name>Super Gem Fighter Mini Mix (USA 970904 Phoenix Edition) (bootleg)</name>
+   <region>USA</region>
+   <year>1997</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

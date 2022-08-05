@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ldrun3</setname>
+   <alternative>no</alternative>
+   <name>Lode Runner III- The Golden Labyrinth</name>
+   <resolution>15kHz</resolution>
+   <year>1985</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Irem</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Irem M62</platform>
+   <series>Lode Runner</series>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

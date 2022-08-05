@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>toryumon</setname>
+   <alternative>no</alternative>
+   <name>Toryumon</name>
+   <region>World</region>
+   <year>1994</year>
+   <manufacturer>Sega</manufacturer>
+   <platform>SEGA S16B</platform>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

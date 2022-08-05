@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>dokaben</setname>
+   <alternative>no</alternative>
+   <name>Dokaben (Japan)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Capcom</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>

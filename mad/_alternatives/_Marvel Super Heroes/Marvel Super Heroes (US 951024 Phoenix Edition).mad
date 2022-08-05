@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mshud</setname>
+   <alternative>yes</alternative>
+   <name>Marvel Super Heroes (US 951024 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1995</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

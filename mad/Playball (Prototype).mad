@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>playball</setname>
+   <alternative>no</alternative>
+   <name>Playball</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1983</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Williams</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <players>1</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

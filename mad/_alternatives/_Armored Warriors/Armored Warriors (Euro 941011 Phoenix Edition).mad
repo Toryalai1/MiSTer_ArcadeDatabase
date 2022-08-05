@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>armwar1d</setname>
+   <alternative>yes</alternative>
+   <name>Armored Warriors (Euro 941011 Phoenix Edition) (bootleg)</name>
+   <region>Europe</region>
+   <year>1994</year>
+   <category>Beat'em up</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>3</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

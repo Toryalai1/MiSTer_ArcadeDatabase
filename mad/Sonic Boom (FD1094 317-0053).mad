@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sonicbom</setname>
+   <alternative>no</alternative>
+   <name>Sonic Boom (FD1094 317-0053)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Sega</manufacturer>
+   <platform>SEGA S16B</platform>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sfw</setname>
+   <alternative>yes</alternative>
+   <name>Street Fighter (World) (protected)</name>
+   <region>World</region>
+   <year>1987</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+   <platform>Capcom M68000</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

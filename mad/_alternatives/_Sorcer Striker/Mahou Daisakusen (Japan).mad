@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mahoudai</setname>
+   <alternative>yes</alternative>
+   <name>Mahou Daisakusen (Japan)</name>
+   <region>Japan</region>
+   <year>1993</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Raizing (Able license)</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

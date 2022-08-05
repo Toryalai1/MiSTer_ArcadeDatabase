@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>kot</setname>
+   <alternative>no</alternative>
+   <name>Kot-Rybolov</name>
+   <resolution>15kHz</resolution>
+   <year>1988</year>
+   <category>Action</category>
+   <manufacturer>Terminal</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>TIAMC1</platform>
+   <num_buttons>2</num_buttons>
+   <players>1</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

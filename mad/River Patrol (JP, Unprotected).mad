@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rpatroln</setname>
+   <alternative>no</alternative>
+   <name>River Patrol</name>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1981</year>
+   <category>Sports</category>
+   <manufacturer>Orca</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

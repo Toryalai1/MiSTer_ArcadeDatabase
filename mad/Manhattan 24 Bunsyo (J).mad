@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>manhatan</setname>
+   <alternative>no</alternative>
+   <name>Manhattan 24 Bunsyo</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1986</year>
+   <category>Army / Fighter</category>
+   <manufacturer>Konami</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

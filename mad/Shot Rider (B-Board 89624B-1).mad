@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>shtrider</setname>
+   <alternative>no</alternative>
+   <name>Shot Rider</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1983</year>
+   <category>Racing</category>
+   <manufacturer>Capcom</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

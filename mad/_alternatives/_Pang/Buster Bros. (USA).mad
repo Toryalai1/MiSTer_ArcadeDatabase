@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bbros</setname>
+   <alternative>yes</alternative>
+   <name>Buster Bros. (USA)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Mitchell (Capcom license)</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>

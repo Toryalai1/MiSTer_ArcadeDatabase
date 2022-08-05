@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bgareggat2</setname>
+   <alternative>yes</alternative>
+   <name>Battle Garegga - Type 2 (Europe / USA / Japan / Asia) (Sat Mar 2 1996)</name>
+   <region>Japan</region>
+   <year>1996</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Raizing / Eighting</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

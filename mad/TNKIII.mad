@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>tnk3</setname>
+   <alternative>no</alternative>
+   <name>T.N.K III (US)</name>
+   <resolution>16.1785kHz</resolution>
+   <year>1985</year>
+   <category>Shooter / Driving Vertical</category>
+   <manufacturer>SNK</manufacturer>
+   <num_buttons>2</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 8-way,Positional</move_inputs>
+</misterarcadedescription>

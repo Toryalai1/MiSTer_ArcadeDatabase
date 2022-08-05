@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>batriderhk</setname>
+   <alternative>yes</alternative>
+   <name>Armed Police Batrider (Hong Kong) (Mon Dec 22 1997)</name>
+   <region>World</region>
+   <year>1998</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Raizing / Eighting</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>roboman</setname>
+   <alternative>yes</alternative>
+   <name>Robo Man</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1999</year>
+   <category>Maze</category>
+   <manufacturer>Runge Editing</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

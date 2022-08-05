@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>megamn2d</setname>
+   <alternative>yes</alternative>
+   <name>Mega Man 2: The Power Fighters (USA 960708 Phoenix Edition) (bootleg)</name>
+   <region>USA</region>
+   <year>1996</year>
+   <category>Platformer</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

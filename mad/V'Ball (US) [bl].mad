@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vballb</setname>
+   <alternative>no</alternative>
+   <name>U.S. Championship V'ball</name>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
+   <year>1988</year>
+   <category>Sports</category>
+   <manufacturer>Technos Japan</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>2</num_buttons>
+   <players>4</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

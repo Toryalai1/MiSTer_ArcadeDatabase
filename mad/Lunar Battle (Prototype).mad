@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>lunarbat</setname>
+   <alternative>no</alternative>
+   <name>Lunar Battle</name>
+   <resolution>31kHz</resolution>
+   <year>1982</year>
+   <category>Lander</category>
+   <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>3</num_buttons>
+   <players>1</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

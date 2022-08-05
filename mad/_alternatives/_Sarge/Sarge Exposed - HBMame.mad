@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sargex</setname>
+   <alternative>yes</alternative>
+   <name>Sarge Exposed</name>
+   <resolution>15kHz</resolution>
+   <year>2009</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Gatinho</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR3</platform>
+   <num_buttons>2</num_buttons>
+   <players>2 (simultaneous)</players>
+   <move_inputs>joystick 2-way vertical</move_inputs>
+   <special_controls>twin stick</special_controls>
+</misterarcadedescription>

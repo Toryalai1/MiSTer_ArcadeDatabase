@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>handiman</setname>
+   <alternative>yes</alternative>
+   <name>Handi-Man in Cyberworld</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1998</year>
+   <category>Maze</category>
+   <manufacturer>Bobby Tribble</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR</platform>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>shuffle</setname>
+   <alternative>no</alternative>
+   <name>Shuffleboard</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1978</year>
+   <category>Sports</category>
+   <manufacturer>Midway</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>1</players>
+   <special_controls>trackball</special_controls>
+</misterarcadedescription>

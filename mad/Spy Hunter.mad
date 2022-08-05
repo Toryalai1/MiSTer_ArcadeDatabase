@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>spyhunt</setname>
+   <alternative>no</alternative>
+   <name>Spy Hunter</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1983</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Bally</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR3</platform>
+   <num_buttons>1</num_buttons>
+   <players>1</players>
+   <special_controls>paddle / pedal</special_controls>
+</misterarcadedescription>

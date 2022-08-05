@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ffantasy</setname>
+   <alternative>yes</alternative>
+   <name>Fighting Fantasy (Japan revision 3)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Data East Corporation</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

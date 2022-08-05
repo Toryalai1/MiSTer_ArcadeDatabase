@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>rampage</setname>
+   <alternative>no</alternative>
+   <name>Rampage</name>
+   <resolution>15kHz</resolution>
+   <year>1986</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Bally</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Midway MCR3</platform>
+   <num_buttons>2</num_buttons>
+   <players>3</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

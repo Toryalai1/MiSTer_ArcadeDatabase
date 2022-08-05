@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>jackalr</setname>
+   <alternative>no</alternative>
+   <name>Jackal</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>World</region>
+   <year>1986</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Konami</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
+   <players>2 (simultaneous)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+   <special_controls>Rotary</special_controls>
+</misterarcadedescription>

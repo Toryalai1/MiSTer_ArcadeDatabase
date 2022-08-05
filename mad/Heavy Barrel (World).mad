@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>hbarrel</setname>
+   <alternative>no</alternative>
+   <name>Heavy Barrel (World)</name>
+   <region>World</region>
+   <year>1987</year>
+   <manufacturer>Data East Corporation</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

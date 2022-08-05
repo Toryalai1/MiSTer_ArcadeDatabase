@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bgareggahk</setname>
+   <alternative>yes</alternative>
+   <name>Battle Garegga (Austria / Hong Kong) (Sat Feb 3 1996)</name>
+   <region>World</region>
+   <year>1996</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Raizing / Eighting</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

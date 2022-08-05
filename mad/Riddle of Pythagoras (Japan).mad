@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ridleofp</setname>
+   <alternative>no</alternative>
+   <name>Riddle of Pythagoras (Japan)</name>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1986</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Sega / Nasco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System E</platform>
+   <players>1</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

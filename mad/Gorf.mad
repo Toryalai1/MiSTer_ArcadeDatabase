@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>gorf</setname>
+   <alternative>no</alternative>
+   <name>Gorf</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Dave Nutting Associates</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

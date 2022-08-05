@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>topgunbl</setname>
+   <alternative>no</alternative>
+   <name>Top Gunner</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <region>US</region>
+   <year>1986</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Konami</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>2</num_buttons>
+   <players>2 (simultaneous)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

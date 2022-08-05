@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>berzerkb</setname>
+   <alternative>yes</alternative>
+   <name>Berzerk</name>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Arena</category>
+   <manufacturer>Stern</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

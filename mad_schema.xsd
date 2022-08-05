@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="misterarcadedescription">
+    <xs:complexType>
+      <xs:all>
+        <!-- this is the only mandatory tag, it's used to uniquely identify a MRA -->
+        <xs:element name="setname" type="xs:string" />
+        
+        <xs:element name="name" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="parent_title" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="alternative" type="yes-no-type" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="resolution" type="resolution-type" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="cocktail" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="region" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="version" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="year" type="xs:unsignedShort" minOccurs="0" maxOccurs="1" />
+        
+        <!-- can be a comma separated list -->
+        <xs:element name="category" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <!-- can be a comma separated list -->
+        <xs:element name="manufacturer" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="homebrew" type="yes-no-type" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="bootleg" type="yes-no-type" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="enhancements" type="yes-no-type" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="translations" type="yes-no-type" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="hacks" type="yes-no-type" minOccurs="0" maxOccurs="1" />
+        
+        <!-- format is "list(xs:string)|position(xs:unsignedByte)", it can be a comma separated list -->
+        <!-- example: <best_of>IGN Best Arcades|1, Famitsu Top 1996|2</best_of> -->
+        <xs:element name="best_of" type="best-of-type" minOccurs="0" maxOccurs="1" />
+        
+        <!-- can be a comma separated list -->
+        <xs:element name="platform" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <!-- can be a comma separated list -->
+        <xs:element name="series" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="rotation" type="rotation-type" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="flip" type="yes-no-type" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="num_buttons" type="xs:unsignedByte" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="players" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <xs:element name="num_monitors" type="xs:unsignedByte" minOccurs="0" maxOccurs="1" />
+        
+        <!-- can be a comma separated list -->
+        <xs:element name="move_inputs" type="xs:string" minOccurs="0" maxOccurs="1" />
+        
+        <!-- can be a comma separated list -->
+        <xs:element name="special_controls" type="xs:string" minOccurs="0" maxOccurs="1" />
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="rotation-type">
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="horizontal"/>
+      <xs:enumeration value="vertical (cw)"/>
+      <xs:enumeration value="vertical (ccw)"/>
+      <xs:enumeration value="horizontal (180)"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="resolution-type">
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="15kHz"/>
+      <xs:enumeration value="24kHz"/>
+      <xs:enumeration value="31kHz"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="yes-no-type">
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="yes"/>
+      <xs:enumeration value="no"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="best-of-type">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[ -_'\(\)\[\];a-zA-Z0-9]+(\|[0-9]+)?(,\s*[ -_'\(\)\[\];a-zA-Z0-9]+(\|[0-9]+)?)*"/>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

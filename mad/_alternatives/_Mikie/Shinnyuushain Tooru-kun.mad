@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mikiej</setname>
+   <alternative>yes</alternative>
+   <name>Shinnyuushain Tooru-kun</name>
+   <region>World</region>
+   <year>1984</year>
+   <manufacturer>Konami</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>

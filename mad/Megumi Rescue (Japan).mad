@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>megrescu</setname>
+   <alternative>no</alternative>
+   <name>Megumi Rescue (Japan)</name>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1987</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Sega / Exa</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System E</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

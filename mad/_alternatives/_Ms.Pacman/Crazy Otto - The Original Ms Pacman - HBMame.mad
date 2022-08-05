@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ottopza</setname>
+   <alternative>yes</alternative>
+   <name>Crazy Otto - The Original Ms Pacman - HBMame</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>2018</year>
+   <category>Maze</category>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <series>Pac-Man</series>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

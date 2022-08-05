@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ecofghtrd</setname>
+   <alternative>yes</alternative>
+   <name>Eco Fighters (World 931203 Phoenix Edition) (bootleg)</name>
+   <region>World</region>
+   <year>1993</year>
+   <category>Shoot'em up</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

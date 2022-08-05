@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ebases</setname>
+   <alternative>no</alternative>
+   <name>Extra Bases</name>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Sports</category>
+   <manufacturer>Dave Nutting Associates</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (simultaneous)</players>
+   <special_controls>trackball</special_controls>
+</misterarcadedescription>

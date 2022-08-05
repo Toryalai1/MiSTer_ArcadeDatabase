@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>hangonjr</setname>
+   <alternative>no</alternative>
+   <name>Hang-On Jr. (Rev. B)</name>
+   <resolution>15kHz</resolution>
+   <year>1985</year>
+   <category>Driving</category>
+   <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Sega System E</platform>
+   <series>Hang-On</series>
+   <players>1</players>
+</misterarcadedescription>

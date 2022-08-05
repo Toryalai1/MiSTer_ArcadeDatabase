@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>konek</setname>
+   <alternative>no</alternative>
+   <name>Konek Gorbunok</name>
+   <resolution>15kHz</resolution>
+   <year>1988</year>
+   <category>Platform</category>
+   <manufacturer>Terminal</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>TIAMC1</platform>
+   <num_buttons>1</num_buttons>
+   <players>1</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

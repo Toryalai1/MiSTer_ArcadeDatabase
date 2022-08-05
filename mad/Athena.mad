@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>athena</setname>
+   <alternative>no</alternative>
+   <name>Athena</name>
+   <resolution>16.1785kHz</resolution>
+   <year>1986</year>
+   <category>Action</category>
+   <manufacturer>SNK</manufacturer>
+   <num_buttons>2</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

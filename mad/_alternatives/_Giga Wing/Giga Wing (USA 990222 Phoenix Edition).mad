@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>gigawingd</setname>
+   <alternative>yes</alternative>
+   <name>Giga Wing (USA 990222 Phoenix Edition) (bootleg)</name>
+   <region>USA</region>
+   <year>1999</year>
+   <category>Shoot'em up</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

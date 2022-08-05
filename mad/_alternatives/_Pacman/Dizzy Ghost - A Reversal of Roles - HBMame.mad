@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>dizzy</setname>
+   <alternative>yes</alternative>
+   <name>Dizzy Ghost- A Reversal of Roles</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>2000</year>
+   <category>Maze</category>
+   <manufacturer>Atari</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

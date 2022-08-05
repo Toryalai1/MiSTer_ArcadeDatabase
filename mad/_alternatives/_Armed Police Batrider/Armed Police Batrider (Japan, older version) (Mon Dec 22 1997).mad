@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>batriderja</setname>
+   <alternative>yes</alternative>
+   <name>Armed Police Batrider (Japan, older version) (Mon Dec 22 1997)</name>
+   <region>Japan</region>
+   <year>1998</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Raizing / Eighting</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

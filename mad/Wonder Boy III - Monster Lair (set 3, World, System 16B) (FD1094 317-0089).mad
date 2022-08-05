@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>wb33</setname>
+   <alternative>no</alternative>
+   <name>Wonder Boy III - Monster Lair (set 3, World, System 16B) (FD1094 317-0089)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Sega / Westone</manufacturer>
+   <platform>SEGA S16B</platform>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

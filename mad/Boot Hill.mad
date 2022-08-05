@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>boothill</setname>
+   <alternative>no</alternative>
+   <name>Boot Hill</name>
+   <resolution>15kHz</resolution>
+   <year>1977</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Dave Nutting Associates</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

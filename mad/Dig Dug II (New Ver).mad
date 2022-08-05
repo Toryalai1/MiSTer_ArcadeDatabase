@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>digdug2</setname>
+   <alternative>no</alternative>
+   <name>Dig Dug II</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1985</year>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Dig Dug</series>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

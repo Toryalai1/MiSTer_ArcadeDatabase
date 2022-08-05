@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>kamikazesp</setname>
+   <alternative>yes</alternative>
+   <name>Kamikaze</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Konami</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

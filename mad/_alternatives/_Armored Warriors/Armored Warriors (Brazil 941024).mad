@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>armwarb</setname>
+   <alternative>yes</alternative>
+   <name>Armored Warriors (Brazil 941024)</name>
+   <region>World</region>
+   <year>1994</year>
+   <category>Beat'em up</category>
+   <manufacturer>Capcom</manufacturer>
+   <platform>CPS-2</platform>
+   <players>3</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>housepty</setname>
+   <alternative>yes</alternative>
+   <name>House Party</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1998</year>
+   <category>Maze</category>
+   <manufacturer>Jerky</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

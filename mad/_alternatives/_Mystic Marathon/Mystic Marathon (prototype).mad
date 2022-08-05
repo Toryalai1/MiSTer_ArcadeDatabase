@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mysticm</setname>
+   <alternative>yes</alternative>
+   <name>Mystic Marathon (prototype)</name>
+   <resolution>15kHz</resolution>
+   <region>World</region>
+   <year>1983</year>
+   <category>Sports</category>
+   <manufacturer>Williams</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <players>2</players>
+</misterarcadedescription>

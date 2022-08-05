@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>batcird</setname>
+   <alternative>yes</alternative>
+   <name>Battle Circuit (Euro 970319 Phoenix Edition) (bootleg)</name>
+   <region>Europe</region>
+   <year>1997</year>
+   <category>Beat'em up</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>4</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

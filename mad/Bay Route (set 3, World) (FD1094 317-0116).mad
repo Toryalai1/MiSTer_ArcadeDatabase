@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bayroute</setname>
+   <alternative>no</alternative>
+   <name>Bay Route (set 3, World) (FD1094 317-0116)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Sunsoft / Sega</manufacturer>
+   <platform>SEGA S16B</platform>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

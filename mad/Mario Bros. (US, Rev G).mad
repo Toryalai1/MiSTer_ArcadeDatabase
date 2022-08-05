@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mario</setname>
+   <alternative>no</alternative>
+   <name>Mario Bros.</name>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
+   <year>1983</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Nintendo</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Mario</series>
+   <num_buttons>1</num_buttons>
+   <players>2 (simultaneous)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

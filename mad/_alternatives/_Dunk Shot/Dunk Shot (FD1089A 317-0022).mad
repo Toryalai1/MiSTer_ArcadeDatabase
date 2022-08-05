@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>dunkshoto</setname>
+   <alternative>yes</alternative>
+   <name>Dunk Shot (FD1089A 317-0022)</name>
+   <region>World</region>
+   <year>1986</year>
+   <manufacturer>Sega</manufacturer>
+   <platform>SEGA S16B</platform>
+   <players>4</players>
+</misterarcadedescription>

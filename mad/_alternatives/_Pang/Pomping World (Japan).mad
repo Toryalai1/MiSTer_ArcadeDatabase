@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>pompingw</setname>
+   <alternative>yes</alternative>
+   <name>Pomping World (Japan)</name>
+   <region>World</region>
+   <year>1989</year>
+   <manufacturer>Mitchell</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>

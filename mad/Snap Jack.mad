@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>snapjack</setname>
+   <alternative>no</alternative>
+   <name>Snap Jack</name>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Platform</category>
+   <manufacturer>Universal</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>breakout</setname>
+   <alternative>no</alternative>
+   <name>Breakout</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1976</year>
+   <category>Ball and Paddle</category>
+   <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Breakout</series>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <special_controls>rotary</special_controls>
+</misterarcadedescription>

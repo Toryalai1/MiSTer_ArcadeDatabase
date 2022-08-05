@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>sstrikerk</setname>
+   <alternative>yes</alternative>
+   <name>Sorcer Striker (Korea)</name>
+   <region>Korea</region>
+   <year>1993</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Raizing (Unite Trading license)</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

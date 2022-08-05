@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>ssf2ud</setname>
+   <alternative>yes</alternative>
+   <name>
+Super Street Fighter II: The New Challengers (USA 930911 Phoenix Edition) (bootleg)
+</name>
+   <region>USA</region>
+   <year>1993</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

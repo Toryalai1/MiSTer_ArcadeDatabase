@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>spangj</setname>
+   <alternative>yes</alternative>
+   <name>Super Pang (Japan 901023)</name>
+   <region>World</region>
+   <year>1990</year>
+   <manufacturer>Mitchell</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>

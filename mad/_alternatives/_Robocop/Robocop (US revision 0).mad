@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>robocopu0</setname>
+   <alternative>yes</alternative>
+   <name>Robocop (US revision 0)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Data East USA</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

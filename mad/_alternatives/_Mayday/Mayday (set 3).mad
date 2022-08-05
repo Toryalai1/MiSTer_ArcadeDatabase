@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>maydayb</setname>
+   <alternative>yes</alternative>
+   <name>Mayday</name>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Hoei</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>3</num_buttons>
+   <players>1</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

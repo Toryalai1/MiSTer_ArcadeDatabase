@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vigilantd</setname>
+   <alternative>yes</alternative>
+   <name>Vigilante (Japan, Rev D)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Irem</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

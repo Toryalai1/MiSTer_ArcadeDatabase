@@ -1,0 +1,25 @@
+name: Generate DBs
+
+on:
+  schedule:
+    - cron:  '0 12 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Generate DBs
+      run: |
+        set -euo pipefail
+        git config --global user.email "theypsilon@gmail.com"
+        git config --global user.name "The CI/CD Bot"
+        curl --fail --location https://raw.githubusercontent.com/theypsilon/MAD_Database_MiSTer/main/.github/generate_db.py > generate_db.py
+        chmod +x  generate_db.py
+        ./generate_db.py

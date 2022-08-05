@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>joust2r1</setname>
+   <alternative>yes</alternative>
+   <name>Joust 2 - Survival of the Fittest (revision 1)</name>
+   <resolution>15kHz</resolution>
+   <region>World</region>
+   <year>1986</year>
+   <manufacturer>Williams</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <players>2</players>
+</misterarcadedescription>

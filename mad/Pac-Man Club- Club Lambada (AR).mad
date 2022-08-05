@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>clubpacm</setname>
+   <alternative>no</alternative>
+   <name>Pac-Man Club- Club Lambada</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <region>Argentina</region>
+   <year>1989</year>
+   <category>Maze</category>
+   <manufacturer>Miky SRL</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Pac-Man</series>
+   <num_buttons>0</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

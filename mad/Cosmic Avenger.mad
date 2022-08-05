@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>cavenger</setname>
+   <alternative>no</alternative>
+   <name>Cosmic Avenger</name>
+   <resolution>15kHz</resolution>
+   <year>1981</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Universal</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

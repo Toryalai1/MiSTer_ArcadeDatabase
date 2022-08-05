@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>seawolf</setname>
+   <alternative>no</alternative>
+   <name>Sea Wolf</name>
+   <resolution>15kHz</resolution>
+   <year>1976</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Dave Nutting Associates</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Sea Wolf</series>
+   <num_buttons>1</num_buttons>
+   <players>1</players>
+   <special_controls>positional</special_controls>
+</misterarcadedescription>

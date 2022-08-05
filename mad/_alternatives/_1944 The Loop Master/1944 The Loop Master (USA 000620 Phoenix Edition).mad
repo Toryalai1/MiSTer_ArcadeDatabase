@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>1944d</setname>
+   <alternative>yes</alternative>
+   <name>1944: The Loop Master (USA 000620 Phoenix Edition) (bootleg)</name>
+   <region>USA</region>
+   <year>2000</year>
+   <category>Shoot'em up</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

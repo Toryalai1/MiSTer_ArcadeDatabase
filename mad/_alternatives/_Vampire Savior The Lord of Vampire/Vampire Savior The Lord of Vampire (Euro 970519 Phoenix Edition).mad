@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vsavd</setname>
+   <alternative>yes</alternative>
+   <name>Vampire Savior: The Lord of Vampire (Euro 970519 Phoenix Edition) (bootleg)</name>
+   <region>Europe</region>
+   <year>1997</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

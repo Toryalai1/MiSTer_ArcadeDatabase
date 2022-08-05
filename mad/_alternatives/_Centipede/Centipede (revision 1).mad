@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>centiped1</setname>
+   <alternative>yes</alternative>
+   <name>Centipede</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Atari</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>*pede</series>
+   <num_buttons>1</num_buttons>
+   <players>1</players>
+   <special_controls>trackball</special_controls>
+</misterarcadedescription>

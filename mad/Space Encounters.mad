@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>spcenctr</setname>
+   <alternative>no</alternative>
+   <name>Space Encounters</name>
+   <resolution>15kHz</resolution>
+   <year>1980</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Midway</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>1</players>
+   <special_controls>positional</special_controls>
+</misterarcadedescription>

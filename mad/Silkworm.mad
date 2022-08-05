@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>silkworm</setname>
+   <alternative>no</alternative>
+   <name>Silkworm</name>
+   <resolution>15kHz</resolution>
+   <year>1988</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Tecmo</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Tecmo</platform>
+   <num_buttons>3</num_buttons>
+   <players>2 (simultaneous)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

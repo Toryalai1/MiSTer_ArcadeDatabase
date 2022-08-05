@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>vectrped</setname>
+   <alternative>yes</alternative>
+   <name>Vectorpede</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1998</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Atari</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>1</players>
+   <special_controls>trackball</special_controls>
+</misterarcadedescription>

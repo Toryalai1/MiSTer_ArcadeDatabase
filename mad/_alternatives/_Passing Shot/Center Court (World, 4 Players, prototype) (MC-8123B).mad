@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>cencourt</setname>
+   <alternative>yes</alternative>
+   <name>Center Court (World, 4 Players, prototype) (MC-8123B)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Sega</manufacturer>
+   <platform>SEGA S16B</platform>
+   <players>4</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

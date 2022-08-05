@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bgareggat</setname>
+   <alternative>yes</alternative>
+   <name>Battle Garegga (location test) (Wed Jan 17 1996)</name>
+   <region>World</region>
+   <year>1996</year>
+   <manufacturer>Raizing / Eighting</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

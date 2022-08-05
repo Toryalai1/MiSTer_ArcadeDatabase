@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>youjyudn</setname>
+   <alternative>no</alternative>
+   <name>Youjyuden</name>
+   <flip>broken</flip>
+   <resolution>15kHz</resolution>
+   <region>Japan</region>
+   <year>1986</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Irem</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <platform>Irem M62</platform>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

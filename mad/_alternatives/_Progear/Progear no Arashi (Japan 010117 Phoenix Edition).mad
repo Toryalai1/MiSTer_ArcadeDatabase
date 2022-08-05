@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>progearjd</setname>
+   <alternative>yes</alternative>
+   <name>Progear no Arashi (Japan 010117 Phoenix Edition) (bootleg)</name>
+   <region>Japan</region>
+   <year>2001</year>
+   <category>Shoot'em up</category>
+   <manufacturer>bootleg</manufacturer>
+   <platform>CPS-2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>alibaba</setname>
+   <alternative>no</alternative>
+   <name>Ali Baba and 40 Thieves</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Maze</category>
+   <manufacturer>Sega</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

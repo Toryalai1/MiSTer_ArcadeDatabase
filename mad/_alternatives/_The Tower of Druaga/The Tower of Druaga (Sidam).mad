@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>todruagas</setname>
+   <alternative>yes</alternative>
+   <name>The Tower of Druaga</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1984</year>
+   <category>Maze</category>
+   <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

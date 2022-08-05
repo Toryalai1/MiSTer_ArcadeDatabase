@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>tturf</setname>
+   <alternative>no</alternative>
+   <name>Tough Turf (set 2, Japan) (8751 317-0104)</name>
+   <region>Japan</region>
+   <year>1989</year>
+   <manufacturer>Sega / Sunsoft</manufacturer>
+   <platform>SEGA S16B</platform>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

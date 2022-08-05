@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>shippumd</setname>
+   <alternative>yes</alternative>
+   <name>Shippu Mahou Daisakusen (Japan)</name>
+   <region>Japan</region>
+   <year>1994</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Raizing / Eighting</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

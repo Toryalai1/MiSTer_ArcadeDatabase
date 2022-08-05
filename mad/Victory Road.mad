@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>victroad</setname>
+   <alternative>no</alternative>
+   <name>Victory Road</name>
+   <resolution>16.1785kHz</resolution>
+   <year>1986</year>
+   <category>Action</category>
+   <manufacturer>SNK</manufacturer>
+   <num_buttons>2</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+   <special_controls>Rotary</special_controls>
+</misterarcadedescription>

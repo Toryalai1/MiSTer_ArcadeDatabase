@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>splat</setname>
+   <alternative>no</alternative>
+   <name>Splat!</name>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Williams</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

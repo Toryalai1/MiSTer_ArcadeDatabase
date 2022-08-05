@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>solomon</setname>
+   <alternative>no</alternative>
+   <name>Solomon's Key </name>
+   <resolution>15kHz</resolution>
+   <year>1986</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Tecmo</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>2</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

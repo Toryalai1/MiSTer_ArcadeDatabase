@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>invadpt2</setname>
+   <alternative>no</alternative>
+   <name>Space Invaders Part II</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1979</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Taito</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Space Invaders</series>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 2-way horizontal</move_inputs>
+</misterarcadedescription>

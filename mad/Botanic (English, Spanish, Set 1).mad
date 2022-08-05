@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>botanic</setname>
+   <alternative>no</alternative>
+   <name>Botanic</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1983</year>
+   <category>Maze</category>
+   <manufacturer>Itisa</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 4-way</move_inputs>
+</misterarcadedescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>robotron12</setname>
+   <alternative>yes</alternative>
+   <name>Robotron 2084</name>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Arena</category>
+   <manufacturer>Williams</manufacturer>
+   <homebrew>yes</homebrew>
+   <bootleg>no</bootleg>
+   <num_buttons>4</num_buttons>
+   <players>1</players>
+   <move_inputs>joystick 8-way</move_inputs>
+   <special_controls>twin stick</special_controls>
+</misterarcadedescription>

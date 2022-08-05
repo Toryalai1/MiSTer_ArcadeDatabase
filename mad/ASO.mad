@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>aso</setname>
+   <alternative>no</alternative>
+   <name>ASO - Armored Scrum Object</name>
+   <resolution>16.1785kHz</resolution>
+   <year>1985</year>
+   <category>Shooter / Flying Vertical</category>
+   <manufacturer>SNK</manufacturer>
+   <num_buttons>3</num_buttons>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

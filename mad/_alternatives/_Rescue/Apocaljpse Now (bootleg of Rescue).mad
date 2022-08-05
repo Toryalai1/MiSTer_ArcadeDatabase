@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>aponow</setname>
+   <alternative>yes</alternative>
+   <name>Apocaljpse now</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <year>1982</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>bootleg</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>yes</bootleg>
+   <num_buttons>4</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+   <special_controls>twin stick</special_controls>
+</misterarcadedescription>

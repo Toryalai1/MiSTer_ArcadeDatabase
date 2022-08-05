@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>bbakraidj</setname>
+   <alternative>yes</alternative>
+   <name>Battle Bakraid - Unlimited Version (Japan) (Tue Jun 8 1999)</name>
+   <region>Japan</region>
+   <year>1999</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Eighting</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

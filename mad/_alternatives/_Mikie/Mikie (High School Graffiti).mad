@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>mikiehs</setname>
+   <alternative>yes</alternative>
+   <name>Mikie (High School Graffiti)</name>
+   <region>World</region>
+   <year>1984</year>
+   <manufacturer>Konami</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 4</move_inputs>
+</misterarcadedescription>

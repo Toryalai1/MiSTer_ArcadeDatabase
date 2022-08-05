@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>baddudes</setname>
+   <alternative>no</alternative>
+   <name>Bad Dudes vs. Dragonninja (US revision 1)</name>
+   <region>World</region>
+   <year>1988</year>
+   <manufacturer>Data East USA</manufacturer>
+   <players>2</players>
+   <move_inputs>joystick 8</move_inputs>
+</misterarcadedescription>

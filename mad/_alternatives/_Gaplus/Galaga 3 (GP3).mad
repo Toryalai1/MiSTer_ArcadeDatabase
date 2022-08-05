@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>galaga3b</setname>
+   <alternative>yes</alternative>
+   <name>Galaga 3</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <year>1984</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Namco</manufacturer>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <series>Galaxian</series>
+   <num_buttons>1</num_buttons>
+   <players>2 (alternating)</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>

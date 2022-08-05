@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <setname>batrider</setname>
+   <alternative>yes</alternative>
+   <name>Armed Police Batrider (Europe) (Fri Feb 13 1998)</name>
+   <region>Europe</region>
+   <year>1998</year>
+   <category>Shoot'em up</category>
+   <manufacturer>Raizing / Eighting</manufacturer>
+   <platform>Toaplan 2</platform>
+   <players>2</players>
+   <move_inputs>joystick 8-way</move_inputs>
+</misterarcadedescription>
