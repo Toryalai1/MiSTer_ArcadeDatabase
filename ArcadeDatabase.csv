@@ -309,8 +309,8 @@ dotrona,Discs of Tron (Alt.),,Alt.,yes,Discs of Tron,Midway MCR3,,no,no,1983,Bal
 dizzy,Dizzy Ghost- A Reversal of Roles [hb],,,yes,Pac-Man,,,yes,no,1980,Atari,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 ddonpach,DoDonPachi,World,,no,,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddonpach,DoDonPachi Trainer (Japan),Japan,,yes,DoDonPachi,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
-ddonpach,DoDonPachi (Arrange),,Arrange V1.1,yes,DoDonPachi,CAVE 68000,,yes,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
-ddonpach,DoDonPachi (Japan),Japan,,yes,DoDonPachi,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+ddonpacha,DoDonPachi (Arrange),,Arrange V1.1,yes,DoDonPachi,CAVE 68000,,yes,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+ddonpachj,DoDonPachi (Japan),Japan,,yes,DoDonPachi,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 domino,Domino Man,,,no,,Midway MCR2,,no,no,1982,Bally / Midway,Action,,15kHz,horizontal,,,2 (alternating),4-way,,1
 dominos,Dominos,,,no,,,,no,no,1977,Atari,Maze,,15kHz,horizontal,,,2 (simultaneous),4-way,,0
 dkong2m,Donkey Kong (2 Marios) [hb],,2 Marios,yes,Donkey Kong,,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
@@ -337,7 +337,7 @@ dkpace,Donkey Kong Pace (Pace) [hb],,Pace,yes,Donkey Kong,,Donkey Kong,yes,no,19
 dkongrev,Donkey Kong Reverse [hb],,,yes,Donkey Kong,,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dktrainer,Donkey Kong Trainer (v1.01) [hb],,v1.01,yes,Donkey Kong,,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 donpachi,Donpachi,World,,no,DonPachi,CAVE 68000,,no,no,1995,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2(simutaneous),8-way,,3
-donpachi,Donpachi (Japan),Japan,,no,DonPachi,CAVE 68000,,no,no,1995,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2(simutaneous),8-way,,3
+donpachij,Donpachi (Japan),Japan,,no,DonPachi,CAVE 68000,,no,no,1995,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2(simutaneous),8-way,,3
 dorodon,Dorodon (Set 1),,Set 1,no,,,,no,no,1982,UPL,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,0
 dorodon2,Dorodon (Set 2),,Set 2,yes,Dorodon,,,no,no,1982,UPL,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,0
 dotrikun,Dottori-Kun (New),,New,no,,Dottori-Kun,,no,no,1990,Sega,Maze,,15kHz,horizontal,no,,1,8-way,,2
@@ -418,7 +418,7 @@ fantzone,"Fantasy Zone (W, Rev A)",World,"Rev A, No Protection",no,,Sega System 
 fantzn2,"Fantasy Zone II - The Tears of Opa-Opa (MC-8123, 317-0057)",Japan,"MC8123, 317-0057",no,,Sega System E,,no,no,1988,Sega,Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
 fastlane,Fast Lane (W),World,,no,,,,no,no,1987,Konami,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 fenixn,Fenix (Niemer) [bl],,Niemer,yes,Phoenix,,,no,yes,1980,Niemer,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
-dfeveron,Fever SOS,World,,yes,Dangun Feveron,CAVE 68000,,no,no,1998,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+feversos,Fever SOS,World,,yes,Dangun Feveron,CAVE 68000,,no,no,1998,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ffightj1,"Final Fight (JP, 900112)",Japan,900112,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightj2,"Final Fight (JP, 900305)",Japan,900305,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightj3,"Final Fight (JP, 900405)",Japan,900405,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
@@ -451,7 +451,6 @@ frogger,Frogger (Konami Bugfixed),,Konami Bugfixed,no,,,,no,no,1981,Konami,Platf
 frogger,"Frogger (Sega, Set 2)",,"Sega, Set 2",no,,,,no,no,1981,Konami,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 futurespy,Future Spy,,,no,,,,,,1982,Sega/Gremlin,Shooter - Isometric,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 gaia,Gaia Crusaders,World,,no,Gaia Crusaders,CAVE 68000,,no,no,1999,CAVE,Fighting,,15kHz,no,no,,2 (simutaneous),8-way,,4
-gaia,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighting,,15kHz,no,no,,2 (simutaneous),8-way,,4
 galagaef,Galaga (Enduring Freedom) [hb],,,yes,Galaga,,Galaga,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 galagamf,"Galaga (Fast Shoot, Set 1)",,"Fast Shoot, Set 1",yes,Galaga,,Galaga,no,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 galagads,Galaga (Fast Shoot) [hb],,Fast Shoot,yes,Galaga,,Galaga,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -555,7 +554,7 @@ gunsmokej,"Gun Smoke (JP, 851115)",Japan,851115,yes,Gun Smoke,Capcom CPS-0,,no,n
 gunsmokeua,"Gun Smoke (US, 851115, Set 1)",USA,"851115, Set 1",yes,Gun Smoke,Capcom CPS-0,,no,no,1985,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
 gunsmokeub,"Gun Smoke (US, 851115, Set 2)",USA,"851115, Set 2",yes,Gun Smoke,Capcom CPS-0,,no,no,1986,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
 gunsmokeu,"Gun Smoke (US, 860408)",USA,860408,yes,Gun Smoke,Capcom CPS-0,,no,no,1986,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
-guwange,Guwange (Special),World,Special,yes,Guwange,CAVE 68000,,no,no,1999,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+guwanges,Guwange (Special),World,Special,yes,Guwange,CAVE 68000,,no,no,1999,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 guwange,Guwange,World,,no,,CAVE 68000,,no,no,1999,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 gyruss,Gyruss,,,yes,Gyruss,,,no,no,1983,Konami,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 gyrussce,Gyruss (Centuri),,Centuri,yes,Gyruss,,,no,no,1983,Konami / Centuri,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
@@ -941,7 +940,7 @@ puckmoti,Puckmotik [hb],,,yes,Pac-Man,,Pac-Man,yes,no,1980,Hebus,Maze,,15kHz,ver
 pzloop2,"Puzz Loop 2 (EU, 010302)",Europe,010302,no,,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
 pzloop2jr1,"Puzz Loop 2 (JP, 010205)",Japan,010205,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
 pzloop2j,"Puzz Loop 2 (JP, 010226)",Japan,010226,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
-uopoko,Puzzle Uo Poko (Japan),Japan,,yes,Puzzle Uo Poko,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
+uopokoj,Puzzle Uo Poko (Japan),Japan,,yes,Puzzle Uo Poko,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
 uopoko,Puzzle Uo Poko,World,,no,,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
 qbert,"Q'bert (US, Set 1)",USA,Set 1,no,,,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,vertical (ccw),yes,,2 (alternating),4-way diagonal,,0
 qbertqub,Q'bert Qubes,,,no,,,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,,,,2 (alternating),4-way diagonal,,0
@@ -1288,6 +1287,7 @@ theend,The End,,,no,,,,no,no,1980,Konami,Shooter - Gallery,,15kHz,vertical (cw),
 theend,The End (BKG),,BKG,no,,,,no,no,1980,Konami,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 theends,The End (Stern),,Stern,yes,The End,,,no,no,1980,Konami / Stern,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 theglobp,The Glob (Pac-Man Hardware),,Pac-Man Hardware,no,,,,no,no,1983,Epos Corporation,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
+theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighting,,15kHz,no,no,,2 (simutaneous),8-way,,4
 kodja,"The King of Dragons (JP, B-Board, 89625B-1)",Japan,"B-Board, 89625B-1",yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
 kodj,"The King of Dragons (JP, B-Board, 90629B-3)",Japan,"B-Board, 90629B-3",yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
 kodu,"The King of Dragons (US, 910910)",USA,910910,yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
