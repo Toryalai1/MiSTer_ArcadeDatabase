@@ -5,7 +5,7 @@
 	<name>Puzzle Uo Poko (Japan)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Puzzle Uo Poko</parent_title>
 	<platform>CAVE 68000</platform>
 	<series></series>

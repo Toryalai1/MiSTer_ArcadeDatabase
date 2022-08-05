@@ -5,7 +5,7 @@
 	<name>Fever SOS</name>
 	<region>World</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Dangun Feveron</parent_title>
 	<platform>CAVE 68000</platform>
 	<series></series>

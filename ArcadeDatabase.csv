@@ -310,7 +310,7 @@ dizzy,Dizzy Ghost- A Reversal of Roles [hb],,,yes,Pac-Man,,,yes,no,1980,Atari,Ma
 ddonpach,DoDonPachi,World,,no,,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ,DoDonPachi Trainer (Japan),Japan,Trainer,yes,DoDonPachi,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddonpacha,DoDonPachi (Arrange),,Arrange V1.1,yes,DoDonPachi,CAVE 68000,,yes,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
-ddonpachj,DoDonPachi (Japan),Japan,,yes,DoDonPachi,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+ddonpachj,DoDonPachi (Japan),Japan,,no,DoDonPachi,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 domino,Domino Man,,,no,,Midway MCR2,,no,no,1982,Bally / Midway,Action,,15kHz,horizontal,,,2 (alternating),4-way,,1
 dominos,Dominos,,,no,,,,no,no,1977,Atari,Maze,,15kHz,horizontal,,,2 (simultaneous),4-way,,0
 dkong2m,Donkey Kong (2 Marios) [hb],,2 Marios,yes,Donkey Kong,,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
@@ -418,7 +418,7 @@ fantzone,"Fantasy Zone (W, Rev A)",World,"Rev A, No Protection",no,,Sega System 
 fantzn2,"Fantasy Zone II - The Tears of Opa-Opa (MC-8123, 317-0057)",Japan,"MC8123, 317-0057",no,,Sega System E,,no,no,1988,Sega,Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
 fastlane,Fast Lane (W),World,,no,,,,no,no,1987,Konami,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 fenixn,Fenix (Niemer) [bl],,Niemer,yes,Phoenix,,,no,yes,1980,Niemer,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
-feversos,Fever SOS,World,,yes,Dangun Feveron,CAVE 68000,,no,no,1998,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+feversos,Fever SOS,World,,no,Dangun Feveron,CAVE 68000,,no,no,1998,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ffightj1,"Final Fight (JP, 900112)",Japan,900112,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightj2,"Final Fight (JP, 900305)",Japan,900305,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightj3,"Final Fight (JP, 900405)",Japan,900405,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
@@ -940,7 +940,7 @@ puckmoti,Puckmotik [hb],,,yes,Pac-Man,,Pac-Man,yes,no,1980,Hebus,Maze,,15kHz,ver
 pzloop2,"Puzz Loop 2 (EU, 010302)",Europe,010302,no,,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
 pzloop2jr1,"Puzz Loop 2 (JP, 010205)",Japan,010205,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
 pzloop2j,"Puzz Loop 2 (JP, 010226)",Japan,010226,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
-uopokoj,Puzzle Uo Poko (Japan),Japan,,yes,Puzzle Uo Poko,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
+uopokoj,Puzzle Uo Poko (Japan),Japan,,no,Puzzle Uo Poko,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
 uopoko,Puzzle Uo Poko,World,,no,,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
 qbert,"Q'bert (US, Set 1)",USA,Set 1,no,,,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,vertical (ccw),yes,,2 (alternating),4-way diagonal,,0
 qbertqub,Q'bert Qubes,,,no,,,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,,,,2 (alternating),4-way diagonal,,0
