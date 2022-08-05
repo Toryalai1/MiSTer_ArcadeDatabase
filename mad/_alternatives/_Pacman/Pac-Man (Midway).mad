@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<misterarcadedescription>
-   <setname>pacman</setname>
-   <alternative>yes</alternative>
-   <name>Pac-Man (Midway)</name>
-   <year>1980</year>
-   <category>Maze / Pac-Man</category>
-   <manufacturer>Namco (Midway license)</manufacturer>
-</misterarcadedescription>
