@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddonpach</setname>
+	<setname></setname>
 	<name>DoDonPachi Trainer (Japan)</name>
 	<region>Japan</region>
-	<version></version>
+	<version>Trainer</version>
 	<alternative>yes</alternative>
 	<parent_title>DoDonPachi</parent_title>
 	<platform>CAVE 68000</platform>
