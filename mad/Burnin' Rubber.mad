@@ -1,16 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>brubber</setname>
-   <alternative>no</alternative>
-   <name>Burnin' Rubber</name>
-   <flip>no</flip>
-   <resolution>15kHz</resolution>
-   <year>1982</year>
-   <category>Racing</category>
-   <manufacturer>Data East</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>brubber</setname>
+	<name>Burnin' Rubber</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Data East</manufacturer>
+	<category>Racing</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

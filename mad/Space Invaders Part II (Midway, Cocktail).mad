@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>invad2ct</setname>
+	<name>Space Invaders Part II (Midway, Cocktail)</name>
+	<region></region>
+	<version>Midway, Cocktail</version>
+	<alternative>yes</alternative>
+	<parent_title>Space Invaders</parent_title>
+	<platform></platform>
+	<series>Space Invaders</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

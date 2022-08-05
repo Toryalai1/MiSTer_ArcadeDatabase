@@ -1,15 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>silvland</setname>
-   <alternative>no</alternative>
-   <name>Silver Land</name>
-   <resolution>15kHz</resolution>
-   <year>1981</year>
-   <category>Sports</category>
-   <manufacturer>Falcon</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+
+	<setname>silvland</setname>
+	<name>Silver Land</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Falcon</manufacturer>
+	<category>Sports</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

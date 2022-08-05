@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>hbarrel</setname>
+	<name>Heavy Barrel (W)</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Heavy Barrel</parent_title>
+	<platform>DATA EAST MEC-M1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Data East</manufacturer>
+	<category>Run 'n' Gun - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>twin stick</special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

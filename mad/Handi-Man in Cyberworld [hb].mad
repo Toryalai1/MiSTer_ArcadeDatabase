@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>handiman</setname>
+	<name>Handi-Man in Cyberworld [hb]</name>
+	<region></region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Tron</parent_title>
+	<platform>Midway MCR</platform>
+	<series></series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Bobby Tribble</manufacturer>
+	<category>Maze</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

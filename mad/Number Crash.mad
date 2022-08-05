@@ -1,17 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>numcrash</setname>
-   <alternative>no</alternative>
-   <name>Number Crash</name>
-   <flip>no</flip>
-   <resolution>15kHz</resolution>
-   <year>1980</year>
-   <category>Platform</category>
-   <manufacturer>Hanshin Goraku / Peni</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <series>Pac-Man</series>
-   <num_buttons>1</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 4-way</move_inputs>
+
+	<setname>numcrash</setname>
+	<name>Number Crash</name>
+	<region></region>
+	<version>Set 1</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series>Pac-Man</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Hanshin Goraku</manufacturer>
+	<manufacturer>Peni</manufacturer>
+	<category>Platform</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>1</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
 </misterarcadedescription>

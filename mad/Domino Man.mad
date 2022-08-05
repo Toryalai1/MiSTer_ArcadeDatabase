@@ -1,16 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>domino</setname>
-   <alternative>no</alternative>
-   <name>Domino Man</name>
-   <resolution>15kHz</resolution>
-   <year>1982</year>
-   <category>Action</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR2</platform>
-   <num_buttons>1</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 4-way</move_inputs>
+
+	<setname>domino</setname>
+	<name>Domino Man</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Midway MCR2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Action</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

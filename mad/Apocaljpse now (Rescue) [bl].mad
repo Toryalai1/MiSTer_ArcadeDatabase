@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>aponow</setname>
+	<name>Apocaljpse now (Rescue) [bl]</name>
+	<region></region>
+	<version>Rescue</version>
+	<alternative>yes</alternative>
+	<parent_title>Rescue</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1982</year>
+	<manufacturer></manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>twin stick</special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

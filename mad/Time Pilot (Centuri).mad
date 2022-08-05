@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>timepltc</setname>
+	<name>Time Pilot (Centuri)</name>
+	<region></region>
+	<version>Centuri</version>
+	<alternative>yes</alternative>
+	<parent_title>Time Pilot</parent_title>
+	<platform></platform>
+	<series>Time Pilot</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Konami</manufacturer>
+	<manufacturer>Centuri</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

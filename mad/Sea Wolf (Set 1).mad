@@ -1,16 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>seawolf</setname>
-   <alternative>no</alternative>
-   <name>Sea Wolf</name>
-   <resolution>15kHz</resolution>
-   <year>1976</year>
-   <category>Shooter - Gallery</category>
-   <manufacturer>Dave Nutting Associates</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <series>Sea Wolf</series>
-   <num_buttons>1</num_buttons>
-   <players>1</players>
-   <special_controls>positional</special_controls>
+
+	<setname>seawolf</setname>
+	<name>Sea Wolf (Set 1)</name>
+	<region></region>
+	<version>Set 1</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series>Sea Wolf</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1976</year>
+	<manufacturer>Dave Nutting Associates</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs></move_inputs>
+	<special_controls>positional</special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

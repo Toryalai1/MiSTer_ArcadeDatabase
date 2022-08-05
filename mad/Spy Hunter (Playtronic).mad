@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>spyhuntp</setname>
+	<name>Spy Hunter (Playtronic)</name>
+	<region></region>
+	<version>Playtronic</version>
+	<alternative>yes</alternative>
+	<parent_title>Spy Hunter</parent_title>
+	<platform>Midway MCR3</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1983</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<manufacturer>Playtronic</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>5</num_buttons>
+</misterarcadedescription>

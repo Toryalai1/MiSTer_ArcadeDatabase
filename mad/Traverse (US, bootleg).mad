@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>travrusab</setname>
+	<name>Traverse (US, bootleg)</name>
+	<region>USA</region>
+	<version>bootleg</version>
+	<alternative>yes</alternative>
+	<parent_title>Traverse USA</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1983</year>
+	<manufacturer>Irem</manufacturer>
+	<manufacturer>Broderbund</manufacturer>
+	<category>Racing</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

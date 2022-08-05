@@ -1,15 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>slapshtr</setname>
-   <alternative>no</alternative>
-   <name>Slap Shooter</name>
-   <resolution>15kHz</resolution>
-   <year>1986</year>
-   <category>Sports / Hockey</category>
-   <manufacturer>Sega</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Sega System E</platform>
-   <players>1</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>slapshtr</setname>
+	<name>Slap Shooter</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega System E</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Sports</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -1,13 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>sf</setname>
-   <alternative>no</alternative>
-   <name>Street Fighter (US, set 1)</name>
-   <region>World</region>
-   <year>1987</year>
-   <category>Fighting</category>
-   <manufacturer>Capcom</manufacturer>
-   <platform>Capcom M68000</platform>
-   <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>sf</setname>
+	<name>Street Fighter (US, Set 1)</name>
+	<region>USA</region>
+	<version>Set 1</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Capcom CPS-0</platform>
+	<series>Street Fighter</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>

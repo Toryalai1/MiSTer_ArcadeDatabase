@@ -1,17 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>scramble</setname>
-   <alternative>no</alternative>
-   <name>Scramble</name>
-   <flip>yes</flip>
-   <resolution>15kHz</resolution>
-   <year>1981</year>
-   <category>Shooter - Horizontal</category>
-   <manufacturer>Konami</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <series>Scramble</series>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>scramble</setname>
+	<name>Scramble (Stern, Set 1)</name>
+	<region></region>
+	<version>Stern, Set 1</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series>Scramble</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

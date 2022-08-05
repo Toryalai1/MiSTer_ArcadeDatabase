@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>nwarrb</setname>
+	<name>Night Warriors- Darkstalkers' Revenge (W, 950403)</name>
+	<region>World</region>
+	<version>950403</version>
+	<alternative>yes</alternative>
+	<parent_title>Night Warriors- Darkstalkers' Revenge</parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series>Darkstalkers</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>6</num_buttons>
+</misterarcadedescription>

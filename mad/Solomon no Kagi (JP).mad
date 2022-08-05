@@ -1,16 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>solomonj</setname>
-   <alternative>no</alternative>
-   <name>Solomon no Kagi</name>
-   <resolution>15kHz</resolution>
-   <region>Japan</region>
-   <year>1986</year>
-   <category>Platform - Climb</category>
-   <manufacturer>Tecmo</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>solomonj</setname>
+	<name>Solomon no Kagi (JP)</name>
+	<region>Japan</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Solomon's Key</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Tecmo</manufacturer>
+	<category>Platform - Climb</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

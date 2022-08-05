@@ -1,16 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>rushatck</setname>
-   <alternative>no</alternative>
-   <name>Rush'n Attack</name>
-   <resolution>15kHz</resolution>
-   <region>USA</region>
-   <year>1985</year>
-   <category>Run 'n' Gun - Horizontal</category>
-   <manufacturer>Konami</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>rushatck</setname>
+	<name>Rush'n Attack (US)</name>
+	<region>USA</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Green Beret</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Run 'n' Gun - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

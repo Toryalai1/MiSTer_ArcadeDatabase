@@ -1,17 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>maxrpm</setname>
-   <alternative>no</alternative>
-   <name>Max RPM</name>
-   <resolution>15kHz</resolution>
-   <year>1986</year>
-   <category>Racing</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR3</platform>
-   <num_buttons>2</num_buttons>
-   <players>2 (simultaneous)</players>
-   <move_inputs>joystick 2-way vertical</move_inputs>
-   <special_controls>paddle / pedal</special_controls>
+
+	<setname>maxrpm</setname>
+	<name>Max RPM (v2)</name>
+	<region></region>
+	<version>v2</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Midway MCR3</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Racing</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>2-way vertical</move_inputs>
+	<special_controls>paddle / pedal</special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

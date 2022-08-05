@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>aurail1</setname>
+	<name>Aurail (W, Set 2)</name>
+	<region>World</region>
+	<version>Set 2, FD1089B 317-0168</version>
+	<alternative>yes</alternative>
+	<parent_title>Aurail</parent_title>
+	<platform>Sega System 16B</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>pang3j</setname>
+	<name>Pang! 3- Kaitou Tachi no Karei na Gogo (JP, 920312)</name>
+	<region>Japan</region>
+	<version>920312</version>
+	<alternative>yes</alternative>
+	<parent_title>Pang! 3</parent_title>
+	<platform>Capcom CPS-1</platform>
+	<series>Pang!</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Ball and Paddle</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

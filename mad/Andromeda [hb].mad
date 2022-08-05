@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>andromd</setname>
+	<name>Andromeda [hb]</name>
+	<region></region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Galaxian</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1979</year>
+	<manufacturer>hack</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

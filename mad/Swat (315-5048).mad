@@ -1,17 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>swat</setname>
-   <alternative>no</alternative>
-   <name>Swat</name>
-   <flip>no</flip>
-   <resolution>15kHz</resolution>
-   <year>1984</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Sega</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Sega System 1</platform>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 4-way</move_inputs>
+
+	<setname>swat</setname>
+	<name>SWAT (315-5048)</name>
+	<region></region>
+	<version>315-5048</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega System 1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

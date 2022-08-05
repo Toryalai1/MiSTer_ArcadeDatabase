@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>arktayt2</setname>
+	<name>Arkanoid (Tayto, Harder) [bl]</name>
+	<region></region>
+	<version>Tayto, Harder</version>
+	<alternative>yes</alternative>
+	<parent_title>Arkanoid</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1986</year>
+	<manufacturer>Taito</manufacturer>
+	<category>Ball and Paddle</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs></move_inputs>
+	<special_controls>spinner</special_controls>
+	<num_buttons>0</num_buttons>
+</misterarcadedescription>

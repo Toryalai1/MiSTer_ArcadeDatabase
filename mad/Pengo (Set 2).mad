@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>pengo2</setname>
+	<name>Pengo (Set 2)</name>
+	<region></region>
+	<version>Set 2</version>
+	<alternative>yes</alternative>
+	<parent_title>Pengo</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Maze</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

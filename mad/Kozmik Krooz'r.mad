@@ -1,17 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>kroozr</setname>
-   <alternative>no</alternative>
-   <name>Kozmik Krooz'r</name>
-   <resolution>15kHz</resolution>
-   <year>1983</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR2</platform>
-   <num_buttons>1</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 8-way</move_inputs>
-   <special_controls>rotary</special_controls>
+
+	<setname>kroozr</setname>
+	<name>Kozmik Krooz'r</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Midway MCR2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1983</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>rotary</special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

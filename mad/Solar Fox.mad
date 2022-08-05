@@ -1,17 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>solarfox</setname>
-   <alternative>no</alternative>
-   <name>Solar Fox</name>
-   <flip>no</flip>
-   <resolution>15kHz</resolution>
-   <year>1980</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR1</platform>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 4-way</move_inputs>
+
+	<setname>solarfox</setname>
+	<name>Solar Fox</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Midway MCR1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

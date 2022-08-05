@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>scramblebf</setname>
+	<name>Scramble (FR, Karateco) [bl]</name>
+	<region>France</region>
+	<version>Karateco</version>
+	<alternative>yes</alternative>
+	<parent_title>Scramble</parent_title>
+	<platform></platform>
+	<series>Scramble</series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1981</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

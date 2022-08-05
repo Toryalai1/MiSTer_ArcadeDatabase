@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>gaplust</setname>
+	<name>Gaplus (Tecfri PCB)</name>
+	<region></region>
+	<version>Tecfri PCB</version>
+	<alternative>yes</alternative>
+	<parent_title>Gaplus</parent_title>
+	<platform></platform>
+	<series>Galaxian</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

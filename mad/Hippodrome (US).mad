@@ -1,11 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>hippodrm</setname>
-   <alternative>no</alternative>
-   <name>Hippodrome (US)</name>
-   <region>World</region>
-   <year>1989</year>
-   <manufacturer>Data East USA</manufacturer>
-   <players>2</players>
-   <move_inputs>joystick 8</move_inputs>
+
+	<setname>hippodrm</setname>
+	<name>Hippodrome (US)</name>
+	<region>USA</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew></homebrew>
+	<bootleg></bootleg>
+	<year>1989</year>
+	<manufacturer>Data East</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2</players>
+	<move_inputs>8</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
 </misterarcadedescription>

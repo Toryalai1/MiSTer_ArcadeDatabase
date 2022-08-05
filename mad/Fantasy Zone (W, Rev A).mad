@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>fantzone</setname>
+	<name>Fantasy Zone (W, Rev A)</name>
+	<region>World</region>
+	<version>Rev A, No Protection</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega System 16A</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

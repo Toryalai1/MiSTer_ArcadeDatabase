@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ddsomj</setname>
+	<name>Dungeons &amp; Dragons- Shadow over Mystara (JP, 960619)</name>
+	<region>Japan</region>
+	<version>960619</version>
+	<alternative>yes</alternative>
+	<parent_title>Dungeons &amp; Dragons- Shadow over Mystara</parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series>Dungeons &amp; Dragons</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1996</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Beat 'em Up</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>4</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

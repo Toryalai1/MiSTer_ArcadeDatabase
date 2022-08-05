@@ -1,16 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>rampage</setname>
-   <alternative>no</alternative>
-   <name>Rampage</name>
-   <resolution>15kHz</resolution>
-   <year>1986</year>
-   <category>Platform - Climb</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR3</platform>
-   <num_buttons>2</num_buttons>
-   <players>3</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>rampage</setname>
+	<name>Rampage (Rev 3, 860827)</name>
+	<region></region>
+	<version>Rev 3, 860827</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Midway MCR3</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Platform - Climb</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>3</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

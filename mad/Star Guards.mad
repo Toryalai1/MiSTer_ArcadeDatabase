@@ -1,17 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>stargrds</setname>
-   <alternative>no</alternative>
-   <name>Star Guards</name>
-   <resolution>15kHz</resolution>
-   <year>1987</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR3</platform>
-   <num_buttons>4</num_buttons>
-   <players>3</players>
-   <move_inputs>joystick 8-way</move_inputs>
-   <special_controls>twin stick</special_controls>
+
+	<setname>stargrds</setname>
+	<name>Star Guards</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Midway MCR3</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>3</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>twin stick</special_controls>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

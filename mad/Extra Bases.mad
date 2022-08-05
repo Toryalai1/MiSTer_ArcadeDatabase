@@ -1,15 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>ebases</setname>
-   <alternative>no</alternative>
-   <name>Extra Bases</name>
-   <resolution>15kHz</resolution>
-   <year>1980</year>
-   <category>Sports</category>
-   <manufacturer>Dave Nutting Associates</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>2 (simultaneous)</players>
-   <special_controls>trackball</special_controls>
+
+	<setname>ebases</setname>
+	<name>Extra Bases</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Dave Nutting Associates</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Sports</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs></move_inputs>
+	<special_controls>trackball</special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

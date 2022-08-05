@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>swat</setname>
+	<name>SWAT (Japan) [315-5048]</name>
+	<region>Japan</region>
+	<version>315-5048</version>
+	<alternative>yes</alternative>
+	<parent_title>SWAT</parent_title>
+	<platform>Sega System 1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

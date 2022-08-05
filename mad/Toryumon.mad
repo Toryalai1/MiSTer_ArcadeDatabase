@@ -1,12 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>toryumon</setname>
-   <alternative>no</alternative>
-   <name>Toryumon</name>
-   <region>World</region>
-   <year>1994</year>
-   <manufacturer>Sega</manufacturer>
-   <platform>SEGA S16B</platform>
-   <players>2</players>
-   <move_inputs>joystick 8</move_inputs>
+
+	<setname>toryumon</setname>
+	<name>Toryumon</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega System 16B</platform>
+	<series></series>
+	<homebrew></homebrew>
+	<bootleg></bootleg>
+	<year>1994</year>
+	<manufacturer>Sega</manufacturer>
+	<category></category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2</players>
+	<move_inputs>8</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
 </misterarcadedescription>

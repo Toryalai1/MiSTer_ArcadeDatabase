@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>theends</setname>
+	<name>The End (Stern)</name>
+	<region></region>
+	<version>Stern</version>
+	<alternative>yes</alternative>
+	<parent_title>The End</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Konami</manufacturer>
+	<manufacturer>Stern</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

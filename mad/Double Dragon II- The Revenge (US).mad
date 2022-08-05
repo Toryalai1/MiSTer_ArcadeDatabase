@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ddragon2</setname>
+	<name>Double Dragon II- The Revenge (US)</name>
+	<region>USA</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Double Dragon II</parent_title>
+	<platform></platform>
+	<series>Double Dragon</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1988</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<category>Beat 'em Up</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

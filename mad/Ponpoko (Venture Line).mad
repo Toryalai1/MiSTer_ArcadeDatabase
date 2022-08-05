@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ponpokov</setname>
+	<name>Ponpoko (Venture Line)</name>
+	<region></region>
+	<version>Venture Line</version>
+	<alternative>yes</alternative>
+	<parent_title>Ponpoko</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Sigma</manufacturer>
+	<manufacturer>Venture Line</manufacturer>
+	<category>Platform - Climb</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

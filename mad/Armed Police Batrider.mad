@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname></setname>
+	<name>Armed Police Batrider</name>
+	<region></region>
+	<version></version>
+	<alternative></alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew></homebrew>
+	<bootleg></bootleg>
+	<year></year>
+	<manufacturer></manufacturer>
+	<category></category>
+
+	<resolution></resolution>
+	<rotation></rotation>
+	<flip></flip>
+
+	<players></players>
+	<move_inputs></move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
+</misterarcadedescription>

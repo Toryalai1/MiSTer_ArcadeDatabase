@@ -1,16 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>cosmo</setname>
-   <alternative>no</alternative>
-   <name>Cosmo</name>
-   <flip>yes</flip>
-   <resolution>15kHz</resolution>
-   <year>1979</year>
-   <category>Shooter - Gallery</category>
-   <manufacturer>TDS &amp; MINTS</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+
+	<setname>cosmo</setname>
+	<name>Cosmo</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>invaders</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1979</year>
+	<manufacturer>TDS &amp; MINTS</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
 </misterarcadedescription>

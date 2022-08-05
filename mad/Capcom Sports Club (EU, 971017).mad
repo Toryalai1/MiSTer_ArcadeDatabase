@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>csclub</setname>
+	<name>Capcom Sports Club (EU, 971017)</name>
+	<region>Europe</region>
+	<version>971017</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1997</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Sports</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

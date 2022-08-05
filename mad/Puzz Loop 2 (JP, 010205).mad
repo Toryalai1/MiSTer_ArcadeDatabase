@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>pzloop2jr1</setname>
+	<name>Puzz Loop 2 (JP, 010205)</name>
+	<region>Japan</region>
+	<version>010205</version>
+	<alternative>yes</alternative>
+	<parent_title>Puzz Loop 2</parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series>Puzz Loop</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2001</year>
+	<manufacturer>Mitchell</manufacturer>
+	<manufacturer>Capcom</manufacturer>
+	<category>Puzzle</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

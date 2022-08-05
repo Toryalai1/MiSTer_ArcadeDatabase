@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>varthu</setname>
+	<name>Varth- Operation Thunderstorm (US, 920612)</name>
+	<region>USA</region>
+	<version>920612</version>
+	<alternative>yes</alternative>
+	<parent_title>Varth</parent_title>
+	<platform>Capcom CPS-1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

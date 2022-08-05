@@ -1,9 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>zaxxon</setname>
-   <alternative>no</alternative>
-   <name>Zaxxon</name>
-   <year>1982</year>
-   <category>Isometric Shoot'em up</category>
-   <manufacturer>Sega/Gremlin</manufacturer>
+
+	<setname>zaxxon</setname>
+	<name>Zaxxon</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series>Zaxxon</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Shooter - Isometric</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>scobras</setname>
+	<name>Super Cobra (Stern)</name>
+	<region></region>
+	<version>Stern</version>
+	<alternative>yes</alternative>
+	<parent_title>Super Cobra</parent_title>
+	<platform></platform>
+	<series>Scramble</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Konami</manufacturer>
+	<manufacturer>Stern</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

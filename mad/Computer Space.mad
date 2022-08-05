@@ -1,14 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <alternative>no</alternative>
-   <name>Computer Space</name>
-   <resolution>15kHz</resolution>
-   <year>1971</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Syzygy Engineering</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+
+	<setname></setname>
+	<name>Computer Space</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1971</year>
+	<manufacturer>Syzygy Engineering</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

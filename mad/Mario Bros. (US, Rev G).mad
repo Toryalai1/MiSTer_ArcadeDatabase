@@ -1,17 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>mario</setname>
-   <alternative>no</alternative>
-   <name>Mario Bros.</name>
-   <resolution>15kHz</resolution>
-   <region>USA</region>
-   <year>1983</year>
-   <category>Platform - Climb</category>
-   <manufacturer>Nintendo</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <series>Mario</series>
-   <num_buttons>1</num_buttons>
-   <players>2 (simultaneous)</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+
+	<setname>mario</setname>
+	<name>Mario Bros. (US, Rev G)</name>
+	<region>USA</region>
+	<version>Rev G</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series>Mario</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1983</year>
+	<manufacturer>Nintendo</manufacturer>
+	<category>Platform - Climb</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

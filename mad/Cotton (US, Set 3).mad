@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>cottonu</setname>
+	<name>Cotton (US, Set 3)</name>
+	<region>USA</region>
+	<version>Set 3</version>
+	<alternative>yes</alternative>
+	<parent_title>Cotton</parent_title>
+	<platform>Sega System 16B</platform>
+	<series>Cotton</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1991</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

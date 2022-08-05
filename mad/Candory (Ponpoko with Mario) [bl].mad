@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>candory</setname>
+	<name>Candory (Ponpoko with Mario) [bl]</name>
+	<region></region>
+	<version>Ponpoko with Mario</version>
+	<alternative>yes</alternative>
+	<parent_title>Ponpoko</parent_title>
+	<platform></platform>
+	<series>Mario</series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1982</year>
+	<manufacturer></manufacturer>
+	<category>Platform - Climb</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

@@ -1,17 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>grobda</setname>
-   <alternative>no</alternative>
-   <name>Grobda</name>
-   <flip>no</flip>
-   <resolution>15kHz</resolution>
-   <region>World</region>
-   <year>1984</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Namco</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>grobda</setname>
+	<name>Grobda (W, New Ver.)</name>
+	<region>World</region>
+	<version>New Ver.</version>
+	<alternative>yes</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

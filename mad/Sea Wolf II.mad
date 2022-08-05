@@ -1,16 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>seawolf2</setname>
-   <alternative>no</alternative>
-   <name>Sea Wolf II</name>
-   <resolution>15kHz</resolution>
-   <year>1978</year>
-   <category>Shooter - Gallery</category>
-   <manufacturer>Dave Nutting Associates</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <series>Sea Wolf</series>
-   <num_buttons>1</num_buttons>
-   <players>2 (simultaneous)</players>
-   <special_controls>positional</special_controls>
+
+	<setname>seawolf2</setname>
+	<name>Sea Wolf II</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series>Sea Wolf</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1978</year>
+	<manufacturer>Dave Nutting Associates</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs></move_inputs>
+	<special_controls>positional</special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

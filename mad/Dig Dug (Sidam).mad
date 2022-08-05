@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>digsid</setname>
+	<name>Dig Dug (Sidam)</name>
+	<region></region>
+	<version>Sidam</version>
+	<alternative>yes</alternative>
+	<parent_title>Dig Dug</parent_title>
+	<platform></platform>
+	<series>Dig Dug</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Maze</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

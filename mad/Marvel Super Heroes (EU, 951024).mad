@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>msh</setname>
+	<name>Marvel Super Heroes (EU, 951024)</name>
+	<region>Europe</region>
+	<version>951024</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series>Marvel</series>
+	<series>Capcom</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1995</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>6</num_buttons>
+</misterarcadedescription>

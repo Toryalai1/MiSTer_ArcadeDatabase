@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>smbombr1</setname>
+	<name>Super Muscle Bomber- The International Blowout (JP, 940808)</name>
+	<region>Japan</region>
+	<version>940808</version>
+	<alternative>yes</alternative>
+	<parent_title>Super Muscle Bomber- The International Blowout</parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series>Muscle Bomber</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1994</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Sports</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>6</num_buttons>
+</misterarcadedescription>

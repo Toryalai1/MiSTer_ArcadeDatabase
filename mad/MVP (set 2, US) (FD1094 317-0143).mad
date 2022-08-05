@@ -1,12 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>mvp</setname>
-   <alternative>no</alternative>
-   <name>MVP (set 2, US) (FD1094 317-0143)</name>
-   <region>World</region>
-   <year>1989</year>
-   <manufacturer>Sega</manufacturer>
-   <platform>SEGA S16B</platform>
-   <players>2</players>
-   <move_inputs>joystick 8</move_inputs>
+
+	<setname>mvp</setname>
+	<name>MVP (set 2, US) (FD1094 317-0143)</name>
+	<region>World</region>
+	<version>Set 2, FD1094 317-0143</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Sega System 16B</platform>
+	<series></series>
+	<homebrew></homebrew>
+	<bootleg></bootleg>
+	<year>1989</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Sports</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2</players>
+	<move_inputs>8</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
 </misterarcadedescription>

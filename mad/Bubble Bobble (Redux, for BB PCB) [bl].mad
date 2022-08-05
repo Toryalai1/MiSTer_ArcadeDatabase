@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>bbredux</setname>
+	<name>Bubble Bobble (Redux, for BB PCB) [bl]</name>
+	<region></region>
+	<version>Redux, for BB PCB</version>
+	<alternative>yes</alternative>
+	<parent_title>Bubble Bobble</parent_title>
+	<platform></platform>
+	<series>Bubble Bobble</series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1986</year>
+	<manufacturer>Taito</manufacturer>
+	<category>Puzzle - Platform</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

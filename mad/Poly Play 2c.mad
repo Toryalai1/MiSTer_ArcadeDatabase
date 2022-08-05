@@ -1,15 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>polyplay2</setname>
-   <alternative>no</alternative>
-   <name>Poly Play 2c</name>
-   <resolution>15kHz</resolution>
-   <year>1985</year>
-   <category>Mixed</category>
-   <manufacturer>VEB Polytechnik</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>polyplay2</setname>
+	<name>Poly Play 2c</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>VEB Polytechnik</manufacturer>
+	<category>Mixed</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

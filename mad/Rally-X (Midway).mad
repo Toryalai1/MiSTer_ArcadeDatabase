@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>rallyxm</setname>
+	<name>Rally-X (Midway)</name>
+	<region></region>
+	<version>Midway</version>
+	<alternative>yes</alternative>
+	<parent_title>Rally-X</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Namco</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Maze</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

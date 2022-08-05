@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>teddybb</setname>
+	<name>TeddyBoy Blues (Japan, New Ver.) [315-5115]</name>
+	<region>Japan</region>
+	<version>315-5115, New Ver</version>
+	<alternative>yes</alternative>
+	<parent_title>Teddyboy Blues</parent_title>
+	<platform>Sega System 1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Platform</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

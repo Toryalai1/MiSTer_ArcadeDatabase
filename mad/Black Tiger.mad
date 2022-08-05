@@ -1,9 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>blktiger</setname>
-   <alternative>no</alternative>
-   <name>Black Tiger</name>
-   <year>1987</year>
-   <category>Fighter / Warriors</category>
-   <manufacturer>Capcom</manufacturer>
+
+	<setname>blktiger</setname>
+	<name>Black Tiger</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Capcom CPS-0</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Platform</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

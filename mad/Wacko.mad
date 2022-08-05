@@ -1,16 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>wacko</setname>
-   <alternative>no</alternative>
-   <name>Wacko</name>
-   <resolution>15kHz</resolution>
-   <year>1983</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR2</platform>
-   <num_buttons>4</num_buttons>
-   <players>2 (alternating)</players>
-   <special_controls>trackball, twin stick</special_controls>
+
+	<setname>wacko</setname>
+	<name>Wacko</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Midway MCR2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1983</year>
+	<manufacturer>Bally</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs></move_inputs>
+	<special_controls>trackball, twin stick</special_controls>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

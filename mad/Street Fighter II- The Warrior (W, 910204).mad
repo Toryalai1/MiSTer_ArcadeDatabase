@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>sf2ea</setname>
+	<name>Street Fighter II- The Warrior (W, 910204)</name>
+	<region>World</region>
+	<version>910204</version>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter II</parent_title>
+	<platform>Capcom CPS-1</platform>
+	<series>Street Fighter</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1991</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>6</num_buttons>
+</misterarcadedescription>

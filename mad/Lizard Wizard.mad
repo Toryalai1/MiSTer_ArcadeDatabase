@@ -1,16 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>lizwiz</setname>
-   <alternative>no</alternative>
-   <name>Lizard Wizard</name>
-   <flip>yes</flip>
-   <resolution>15kHz</resolution>
-   <year>1985</year>
-   <category>Arena</category>
-   <manufacturer>Techstar</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>2 (simultaneous)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>lizwiz</setname>
+	<name>Lizard Wizard</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>Techstar</manufacturer>
+	<manufacturer>Sunn</manufacturer>
+	<category>Arena</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

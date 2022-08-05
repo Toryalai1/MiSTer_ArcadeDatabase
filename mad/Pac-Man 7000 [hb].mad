@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>pm7000</setname>
+	<name>Pac-Man 7000 [hb]</name>
+	<region></region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Pac-Man</parent_title>
+	<platform></platform>
+	<series>Pac-Man</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Blue Justice</manufacturer>
+	<category>Maze</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>0</num_buttons>
+</misterarcadedescription>

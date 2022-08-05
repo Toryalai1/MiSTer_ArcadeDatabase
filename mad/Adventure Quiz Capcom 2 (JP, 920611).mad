@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>cworld2j</setname>
+	<name>Adventure Quiz Capcom 2 (JP, 920611)</name>
+	<region>Japan</region>
+	<version>920611</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Capcom CPS-1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1992</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Quiz</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs></move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

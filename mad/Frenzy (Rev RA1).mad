@@ -1,15 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>frenzy</setname>
-   <alternative>no</alternative>
-   <name>Frenzy</name>
-   <resolution>15kHz</resolution>
-   <year>1981</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Stern</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>frenzy</setname>
+	<name>Frenzy (Rev RA1)</name>
+	<region></region>
+	<version>Rev RA1</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Stern</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

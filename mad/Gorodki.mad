@@ -1,15 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>gorodki</setname>
-   <alternative>no</alternative>
-   <name>Gorodki</name>
-   <resolution>15kHz</resolution>
-   <year>1988</year>
-   <category>Action</category>
-   <manufacturer>Terminal</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+
+	<setname>gorodki</setname>
+	<name>Gorodki</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1988</year>
+	<manufacturer>Terminal</manufacturer>
+	<category>Action</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

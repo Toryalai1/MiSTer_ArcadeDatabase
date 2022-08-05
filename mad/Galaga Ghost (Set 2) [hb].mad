@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>galagosb</setname>
+	<name>Galaga Ghost (Set 2) [hb]</name>
+	<region></region>
+	<version>Set 2</version>
+	<alternative>yes</alternative>
+	<parent_title>Galaga</parent_title>
+	<platform></platform>
+	<series>Galaga</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Namco</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

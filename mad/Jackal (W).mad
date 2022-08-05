@@ -1,17 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>jackal</setname>
-   <alternative>no</alternative>
-   <name>Jackal</name>
-   <flip>no</flip>
-   <resolution>15kHz</resolution>
-   <region>World</region>
-   <year>1986</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Konami</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>2 (simultaneous)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>jackal</setname>
+	<name>Jackal (W)</name>
+	<region>World</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Jackal</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -1,15 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>mayday</setname>
-   <alternative>no</alternative>
-   <name>Mayday</name>
-   <resolution>15kHz</resolution>
-   <year>1980</year>
-   <category>Shooter - Horizontal</category>
-   <manufacturer>Hoei</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>3</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>mayday</setname>
+	<name>Mayday (Set 1)</name>
+	<region></region>
+	<version>Set 1</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Hoei</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>pleiadsi</setname>
+	<name>Pleiades (Irecsa)</name>
+	<region></region>
+	<version>Irecsa</version>
+	<alternative>yes</alternative>
+	<parent_title>Pleiades</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Tehkan</manufacturer>
+	<manufacturer>Irecsa</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

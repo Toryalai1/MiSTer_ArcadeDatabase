@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>foodfc</setname>
+	<name>Food Fight (Cocktail)</name>
+	<region></region>
+	<version>Cocktail</version>
+	<alternative>yes</alternative>
+	<parent_title>Food Fight</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>General Computer Corporation</manufacturer>
+	<manufacturer>Atari</manufacturer>
+	<category>Arena</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

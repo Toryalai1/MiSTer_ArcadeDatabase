@@ -1,16 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>cclimber</setname>
-   <alternative>no</alternative>
-   <name>Crazy Climber</name>
-   <resolution>15kHz</resolution>
-   <year>1980</year>
-   <category>Platform - Climb</category>
-   <manufacturer>Nichibutsu</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>4</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
-   <special_controls>twin stick</special_controls>
+
+	<setname>cclimber</setname>
+	<name>Crazy Climber</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Nichibutsu</manufacturer>
+	<category>Platform - Climb</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>twin stick</special_controls>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

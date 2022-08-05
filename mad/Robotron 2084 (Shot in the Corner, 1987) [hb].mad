@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>robotron87</setname>
+	<name>Robotron 2084 (Shot in the Corner, 1987) [hb]</name>
+	<region></region>
+	<version>Shot in the Corner, 1987</version>
+	<alternative>yes</alternative>
+	<parent_title>Robotron 2084</parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1982</year>
+	<manufacturer>Williams</manufacturer>
+	<manufacturer>Vid Kidz</manufacturer>
+	<category>Arena</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>twin stick</special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

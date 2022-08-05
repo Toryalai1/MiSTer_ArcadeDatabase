@@ -1,11 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>mikie</setname>
-   <alternative>no</alternative>
-   <name>Mikie</name>
-   <region>World</region>
-   <year>1984</year>
-   <manufacturer>Konami</manufacturer>
-   <players>2</players>
-   <move_inputs>joystick 4</move_inputs>
+
+	<setname>mikie</setname>
+	<name>Mikie</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew></homebrew>
+	<bootleg></bootleg>
+	<year>1984</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Maze</category>
+
+	<resolution>15kHz</resolution>
+	<rotation></rotation>
+	<flip></flip>
+
+	<players>2</players>
+	<move_inputs>4</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons></num_buttons>
 </misterarcadedescription>

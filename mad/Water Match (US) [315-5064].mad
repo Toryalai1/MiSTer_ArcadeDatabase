@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>wmatch</setname>
+	<name>Water Match (US) [315-5064]</name>
+	<region>USA</region>
+	<version>315-5064</version>
+	<alternative>yes</alternative>
+	<parent_title>Water Match</parent_title>
+	<platform>Sega System 1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Sports</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>5</num_buttons>
+</misterarcadedescription>

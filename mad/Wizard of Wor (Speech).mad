@@ -1,15 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>wow</setname>
-   <alternative>no</alternative>
-   <name>Wizard of Wor</name>
-   <resolution>15kHz</resolution>
-   <year>1980</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Dave Nutting Associate</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>2 (simultaneous)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+
+	<setname>wow</setname>
+	<name>Wizard of Wor (Speech)</name>
+	<region></region>
+	<version>Speech</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Dave Nutting Associates</manufacturer>
+	<manufacturer>Midway</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -1,9 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>trojanr</setname>
-   <alternative>no</alternative>
-   <name>Trojan (Romstar)</name>
-   <year>1986</year>
-   <category>Hack 'n Slash</category>
-   <manufacturer>Capcom</manufacturer>
+
+	<setname>trojanr</setname>
+	<name>Trojan (Romstar)</name>
+	<region></region>
+	<version>Romstar</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform></platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Capcom</manufacturer>
+	<manufacturer>Romstar</manufacturer>
+	<category>Platform</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>
