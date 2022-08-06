@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hellfire</setname>
-	<name>Hellfire (2P set)</name>
+	<setname>bigfghtr</setname>
+	<name>Tatakae! Big Fighter</name>
 	<region></region>
-	<version>2P Set</version>
+	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Hellfire</parent_title>
-	<platform>Toaplan 1</platform>
+	<parent_title>Tatakae! Big Fighter</parent_title>
+	<platform>Nichibutsu M68000 (Armed F)</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>
-	<manufacturer>Toaplan (Taito license)</manufacturer>
+	<manufacturer>Nichibutsu</manufacturer>
 	<category>Shooter - Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>no</rotation>
 	<flip></flip>
 
-	<players>1</players>
+	<players></players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

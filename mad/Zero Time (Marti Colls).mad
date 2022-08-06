@@ -10,7 +10,7 @@
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
+	<bootleg>yes</bootleg>
 	<year>1979</year>
 	<manufacturer>Marti Colls</manufacturer>
 	<category>Shooter - Gallery</category>

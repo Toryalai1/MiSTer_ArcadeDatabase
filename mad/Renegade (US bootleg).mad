@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>pang</setname>
-	<name>Pang</name>
+	<setname>renegadeb</setname>
+	<name>Renegade (US bootleg)</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Pang</parent_title>
-	<platform>Capcom Mitchell</platform>
+	<parent_title>Renegade</parent_title>
+	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>Mitchell</manufacturer>
-	<category>Puzzle - Platform</category>
+	<year>1986</year>
+	<manufacturer>bootleg</manufacturer>
+	<category>Fighting</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>no</rotation>
 	<flip></flip>
 
-	<players>2 (simutaneous)</players>
-	<move_inputs>4-way</move_inputs>
+	<players>2</players>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

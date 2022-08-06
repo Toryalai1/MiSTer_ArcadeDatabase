@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hellfire</setname>
-	<name>Hellfire (2P set)</name>
+	<setname>hellfire1a</setname>
+	<name>Hellfire (1P set, older)</name>
 	<region></region>
-	<version>2P Set</version>
-	<alternative>no</alternative>
+	<version>1P Set</version>
+	<alternative>yes</alternative>
 	<parent_title>Hellfire</parent_title>
 	<platform>Toaplan 1</platform>
 	<series></series>

@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>outzonecv</setname>
-	<name>Out Zone (Zero Wing TP-015 PCB Conversion)</name>
+	<setname>outzoneh</setname>
+	<name>Out Zone (harder)</name>
 	<region></region>
-	<version>Zero Wing TP-015 PCB Conversion</version>
+	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Out Zone</parent_title>
 	<platform>Toaplan 1</platform>

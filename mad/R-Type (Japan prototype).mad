@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hellfire</setname>
-	<name>Hellfire (2P set)</name>
-	<region></region>
-	<version>2P Set</version>
-	<alternative>no</alternative>
-	<parent_title>Hellfire</parent_title>
-	<platform>Toaplan 1</platform>
+	<setname>rtypejp</setname>
+	<name>R-Type (Japan prototype)</name>
+	<region>Japan</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>R-Type</parent_title>
+	<platform>Irem M72</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>Toaplan (Taito license)</manufacturer>
+	<year>1987</year>
+	<manufacturer>IREM</manufacturer>
 	<category>Shooter - Horizontal</category>
 
 	<resolution>15kHz</resolution>

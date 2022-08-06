@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>bgareggatw</setname>
+	<name>Battle Garegga (Taiwan - Germany) (Thu Feb 1 1996)</name>
+	<region>Taiwan</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Battle Garegga</parent_title>
+	<platform>Toaplan 2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1996</year>
+	<manufacturer>Raizing</manufacturer>
+	<manufacturer>Eighting</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>yes</rotation>
+	<flip>vertical (ccw)</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

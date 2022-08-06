@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>outzonecv</setname>
-	<name>Out Zone (Zero Wing TP-015 PCB Conversion)</name>
+	<setname>amazont</setname>
+	<name>Soldier Girl Amazon (Tecfri license)</name>
 	<region></region>
-	<version>Zero Wing TP-015 PCB Conversion</version>
+	<version>Tecfri license</version>
 	<alternative>yes</alternative>
-	<parent_title>Out Zone</parent_title>
-	<platform>Toaplan 1</platform>
+	<parent_title>Sei Senshi Amatelass</parent_title>
+	<platform>Nichibutsu M68000 (Terra Cresta)</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1990</year>
-	<manufacturer>Toaplan</manufacturer>
+	<year>1986</year>
+	<manufacturer>Nichibutsu</manufacturer>
 	<category>Run 'n' Gun - Vertical</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>yes</rotation>
 	<flip>vertical (cw)</flip>
 
-	<players>2 (simultaneous)</players>
+	<players></players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>terracre</setname>
-	<name>Terra Cresta (YM3526 set 1)</name>
+	<setname>horekidb2</setname>
+	<name>Kid no Hore Hore Daisakusen (Bootleg Set 2)</name>
 	<region></region>
-	<version>YM3526 set 1</version>
-	<alternative>no</alternative>
-	<parent_title>Terra Cresta</parent_title>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Kid no Hore Hore Daisakusen</parent_title>
 	<platform>Nichibutsu M68000 (Terra Cresta)</platform>
 	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
-	<year>1985</year>
+	<bootleg>yes</bootleg>
+	<year>1987</year>
 	<manufacturer>Nichibutsu</manufacturer>
-	<category>Shooter - Vertical</category>
+	<category>Puzzle - Platform</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>yes</rotation>

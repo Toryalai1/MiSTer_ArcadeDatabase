@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hellfire</setname>
-	<name>Hellfire (2P set)</name>
+	<setname>zerowing1</setname>
+	<name>Zero Wing (1P set)</name>
 	<region></region>
-	<version>2P Set</version>
-	<alternative>no</alternative>
-	<parent_title>Hellfire</parent_title>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Zero Wing</parent_title>
 	<platform>Toaplan 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>
-	<manufacturer>Toaplan (Taito license)</manufacturer>
+	<manufacturer>Toaplan</manufacturer>
 	<category>Shooter - Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>no</rotation>
 	<flip></flip>
 
-	<players>1</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

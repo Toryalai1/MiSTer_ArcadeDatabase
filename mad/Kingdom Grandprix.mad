@@ -1,26 +1,27 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>outzone</setname>
-	<name>Out Zone</name>
-	<region></region>
+	<setname>kingdmgp</setname>
+	<name>Kingdom Grandprix</name>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Out Zone</parent_title>
-	<platform>Toaplan 1</platform>
+	<parent_title>Kingdom Grandprix</parent_title>
+	<platform>Toaplan 2</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1990</year>
-	<manufacturer>Toaplan</manufacturer>
-	<category>Run 'n' Gun - Vertical</category>
+	<year>1994</year>
+	<manufacturer>Raizing</manufacturer>
+	<manufacturer>Eighting</manufacturer>
+	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>yes</rotation>
-	<flip>vertical (cw)</flip>
+	<flip>vertical (ccw)</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>
