@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>dfjail</setname>
+	<name>The Destroyer From Jail (Korea)</name>
+	<region>Korea</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>The Destroyer From Jail</parent_title>
+	<platform>Sega System 16</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>199?</year>
+	<manufacturer>Philko</manufacturer>
+	<category>Run 'n' gun</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

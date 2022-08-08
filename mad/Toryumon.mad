@@ -6,21 +6,21 @@
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Sega System 16B</platform>
+	<parent_title>Toryumon</parent_title>
+	<platform>Sega System 16</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1994</year>
 	<manufacturer>Sega</manufacturer>
-	<category></category>
+	<category>Puzzle</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2</players>
-	<move_inputs>8</move_inputs>
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons></num_buttons>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

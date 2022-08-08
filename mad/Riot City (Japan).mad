@@ -6,15 +6,15 @@
 	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Sega System 16B</platform>
+	<parent_title>Riot City</parent_title>
+	<platform>Sega System 16</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1991</year>
 	<manufacturer>Sega</manufacturer>
 	<manufacturer>Westone</manufacturer>
-	<category></category>
+	<category>Beat 'em Up</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -23,5 +23,5 @@
 	<players>2</players>
 	<move_inputs>8</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons></num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

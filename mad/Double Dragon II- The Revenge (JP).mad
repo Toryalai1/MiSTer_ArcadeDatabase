@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Double Dragon II</parent_title>
-	<platform></platform>
+	<platform>Technos</platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

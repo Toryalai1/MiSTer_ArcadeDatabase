@@ -6,8 +6,8 @@
 	<region>World</region>
 	<version>Set 4, FD1094 317-0130</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Sega System 16B</platform>
+	<parent_title>E-Swat</parent_title>
+	<platform>Sega System 16</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

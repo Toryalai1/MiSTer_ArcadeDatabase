@@ -7,7 +7,7 @@
 	<version>Set 3</version>
 	<alternative>yes</alternative>
 	<parent_title>Cotton</parent_title>
-	<platform>Sega System 16B</platform>
+	<platform>Sega System 16</platform>
 	<series>Cotton</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

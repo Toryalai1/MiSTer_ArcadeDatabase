@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ryukyu</setname>
+	<name>RyuKyu (JP, Rev A) 317-5023A</name>
+	<region>Japan</region>
+	<version>Rev A, FD1094 317-5023A</version>
+	<alternative>no</alternative>
+	<parent_title>RyuKyu</parent_title>
+	<platform>Sega System 16</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Sega</manufacturer>
+	<category>Sports</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>1</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>fantzn2xp</setname>
+	<name>Fantasy Zone II - The Tears of Opa-Opa (Prototype)</name>
+	<region>World</region>
+	<version>Prototype</version>
+	<alternative>yes</alternative>
+	<parent_title>Fantasy Zone II</parent_title>
+	<platform>Sega System 16</platform>
+	<series>Fantasy Zone</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>2008</year>
+	<manufacturer>Sega</manufacturer>
+	<manufacturer>M2</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

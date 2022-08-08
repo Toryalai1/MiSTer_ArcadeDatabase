@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>aso</setname>
+	<name>ASO - Armored Scrum Object</name>
+	<region></region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>ASO - Armored Scrum Object</parent_title>
+	<platform>SNK Triple Z80</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>SNK</manufacturer>
+	<category>Shooter / Flying Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>yes</rotation>
+	<flip>vertical (cw)</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

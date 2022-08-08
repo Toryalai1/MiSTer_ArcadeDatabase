@@ -7,8 +7,8 @@
 	<version>317-0016</version>
 	<alternative>yes</alternative>
 	<parent_title>Fantasy Zone</parent_title>
-	<platform>Sega System 16A</platform>
-	<series></series>
+	<platform>Sega System 16</platform>
+	<series>Fantasy Zone</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1986</year>
