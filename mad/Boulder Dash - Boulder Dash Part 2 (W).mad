@@ -2,18 +2,18 @@
 <misterarcadedescription>
 
 	<setname>bouldash</setname>
-	<name>Boulder Dash, Boulder Dash Part 2 (World)</name>
+	<name>Boulder Dash - Boulder Dash Part 2 (W)</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
-	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<parent_title>Boulder Dash Part 2</parent_title>
+	<platform>Data East MEC-M1</platform>
+	<series>Boulder Dash</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1990</year>
 	<manufacturer>Data East</manufacturer>
-	<category></category>
+	<category>Maze / Digging</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2</players>
 	<move_inputs>4</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons></num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

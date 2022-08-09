@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hippodrm</setname>
-	<name>Hippodrome (US)</name>
+	<setname>midresu</setname>
+	<name>Midnight Resistance (US)</name>
 	<region>USA</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title>Hippodrome</parent_title>
+	<alternative>yes</alternative>
+	<parent_title>Midnight Resistance</parent_title>
 	<platform>Data East MEC-M1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>
 	<manufacturer>Data East</manufacturer>
-	<category>Fighting</category>
+	<category>Platformer / Shooting Scrolling</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2</players>
 	<move_inputs>8</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

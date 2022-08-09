@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hippodrm</setname>
-	<name>Hippodrome (US)</name>
+	<setname>slyspy3</setname>
+	<name>Sly Spy (US, Rev 3)</name>
 	<region>USA</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title>Hippodrome</parent_title>
+	<version>Rev. 3</version>
+	<alternative>yes</alternative>
+	<parent_title>Secret Agent</parent_title>
 	<platform>Data East MEC-M1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>
 	<manufacturer>Data East</manufacturer>
-	<category>Fighting</category>
+	<category>Run 'n' Gun - Horiztontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>jtdd2</setname>
-	<name>Double Dragon II- The Revenge (US, Turbo)</name>
+	<setname>ddragon2u</setname>
+	<name>Double Dragon II - The Revenge (US)</name>
 	<region>USA</region>
-	<version>Turbo</version>
-	<alternative>no</alternative>
+	<version></version>
+	<alternative>yes</alternative>
 	<parent_title>Double Dragon II</parent_title>
 	<platform>Technos</platform>
 	<series>Double Dragon</series>

@@ -5,7 +5,7 @@
 	<name>Double Dragon (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Double Dragon</parent_title>
 	<platform>Technos</platform>
 	<series>Double Dragon</series>

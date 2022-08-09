@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hippodrm</setname>
-	<name>Hippodrome (US)</name>
-	<region>USA</region>
+	<setname>ffantasya</setname>
+	<name>Fighting Fantasy (JP)</name>
+	<region>Japan</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>Hippodrome</parent_title>
 	<platform>Data East MEC-M1</platform>
 	<series></series>

@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hippodrm</setname>
-	<name>Hippodrome (US)</name>
+	<setname>robocopu0</setname>
+	<name>Robocop (US, Rev 0)</name>
 	<region>USA</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title>Hippodrome</parent_title>
+	<version>Rev 0</version>
+	<alternative>yes</alternative>
+	<parent_title>Robocop</parent_title>
 	<platform>Data East MEC-M1</platform>
-	<series></series>
+	<series>Robocop</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1988</year>
 	<manufacturer>Data East</manufacturer>
-	<category>Fighting</category>
+	<category>Run 'n' Gun - Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

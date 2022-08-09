@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>renegadeb</setname>
-	<name>Renegade (US bootleg)</name>
-	<region>USA</region>
+	<setname>ddragonb2</setname>
+	<name>Double Dragon [bootleg]</name>
+	<region></region>
 	<version></version>
 	<alternative>yes</alternative>
-	<parent_title>Renegade</parent_title>
+	<parent_title>Double Dragon</parent_title>
 	<platform>Technos</platform>
-	<series></series>
+	<series>Double Dragon</series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>
-	<year>1986</year>
-	<manufacturer>bootleg</manufacturer>
-	<category>Fighting</category>
+	<year>1987</year>
+	<manufacturer>Technos</manufacturer>
+	<category>Beat 'em Up</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>no</rotation>
+	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>

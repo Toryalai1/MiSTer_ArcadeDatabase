@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddragonb2</setname>
-	<name>Double Dragon [bl]</name>
-	<region></region>
+	<setname>ddragon2</setname>
+	<name>Double Dragon II - The Revenge (W)</name>
+	<region>World</region>
 	<version></version>
-	<alternative>yes</alternative>
-	<parent_title>Double Dragon</parent_title>
+	<alternative>no</alternative>
+	<parent_title>Double Dragon II</parent_title>
 	<platform>Technos</platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>
-	<bootleg>yes</bootleg>
-	<year>1987</year>
+	<bootleg>no</bootleg>
+	<year>1988</year>
 	<manufacturer>Technos</manufacturer>
 	<category>Beat 'em Up</category>
 

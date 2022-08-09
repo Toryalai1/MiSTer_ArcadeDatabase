@@ -1,25 +1,25 @@
 setname,name,region,version,alternative,parent_title,platform,series,homebrew,bootleg,year,manufacturer,category,linebreak1,resolution,rotation,flip,linebreak2,players,move_inputs,special_controls,num_buttons
 1941j,1941- Counter Attack (JP),Japan,,yes,1941- Counter Attack,Capcom CPS-1,19XX,no,no,1990,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 1941u,"1941- Counter Attack (US, 900227)",USA,900227,yes,1941- Counter Attack,Capcom CPS-1,19XX,no,no,1990,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
-1941,"1941- Counter Attack (W, 900227)",World,900227,no,,Capcom CPS-1,19XX,no,no,1990,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+1941,"1941- Counter Attack (W, 900227)",World,900227,no,1941- Counter Attack,Capcom CPS-1,19XX,no,no,1990,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 1941r1,1941- Counter Attack (W),World,,yes,1941- Counter Attack,Capcom CPS-1,19XX,no,no,1990,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 1942fpa,1942 (Attract Mode) [hb],,Attract Mode,yes,1942,Capcom CPS-0,19XX,yes,no,1984,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 1942c64,1942 (C64 BGM) [hb],,C64 BGM,yes,1942,Capcom CPS-0,19XX,yes,no,1984,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 1942b,1942 (First Version),,First Version,yes,1942,Capcom CPS-0,19XX,no,no,1984,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 galagax,1942 (Galaxy X) [hb],,Galaxy X,yes,1942,Capcom CPS-0,19XX,yes,no,1984,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 1942a,1942 (Rev A),,Rev A,yes,1942,Capcom CPS-0,19XX,no,no,1984,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
-1942,"1942 (W, Rev B)",World,Rev B,no,,Capcom CPS-0,19XX,no,no,1984,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+1942,"1942 (W, Rev B)",World,Rev B,no,1942,Capcom CPS-0,19XX,no,no,1984,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 1942w,1942 (Williams),,Williams,yes,1942,Capcom CPS-0,19XX,no,no,1984,Capcom / Williams,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
 1943kais01,"1943- Kai Midway Kaisen (Ex Super, v090210) [hb]",,"Ex Super, v090210",yes,1943- The Battle of Midway,Capcom CPS-0,19XX,yes,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
-1943kai,1943- Kai Midway Kaisen (JP),Japan,,no,,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
-1943j,"1943- Midway Kaisen (JP, Rev B)",Japan,Rev B,no,,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+1943kai,1943- Kai Midway Kaisen (JP),Japan,,no,1943- The Battle of Midway,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,2
+1943j,"1943- Midway Kaisen (JP, Rev B)",Japan,Rev B,no,1943- The Battle of Midway,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 1943ja,1943- Midway Kaisen (JP),Japan,,yes,1943- The Battle of Midway,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 1943jah,1943- Midway Kaisen (no Protection) [hb],,no Protection,yes,1943- The Battle of Midway,Capcom CPS-0,19XX,yes,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
-1943,1943- The Battle of Midway (EU),Europe,,no,,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
-1943u,1943- The Battle of Midway (US),USA,,no,,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+1943,1943- The Battle of Midway (EU),Europe,,no,1943- The Battle of Midway,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+1943u,1943- The Battle of Midway (US),USA,,no,1943- The Battle of Midway,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 1943ua,1943- The Battle of Midway (US),USA,,yes,1943- The Battle of Midway,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 1943h,1943- The Battle of Midway [bl],,,yes,1943- The Battle of Midway,Capcom CPS-0,19XX,no,yes,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
-1943mii,1943- The Battle of Midway Mark II (US),USA,,no,,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+1943mii,1943- The Battle of Midway Mark II (US),USA,,no,1943- The Battle of Midway,Capcom CPS-0,19XX,no,no,1987,Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 1944,"1944- The Loop Master (EU, 000620)",Europe,000620,no,,Capcom CPS-2,19XX,no,no,2000,Eighting / Raizing / Capcom,Shooter - Vertical,,15kHz,horizontal,yes,,2 (simultaneous),8-way,n/a,2
 1944j,"1944- The Loop Master (JP, 000620)",Japan,000620,yes,1944- The Loop Master,Capcom CPS-2,19XX,no,no,2000,Eighting / Raizing / Capcom,Shooter - Vertical,,15kHz,horizontal,yes,,2 (simultaneous),8-way,n/a,2
 1944u,"1944- The Loop Master (US, 000620)",USA,000620,yes,1944- The Loop Master,Capcom CPS-2,19XX,no,no,2000,Eighting / Raizing / Capcom,Shooter - Vertical,,15kHz,horizontal,yes,,2 (simultaneous),8-way,n/a,2
@@ -93,7 +93,7 @@ avefenixrf,"Ave Fenix (Recreativos Franco, Spanish, Phoenix) [bl]",,"Recreativos
 azurian,Azurian Attack,,,no,,,,no,no,1982,Rait Electronics Ltd,Shooter - Multidirectional,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 baby2,Baby Pac-Man 2 (Alt) [hb],,Alt,yes,Pac-Man,,Pac-Man,yes,no,1980,Atari,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 baby3,Baby Pac-Man 3 (Alt) [hb],,Alt,yes,Pac-Man,,Pac-Man,yes,no,1980,Atari,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-baddudes,"Bad Dudes vs. Dragonninja (US, Rev. 1)",USA,Rev. 1,no,Bad Dudes vs. Dragonninja,,,no,no,1988,Data East,Platform,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,2
+baddudes,"Bad Dudes vs. Dragonninja (US, Rev. 1)",USA,Rev. 1,no,Bad Dudes vs. Dragonninja,Data East MEC-M1,,no,no,1988,Data East,Platform,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,2
 bagman,Bagman,,,no,,,,no,no,1982,Valadon Automation,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 bagmans,"Bagman (Stern, Set 1)",,"Stern, Set 1",yes,Bagman,,,no,no,1982,Valadon Automation / Stern,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 bagmans2,"Bagman (Stern, Set 2)",,"Stern, Set 2",yes,Bagman,,,no,no,1982,Valadon Automation / Stern,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
@@ -322,18 +322,18 @@ dorodon2,Dorodon (Set 2),,Set 2,yes,Dorodon,,,no,no,1982,UPL,Maze,,15kHz,vertica
 dotrikun,Dottori-Kun (New),,New,no,,Dottori-Kun,,no,no,1990,Sega,Maze,,15kHz,horizontal,no,,1,8-way,,2
 dotrikun,Dottori-Kun (Old),,Old,no,,Dottori-Kun,,no,no,1990,Sega,Maze,,15kHz,horizontal,no,,1,8-way,,2
 dotrikun,Dottori-Man Jr [hb],,,no,,Dottori-Kun,,yes,no,1990,Chris Covell,Maze,,15kHz,horizontal,no,,1,8-way,,2
-ddragon,Double Dragon (JP),Japan,,yes,Double Dragon,Technos,Double Dragon,no,no,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
+ddragon,Double Dragon (JP),Japan,,no,Double Dragon,Technos,Double Dragon,no,no,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ddragonu,"Double Dragon (US, Set 1)",USA,Set 1,yes,Double Dragon,Technos,Double Dragon,no,no,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ddragonua,"Double Dragon (US, Set 2)",USA,Set 2,yes,Double Dragon,Technos,Double Dragon,no,no,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ddragonub,"Double Dragon (US, Set 3)",USA,Set 3,yes,Double Dragon,Technos,Double Dragon,no,no,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ddragonw,"Double Dragon (W, Set 1)",World,Set 1,yes,Double Dragon,Technos,Double Dragon,no,no,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ddragonw1,"Double Dragon (W, Set 2)",World,Set 2,yes,Double Dragon,Technos,Double Dragon,no,no,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-ddragonb2,Double Dragon [bl],,,yes,Double Dragon,Technos,Double Dragon,no,yes,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
+ddragonb2,Double Dragon [bootleg],,,yes,Double Dragon,Technos,Double Dragon,no,yes,1987,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ddragon2j,Double Dragon II- The Revenge (JP),Japan,,yes,Double Dragon II,Technos,Double Dragon,no,no,1988,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-jtdd2,"Double Dragon II- The Revenge (US, Turbo)",USA,Turbo,no,Double Dragon II,Technos,Double Dragon,no,no,1988,Technos Japan,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-ddragon2,Double Dragon II- The Revenge (US),USA,,yes,Double Dragon II,Technos,Double Dragon,no,no,1988,Technos Japan,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-ddragon2,Double Dragon II- The Revenge (W),World,,yes,Double Dragon II,Technos,Double Dragon,no,no,1988,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-drgninja,"Dragonninja (JP, Rev. 1)",JP,Rev. 1,yes,Bad Dudes vs. Dragonninja,,,no,no,1988,Data East,Platform,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,2
+,,,,,,,,,,,,,,,,,,,,,
+ddragon2u,Double Dragon II - The Revenge (US),USA,,yes,Double Dragon II,Technos,Double Dragon,no,no,1988,Technos Japan,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
+ddragon2,Double Dragon II - The Revenge (W),World,,no,Double Dragon II,Technos,Double Dragon,no,no,1988,Technos,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
+drgninja,"Dragonninja (JP, Rev. 1)",JP,Rev. 1,yes,Bad Dudes vs. Dragonninja,Data East MEC-M1,,no,no,1988,Data East,Platform,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,2
 dland,Dream Land- Super Dream Land (Bubble Bobble) [bl],,Bubble Bobble,yes,Bubble Bobble,,Bubble Bobble,no,yes,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
 dremshpr,Dream Shopper,,,no,,,,no,no,1982,Sanritsu,Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 ddsomar1,"Dungeons &amp; Dragons- Shadow over Mystara (AS, 960208)",Asia,960208,yes,Dungeons &amp; Dragons- Shadow over Mystara,Capcom CPS-2,Dungeons &amp; Dragons,no,no,1996,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,4,8-way,n/a,4
@@ -1454,8 +1454,11 @@ zerowing,Zero Wing (2P set),,,no,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter
 zerowing1,Zero Wing (1P set),,,yes,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Horizontal,,15kHz,no,,,2 (simultaneous),8-way,,2
 zerowingw,"Zero Wing (2P set, Williams license)",,Williams license,yes,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Horizontal,,15kHz,no,,,2 (simultaneous),8-way,,2
 roadf,Road Fighter (set 1),World,Set 1,no,,,,,,1984,Konami,,,15kHz,,,,2,8,,
-midres,Midnight Resistance (World),World,,no,,,,,,1989,Data East,,,15kHz,horizontal,,,2,8,,
-bouldash,"Boulder Dash, Boulder Dash Part 2 (World)",World,,no,,,,,,1990,Data East,,,15kHz,horizontal,,,2,4,,
+midres,Midnight Resistance (W),World,,no,Midnight Resistance,Data East MEC-M1,,no,no,1989,Data East,Platformer / Shooting Scrolling,,15kHz,horizontal,,,2,8,,4
+midresj,Midnight Resistance (JP),Japan,,yes,Midnight Resistance,Data East MEC-M1,,no,no,1989,Data East,Platformer / Shooting Scrolling,,15kHz,horizontal,,,2,8,,4
+midresu,Midnight Resistance (US),USA,,yes,Midnight Resistance,Data East MEC-M1,,no,no,1989,Data East,Platformer / Shooting Scrolling,,15kHz,horizontal,,,2,8,,4
+bouldash,Boulder Dash - Boulder Dash Part 2 (W),World,,no,Boulder Dash Part 2,Data East MEC-M1,Boulder Dash,no,no,1990,Data East,Maze / Digging,,15kHz,horizontal,,,2,4,,2
+bouldashj,Boulder Dash - Boulder Dash Part 2 (JP),Japan,,yes,Boulder Dash Part 2,Data East MEC-M1,Boulder Dash,no,no,1990,Data East,Maze / Digging,,15kHz,horizontal,,,2,4,,2
 cosmo,Cosmo,,,no,invaders,,,no,no,1979,TDS &amp; MINTS,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,
 terracre,Terra Cresta (YM3526 set 1),,YM3526 set 1,no,Terra Cresta,Nichibutsu M68000 (Terra Cresta),,no,no,1985,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
 terracreo,Terra Cresta (YM3526 set 2),,YM3526 set 2,yes,Terra Cresta,Nichibutsu M68000 (Terra Cresta),,no,no,1985,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
@@ -1482,11 +1485,15 @@ joust2,Joust 2 - Survival of the Fittest (revision 2),World,Rev. 2,no,,Williams 
 yiear,Yie Ar Kung-Fu (program code I),World,Program code I,no,,,,,,1985,Konami,,,15kHz,horizontal,,,2,8,,
 manhatan,Manhattan 24 Bunsyo,Japan,,no,jailbrek,,,no,no,1986,Konami,,,15kHz,,no,,2 (alternating),8-way,,
 xevious,Super Xevious,,,no,xevious,,,no,no,1982,Namco,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
-robocop,Robocop (World revision 4),World,Rev. 4,no,,,,,,1988,Data East,Run 'n' Gun - Horizontal,,15kHz,horizontal,,,2,8,,
+robocop,"Robocop (W, Rev 4)",World,Rev. 4,no,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Run 'n' Gun - Horizontal,,15kHz,horizontal,,,2,8,,2
+robocopj,Robocop (JP),Japan,,yes,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Run 'n' Gun - Horizontal,,15kHz,horizontal,,,2,8,,2
+robocopu0,"Robocop (US, Rev 0)",USA,Rev 0,yes,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Run 'n' Gun - Horizontal,,15kHz,horizontal,,,2,8,,2
+robocopu,"Robocop (US, Rev 1)",USA,Rev 1,yes,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Run 'n' Gun - Horizontal,,15kHz,horizontal,,,2,8,,2
+robocopw,"Robocop (W, Rev 3)",USA,Rev 3,yes,Robocop,Data East MEC-M1,Robocop,no,no,1988,Data East,Run 'n' Gun - Horizontal,,15kHz,horizontal,,,2,8,,2
 trackfld,Track &amp; Field,World,,no,,,,,,1983,Konami,Sports,,15kHz,horizontal,,,4,,,
 Cosmic Alien,Cosmic Alien,,,,,,,,,1981,Universal,,,15kHz,,,,,,,
 hyperspt,Hyper Sports,World,,no,,,,,,1984,Konami,Sports,,15kHz,horizontal,,,4,,,
-hippodrm,Hippodrome (US),USA,,no,,,,,,1989,Data East,Fighting,,15kHz,horizontal,,,2,8,,
+hippodrm,Hippodrome (US),USA,,no,Hippodrome,Data East MEC-M1,,no,no,1989,Data East,Fighting,,15kHz,horizontal,,,2,8,,2
 finalizra,Finalizer: Super Transformation,World,Set 2,no,finalizr,,,no,no,1985,Konami,Shooter - Vertical,,15kHz,,no,,2 (alternating),8-way,,
 Space Panic,Space Panic,,,,,,,,,1981,Universal,Platform,,15kHz,,,,,,,
 finalizr,Finalizer: Super Transformation,World,Set 1,no,finalizr,,,no,no,1985,Konami,Shooter - Vertical,,15kHz,,no,,2 (alternating),8-way,,
@@ -1495,7 +1502,11 @@ tshoot,Turkey Shoot - The Day They Took Over,World,Prototype,no,tshoot,Williams 
 blockade,Blockade,,,no,,,,,,1976,Gremlin,,,15kHz,,,,,,,
 hustle,Hustle,,,no,,,,,,1977,Gremlin,,,15kHz,,,,,,,
 mx5000,MX5000,World,,no,,,,,,1987,Konami,Shooter - Vertical,,15kHz,,,,2,8,,
-secretag,Secret Agent (World revision 3),World,Rev. 3,no,,,,,,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,
+secretag,"Secret Agent (W, Rev 3)",World,Rev. 3,no,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,2
+secretagj,"Secret Agent (JP, Rev 2)",Japan,Rev. 2,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,2
+slyspy2,"Sly Spy (US, Rev 2)",USA,Rev. 2,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,2
+slyspy3,"Sly Spy (US, Rev 3)",USA,Rev. 3,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,2
+slyspy,"Sly Spy (US, Rev 4)",USA,Rev. 4,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,2
 subs,Subs,,,no,subs,,Subs,no,no,1978,Atari,<category>Racing</category>,,15kHz,horizontal,,,1,2-way horizontal,,
 sbasketb,"Super Basketball (version I, encrypted)",World,"Version I, Encrypted",no,,,,,,1984,Konami,Sports,,15kHz,,,,2,8,,
 Magical Spot,Magical Spot,,,,,,,,,1981,Universal,<category>Garden</category>,,15kHz,,,,,,,
@@ -1657,7 +1668,9 @@ shippumd,Shippu Mahou Daisakusen (Japan),Japan,,yes,Kingdom Grandprix,Toaplan 2,
 sstriker,Sorcer Striker,World,,no,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
 mahoudai,Mahou Daisakusen (Japan),Japan,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
 sstrikerk,Sorcer Striker (Korea),Korea,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-renegadeb,Renegade (US bootleg),World,,no,Renegade,Technos,,no,no,1986,bootleg,Fighting,,15kHz,no,,,2,8-way,,3
+renegade,Renegade (US),USA,,no,Renegade,Technos,,no,no,1986,bootleg,Fighting,,15kHz,no,,,2,8-way,,3
+renegadeb,Renegade (US bootleg),USA,,yes,Renegade,Technos,,no,yes,1986,bootleg,Fighting,,15kHz,no,,,2,8-way,,3
+kuniokun,Nekketsu Kouha Kunio-kun (Japan),Japan,,yes,Renegade,Technos,,no,no,1986,bootleg,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
 kuniokunb,Nekketsu Kouha Kunio-kun (Japan bootleg),Japan,,yes,Renegade,Technos,,no,yes,1986,bootleg,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
 nemesis,Nemesis (ROM version),World,,no,Nemesis,GX400,,no,no,1985,Konami,Shooter - Horizontal,,15kHz,no,,,2 (alternating),8-way,,3
 nemesisuk,"Nemesis World, ROM version",World,,no,Nemesis,GX400,,no,no,1985,Konami,Shooter - Horizontal,,15kHz,no,,,2 (alternating),8-way,,3
@@ -1689,3 +1702,11 @@ vigilanta,"Vigilante (W, Rev A)",World,,yes,Vigilante,Irem M75,,no,no,1988,Irem,
 vigilantc,"Vigilante (W, Rev C)",World,,yes,Vigilante,Irem M75,,no,no,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 vigilantbl,Vigilante (bootleg),World,,yes,Vigilante,Irem M75,,no,yes,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 fitegolf,Fighting Golf,,,no,Fighting Golf,SNK Triple Z80,,no,no,1988,SNK,Sport Golf,,15kHz,vertical (cw),,,2 (alternating),8-way,,2
+hotdogst,Hotdog Storm,World,,no,Hotdog Storm,CAVE 68000,,no,no,1996,Marble,Shooter - Vertical,,15kHz,,,,2 (simultaneous),8-way,,3
+bandit,Bandit (US),USA,,no,Bandit,Data East MEC-M1,,no,no,1989,Data East,Driving / Race,,15kHz,vertical,,,2 (alternating),8-way,,2
+birdtry,"Birdie Try (JP, Rev 2, Rev 1 MCU)",Japan,,no,Birdie Try,Data East MEC-M1,,no,no,1988,Data East,Sports / Golf,,15kHz,vertical,,,2 (alternating),8-way,,2
+birdtrya,"Birdie Try (JP, Rev 2)",Japan,,yes,Birdie Try,Data East MEC-M1,,no,no,1988,Data East,Sports / Golf,,15kHz,vertical,,,2 (alternating),8-way,,2
+ffantasyj,"Fighting Fantasy (JP, Rev 2)",Japan,,yes,Hippodrome,Data East MEC-M1,,no,no,1989,Data East,Fighting,,15kHz,horizontal,,,2,8,,2
+ffantasy,"Fighting Fantasy (JP, Rev 3)",Japan,,yes,Hippodrome,Data East MEC-M1,,no,no,1989,Data East,Fighting,,15kHz,horizontal,,,2,8,,2
+ffantasyb,"Fighting Fantasy (JP, Rev X)",Japan,,yes,Hippodrome,Data East MEC-M1,,no,no,1989,Data East,Fighting,,15kHz,horizontal,,,2,8,,2
+ffantasya,Fighting Fantasy (JP),Japan,,yes,Hippodrome,Data East MEC-M1,,no,no,1989,Data East,Fighting,,15kHz,horizontal,,,2,8,,2

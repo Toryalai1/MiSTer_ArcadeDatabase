@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>midres</setname>
-	<name>Midnight Resistance (World)</name>
-	<region>World</region>
+	<setname>ffantasy</setname>
+	<name>Fighting Fantasy (JP, Rev 3)</name>
+	<region>Japan</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<alternative>yes</alternative>
+	<parent_title>Hippodrome</parent_title>
+	<platform>Data East MEC-M1</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1989</year>
 	<manufacturer>Data East</manufacturer>
-	<category></category>
+	<category>Fighting</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2</players>
 	<move_inputs>8</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons></num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>
