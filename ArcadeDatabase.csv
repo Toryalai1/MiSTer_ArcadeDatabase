@@ -519,8 +519,8 @@ gunsmokeu,"Gun Smoke (US, 860408)",USA,860408,yes,Gun Smoke,Capcom CPS-0,,no,no,
 guwanges,Guwange (Special),World,Special,yes,Guwange,CAVE 68000,,no,no,1999,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 guwange,Guwange,World,,no,,CAVE 68000,,no,no,1999,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 gyruss,Gyruss,,,no,Gyruss,Konami 6809 Based,,no,no,1983,Konami,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
-gyrussce,Gyruss (Centuri),,Centuri,yes,Gyruss,,,no,no,1983,Konami / Centuri,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
-gyrussb,Gyruss [bl],,,yes,Gyruss,,,no,yes,1983,Konami,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
+gyrussce,Gyruss (Centuri),,Centuri,yes,Gyruss,Konami 6809 Based,,no,no,1983,Konami / Centuri,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
+gyrussb,Gyruss [bl],,,yes,Gyruss,Konami 6809 Based,,no,yes,1983,Konami,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 handiman,Handi-Man in Cyberworld [hb],,,yes,Tron,Midway MCR,,yes,no,1980,Bobby Tribble,Maze,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 hangonjr,Hang-On Jr. (Rev. B),,Rev. B,no,,Sega System E,,no,no,1985,Sega,Racing,,15kHz,horizontal,,,1,,Spinner,2
 fasthang,Hangly Man (Fast) [hb],,Fast,yes,Pac-Man,,,yes,no,1980,Nittoh,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
