@@ -5,9 +5,9 @@
 	<name>Jackal (W)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Jackal</parent_title>
-	<platform></platform>
+	<platform>Konami Double Dribble based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

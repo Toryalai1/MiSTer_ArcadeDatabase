@@ -5,9 +5,9 @@
 	<name>Gyruss</name>
 	<region></region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Gyruss</parent_title>
-	<platform></platform>
+	<platform>Konami 6809 Based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

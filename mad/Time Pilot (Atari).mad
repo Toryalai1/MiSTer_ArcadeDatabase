@@ -7,7 +7,7 @@
 	<version>Atari</version>
 	<alternative>yes</alternative>
 	<parent_title>Time Pilot</parent_title>
-	<platform></platform>
+	<platform>Konami Z80</platform>
 	<series>Time Pilot</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

@@ -2,15 +2,15 @@
 <misterarcadedescription>
 
 	<setname>spaceplt</setname>
-	<name>Space Pilot</name>
+	<name>Space Pilot (Time Pilot bootleg)</name>
 	<region></region>
 	<version></version>
 	<alternative>yes</alternative>
-	<parent_title>Time Pilot</parent_title>
+	<parent_title>Konami Z80</parent_title>
 	<platform></platform>
 	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
+	<bootleg>yes</bootleg>
 	<year>1982</year>
 	<manufacturer></manufacturer>
 	<category>Shooter - Multidirectional</category>

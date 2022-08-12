@@ -7,7 +7,7 @@
 	<version>Set 1</version>
 	<alternative>yes</alternative>
 	<parent_title>Contra</parent_title>
-	<platform></platform>
+	<platform>Konami Contra based</platform>
 	<series>Contra</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

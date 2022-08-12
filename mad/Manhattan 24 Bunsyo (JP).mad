@@ -2,12 +2,12 @@
 <misterarcadedescription>
 
 	<setname>manhatan</setname>
-	<name>Manhattan 24 Bunsyo</name>
+	<name>Manhattan 24 Bunsyo (JP)</name>
 	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>jailbrek</parent_title>
-	<platform></platform>
+	<platform>Konami Green Beret based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

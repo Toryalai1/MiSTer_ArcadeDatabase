@@ -7,7 +7,7 @@
 	<version>Set 3</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Konami Dual 6809 based</platform>
 	<series>Time Pilot</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
