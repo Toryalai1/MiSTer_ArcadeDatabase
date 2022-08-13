@@ -7,7 +7,7 @@
 	<version>Set 3</version>
 	<alternative>yes</alternative>
 	<parent_title>Double Dragon</parent_title>
-	<platform>Technos</platform>
+	<platform>Technos 6309 based</platform>
 	<series>Double Dragon</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
