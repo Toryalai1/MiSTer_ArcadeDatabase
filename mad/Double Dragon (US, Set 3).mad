@@ -5,7 +5,7 @@
 	<name>Double Dragon (US, Set 3)</name>
 	<region>USA</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>Double Dragon</parent_title>
 	<platform>Technos 6309 based</platform>
 	<series></series>

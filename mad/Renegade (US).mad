@@ -5,7 +5,7 @@
 	<name>Renegade (US)</name>
 	<region>USA</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>Renegade</parent_title>
 	<platform>Technos 6309 based</platform>
 	<series></series>
