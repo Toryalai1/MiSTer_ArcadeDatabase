@@ -7,7 +7,7 @@
 	<version>Program code I</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Konami 6809 based</platform>
 	<series></series>
 	<homebrew></homebrew>
 	<bootleg></bootleg>

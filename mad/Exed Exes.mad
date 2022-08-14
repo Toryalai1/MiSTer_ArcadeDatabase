@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>vulgusa</setname>
-	<name>Vulgus (Set 2)</name>
-	<region></region>
-	<version>Set 2</version>
-	<alternative>yes</alternative>
-	<parent_title>Vulgus</parent_title>
+	<setname>exedexes</setname>
+	<name>Exed Exes</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Exed Exes</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1984</year>
+	<year>1985</year>
 	<manufacturer>Capcom</manufacturer>
 	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
-	<flip>yes</flip>
+	<rotation>vertical</rotation>
+	<flip></flip>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

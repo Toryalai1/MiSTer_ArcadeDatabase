@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>trackfld</setname>
-	<name>Track &amp; Field</name>
+	<setname>combatsc</setname>
+	<name>Combat School (Joystick)</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Konami 6809 based</platform>
+	<parent_title>Combat School</parent_title>
+	<platform>Konami 6309 based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1983</year>
+	<year>1988</year>
 	<manufacturer>Konami</manufacturer>
-	<category>Sports</category>
+	<category>Army / Fighter</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4</players>
-	<move_inputs></move_inputs>
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons></num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -6,9 +6,9 @@
 	<region></region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<parent_title>Spelunker</parent_title>
 	<platform>Irem M62</platform>
-	<series></series>
+	<series>Spelunker</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1985</year>

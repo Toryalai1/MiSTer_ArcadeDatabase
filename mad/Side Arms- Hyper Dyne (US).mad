@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>commandou2</setname>
-	<name>Command (US, Set 2)</name>
+	<setname>sidearmsu</setname>
+	<name>Side Arms- Hyper Dyne (US)</name>
 	<region>USA</region>
-	<version>Set 2</version>
+	<version>861202</version>
 	<alternative>yes</alternative>
-	<parent_title>Commando</parent_title>
+	<parent_title>Side Arms</parent_title>
 	<platform>Capcom CPS-0</platform>
-	<series>Commando</series>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1985</year>
+	<year>1986</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Run 'n' Gun - Vertical</category>
+	<category>Shooter - Horizontal</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
-	<flip>yes</flip>
+	<rotation>horizontal</rotation>
+	<flip></flip>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

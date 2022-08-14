@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>gng</setname>
-	<name>Ghosts'n Goblins (W, JT, Set 1)</name>
+	<setname>srumbler</setname>
+	<name>The Speed Rumbler (Set 1)</name>
 	<region>World</region>
-	<version>JT, Set 1</version>
+	<version>Set 1</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<parent_title>The Speed Rumber</parent_title>
 	<platform>Capcom CPS-0</platform>
-	<series>Ghosts 'n</series>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1985</year>
+	<year>1986</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Platform</category>
+	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
+	<rotation>vertical</rotation>
 	<flip></flip>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

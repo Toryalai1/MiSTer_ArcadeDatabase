@@ -2,15 +2,15 @@
 <misterarcadedescription>
 
 	<setname>roadf</setname>
-	<name>Road Fighter (set 1)</name>
+	<name>Road Fighter (Set 1)</name>
 	<region>World</region>
 	<version>Set 1</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Konami 6809 based</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1984</year>
 	<manufacturer>Konami</manufacturer>
 	<category></category>
