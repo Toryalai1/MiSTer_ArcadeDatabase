@@ -10,16 +10,16 @@
 	<platform>Technos 6309 based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>yes</bootleg>
+	<bootleg>no</bootleg>
 	<year>1986</year>
-	<manufacturer>bootleg</manufacturer>
+	<manufacturer>Technos Japan</manufacturer>
 	<category>Fighting</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>no</rotation>
 	<flip></flip>
 
-	<players>2</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>

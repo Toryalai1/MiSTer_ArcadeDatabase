@@ -1660,8 +1660,8 @@ shippumd,Shippu Mahou Daisakusen (Japan),Japan,,yes,Kingdom Grandprix,Toaplan 2,
 sstriker,Sorcer Striker,World,,no,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
 mahoudai,Mahou Daisakusen (Japan),Japan,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
 sstrikerk,Sorcer Striker (Korea),Korea,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-renegade,Renegade (US),USA,,no,Renegade,Technos 6309 based,,no,no,1986,bootleg,Fighting,,15kHz,no,,,2,8-way,,3
-renegadeb,Renegade (US bootleg),USA,,no,Renegade,Technos 6309 based,,no,yes,1986,bootleg,Fighting,,15kHz,no,,,2,8-way,,3
+renegade,Renegade (US),USA,,no,Renegade,Technos 6309 based,,no,no,1986,Technos Japan,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
+renegadeb,Renegade (US bootleg),USA,,no,Renegade,Technos 6309 based,,no,no,1986,Technos Japan,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
 kuniokun,Nekketsu Kouha Kunio-kun (Japan),Japan,,no,Renegade,Technos 6309 based,,no,no,1986,bootleg,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
 kuniokunb,Nekketsu Kouha Kunio-kun (Japan bootleg),Japan,,no,Renegade,Technos 6309 based,,no,yes,1986,bootleg,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
 nemesis,Nemesis (ROM version),World,,no,Nemesis,GX400,,no,no,1985,Konami,Shooter - Horizontal,,15kHz,no,,,2 (alternating),8-way,,3
