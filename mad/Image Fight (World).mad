@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>vigilantd</setname>
-	<name>Vigilante (JP, Rev D)</name>
-	<region>Japan</region>
+	<setname>imgfight</setname>
+	<name>Image Fight (World)</name>
+	<region>World</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title>Vigilante</parent_title>
-	<platform>Irem M75</platform>
+	<alternative>yes</alternative>
+	<parent_title>Image Fight</parent_title>
+	<platform>Irem M72</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1988</year>
 	<manufacturer>Irem</manufacturer>
-	<category>Beat 'em Up</category>
+	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
+	<rotation>vertical</rotation>
 	<flip></flip>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

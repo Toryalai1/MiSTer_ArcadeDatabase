@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>mysticm</setname>
-	<name>Mystic Marathon</name>
+	<setname></setname>
+	<name>Mystic Marathon (Prototype)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>Mystic Marathon</parent_title>
 	<platform>Williams 2nd Generation</platform>
 	<series></series>

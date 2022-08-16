@@ -1475,6 +1475,7 @@ terrafj,Terra Force (Japan),Japan,,no,Terra Force,Nichibutsu M68000 (Armed F),,n
 terrafu,Terra Force (US),USA,,yes,Terra Force,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical(cw),,,8-way,,2
 terraf,Terra Force,,,yes,Terra Force,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical(cw),,,8-way,,2
 joust2,Joust 2 - Survival of the Fittest (revision 2),World,Rev. 2,no,,Williams 2nd Generation,Joust,no,no,1986,Williams,,,15kHz,vertical (ccw),,,2,8-way,,
+joust2r1,Joust 2 - Survival of the Fittest (revision 1),World,Rev. 1,yes,,Williams 2nd Generation,Joust,no,no,1986,Williams,,,15kHz,vertical (ccw),,,2,8-way,,
 yiear,Yie Ar Kung-Fu (program code I),World,Program code I,no,,Konami 6809 based,,,,1985,Konami,,,15kHz,horizontal,,,2,8,,
 manhatan,Manhattan 24 Bunsyo (JP),Japan,,no,jailbrek,Konami Green Beret based,,no,no,1986,Konami,,,15kHz,,no,,2 (alternating),8-way,,
 xevious,Super Xevious,,,no,xevious,,,no,no,1982,Namco,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,
@@ -1491,7 +1492,7 @@ finalizra,Finalizer: Super Transformation,World,Set 2,no,finalizr,Konami Double 
 Space Panic,Space Panic,,,,,,,,,1981,Universal,Platform,,15kHz,,,,,,,
 finalizr,Finalizer: Super Transformation,World,Set 1,no,finalizr,,,no,no,1985,Konami,Shooter - Vertical,,15kHz,,no,,2 (alternating),8-way,,
 blasto,Blasto,,,no,,,,,,1978,Gremlin,,,15kHz,,,,,,,
-tshoot,Turkey Shoot - The Day They Took Over,World,Prototype,no,tshoot,Williams 2nd Generation,,no,no,1984,Williams,Shooter - Gun,,15kHz,horizontal,,,1,8-way,,
+tshoot,Turkey Shoot - The Day They Took Over,World,Prototype,no,Turkey Shoot,Williams 2nd Generation,,no,no,1984,Williams,Shooter - Gun,,15kHz,horizontal,,,1,8-way,,
 blockade,Blockade,,,no,,,,,,1976,Gremlin,,,15kHz,,,,,,,
 hustle,Hustle,,,no,,,,,,1977,Gremlin,,,15kHz,,,,,,,
 mx5000,MX5000,World,,no,,Konami 6309 based,,no,no,1987,Konami,Shooter - Vertical,,15kHz,,,,2,8,,
@@ -1500,11 +1501,12 @@ secretagj,"Secret Agent (JP, Rev 2)",Japan,Rev. 2,yes,Secret Agent,Data East MEC
 slyspy2,"Sly Spy (US, Rev 2)",USA,Rev. 2,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,2
 slyspy3,"Sly Spy (US, Rev 3)",USA,Rev. 3,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,2
 slyspy,"Sly Spy (US, Rev 4)",USA,Rev. 4,yes,Secret Agent,Data East MEC-M1,,no,no,1989,Data East,Run 'n' Gun - Horiztontal,,15kHz,horizontal,,,2,8,,2
-subs,Subs,,,no,subs,,Subs,no,no,1978,Atari,<category>Racing</category>,,15kHz,horizontal,,,1,2-way horizontal,,
+subs,Subs,,,no,subs,,Subs,no,no,1978,Atari,Racing,,15kHz,horizontal,,,1,2-way horizontal,,
 sbasketb,"Super Basketball (version I, encrypted)",World,"Version I, Encrypted",no,,Konami 6809 based,,no,no,1984,Konami,Sports,,15kHz,,,,2,8,,
-Magical Spot,Magical Spot,,,,,,,,,1981,Universal,<category>Garden</category>,,15kHz,,,,,,,
-mysticm,Mystic Marathon,World,,no,mysticm,,,no,no,1983,Williams,<category>Sports</category>,,15kHz,horizontal,,,2,,,
-numcrash,Number Crash,,Set 1,no,,,Pac-Man,no,no,1980,Hanshin Goraku / Peni,<category>Platform</category>,,15kHz,vertical (cw),no,,1,4-way,,
+Magical Spot,Magical Spot,,,,,,,,,1981,Universal,Garden,,15kHz,,,,,,,
+mysticm,Mystic Marathon,World,,no,Mystic Marathon,Williams 2nd Generation,,no,no,1983,Williams,Sports,,15kHz,horizontal,,,2,,,
+,Mystic Marathon (Prototype),World,,yes,Mystic Marathon,Williams 2nd Generation,,no,no,1983,Williams,Sports,,15kHz,horizontal,,,2,,,
+numcrash,Number Crash,,Set 1,no,,,Pac-Man,no,no,1980,Hanshin Goraku / Peni,Platform,,15kHz,vertical (cw),no,,1,4-way,,
 kicker,Kicker,World,,no,,Konami 6809 based,,no,no,1985,Konami,,,15kHz,,,,2,4,,
 mikie,Mikie,World,,no,,Konami 6809 based,,no,no,1984,Konami,Maze,,15kHz,,,,2,4,,
 finalizrb,Finalizer: Super Transformation,World,Set 2,no,finalizr,,,no,yes,1986,Konami,Shooter - Vertical,,15kHz,,no,,2 (alternating),8-way,,
@@ -1685,8 +1687,8 @@ athena,Athena,,,no,Athena,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,vertical 
 athena,Athena_Screen_Flip_Fix_ROM_Patch,,,no,Athena,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 athenab,Athena (bootleg),,,yes,Athena,SNK Triple Z80,,no,yes,1986,SNK,Action,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 sathena,Super Athena (bootleg),,,yes,Athena,SNK Triple Z80,,no,yes,1986,SNK,Action,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
-vigilant,"Vigilante (W, Rev E)",World,,no,Vigilante,Irem M75,,no,no,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
-vigilantd,"Vigilante (JP, Rev D)",Japan,,yes,Vigilante,Irem M75,,no,no,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
+vigilant,"Vigilante (W, Rev E)",World,,yes,Vigilante,Irem M75,,no,no,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
+vigilantd,"Vigilante (JP, Rev D)",Japan,,no,Vigilante,Irem M75,,no,no,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 vigilanto,Vigilante (US),USA,,yes,Vigilante,Irem M75,,no,no,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 vigilantb,"Vigilante (US, Rev B)",USA,,yes,Vigilante,Irem M75,,no,no,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 vigilantg,"Vigilante (US, Rev G)",USA,,yes,Vigilante,Irem M75,,no,no,1988,Irem,Beat 'em Up,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
@@ -1716,3 +1718,6 @@ ddragon2,Double Dragon II- The Revenge (W),World,,yes,Double Dragon,Technos 6309
 exedexes,Exed Exes,World,,no,Exed Exes,Capcom CPS-0,,no,no,1985,Capcom,Shooter - Vertical,,15kHz,vertical,,,2 (simultaneous),8-way,,2
 savgbees,Savage Bees,World,,yes,Exed Exes,Capcom CPS-0,,no,no,1985,Capcom,Shooter - Vertical,,15kHz,vertical,,,2 (simultaneous),8-way,,2
 combatsc,Combat School (Joystick),World,,no,Combat School,Konami 6309 based,,no,no,1988,Konami,Army / Fighter,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+nspirit,Ninja Spirit (Japan),Japan,,no,Ninja Spirit,Irem M72,,no,no,1988,Irem,Shooter,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+imgfightj,Image Fight (Japan),Japan,,no,Image Fight,Irem M72,,no,no,1988,Irem,Shooter - Vertical,,15kHz,vertical,,,2 (simultaneous),8-way,,2
+imgfight,Image Fight (World),World,,yes,Image Fight,Irem M72,,no,no,1988,Irem,Shooter - Vertical,,15kHz,vertical,,,2 (simultaneous),8-way,,2
