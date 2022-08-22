@@ -5,7 +5,7 @@
 	<name>Alien vs. Predator (JP, 940520)</name>
 	<region>Japan</region>
 	<version>940520</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Alien vs. Predator</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Aliens</series>

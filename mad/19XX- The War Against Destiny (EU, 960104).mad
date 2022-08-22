@@ -5,7 +5,7 @@
 	<name>19XX- The War Against Destiny (EU, 960104)</name>
 	<region>Europe</region>
 	<version>960104</version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>19XX- The War Against Destiny</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>19XX</series>

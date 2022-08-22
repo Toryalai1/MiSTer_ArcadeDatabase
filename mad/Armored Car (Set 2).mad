@@ -7,7 +7,7 @@
 	<version>Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Armored Car</parent_title>
-	<platform></platform>
+	<platform>Konami Scramble based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

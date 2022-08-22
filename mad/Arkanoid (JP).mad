@@ -5,9 +5,9 @@
 	<name>Arkanoid (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Arkanoid</parent_title>
-	<platform></platform>
+	<platform>Taito Arkanoid Hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

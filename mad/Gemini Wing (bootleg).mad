@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>silkworm</setname>
-	<name>Silkworm</name>
+	<setname>geminib</setname>
+	<name>Gemini Wing (bootleg)</name>
 	<region></region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<alternative>yes</alternative>
+	<parent_title>Gemini Wing</parent_title>
 	<platform>Tecmo</platform>
-	<series></series>
+	<series>Gemini Wing</series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
-	<year>1988</year>
+	<bootleg>yes</bootleg>
+	<year>1987</year>
 	<manufacturer>Tecmo</manufacturer>
-	<category>Shooter - Horizontal</category>
+	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
-	<flip></flip>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

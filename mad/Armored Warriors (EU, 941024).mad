@@ -5,8 +5,8 @@
 	<name>Armored Warriors (EU, 941024)</name>
 	<region>Europe</region>
 	<version>941024</version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<alternative>yes</alternative>
+	<parent_title>Armored Warriors</parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series></series>
 	<homebrew>no</homebrew>

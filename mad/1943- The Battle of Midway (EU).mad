@@ -5,7 +5,7 @@
 	<name>1943- The Battle of Midway (EU)</name>
 	<region>Europe</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>1943- The Battle of Midway</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series>19XX</series>

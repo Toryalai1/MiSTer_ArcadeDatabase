@@ -7,7 +7,7 @@
 	<version>Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Bomb Jack</parent_title>
-	<platform></platform>
+	<platform>Tehkan hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

@@ -3,11 +3,11 @@
 
 	<setname>arkanoid</setname>
 	<name>Arkanoid (W)</name>
-	<region>USA</region>
+	<region>World</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<alternative>yes</alternative>
+	<parent_title>Arkanoid</parent_title>
+	<platform>Taito Arkanoid Hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

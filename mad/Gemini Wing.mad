@@ -3,12 +3,12 @@
 
 	<setname>gemini</setname>
 	<name>Gemini Wing</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<parent_title>Gemini Wing</parent_title>
 	<platform>Tecmo</platform>
-	<series></series>
+	<series>Gemini Wing</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1987</year>

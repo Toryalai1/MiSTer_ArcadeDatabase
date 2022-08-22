@@ -6,8 +6,8 @@
 	<region></region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<parent_title>Asteroids</parent_title>
+	<platform>Atari Vector</platform>
 	<series>Asteroids</series>
 	<homebrew></homebrew>
 	<bootleg></bootleg>

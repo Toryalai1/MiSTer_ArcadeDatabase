@@ -7,7 +7,7 @@
 	<version>Rev 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Asteroids</parent_title>
-	<platform></platform>
+	<platform>Atari Vector</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

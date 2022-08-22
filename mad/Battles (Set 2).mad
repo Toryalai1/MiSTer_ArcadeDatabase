@@ -7,7 +7,7 @@
 	<version>Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Xevious</parent_title>
-	<platform></platform>
+	<platform>Namco Galaga Based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
