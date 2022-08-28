@@ -5,7 +5,7 @@
 	<name>Final Fight 30th Anniversary Edition [hb]</name>
 	<region></region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Final Fight</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Final Fight</series>

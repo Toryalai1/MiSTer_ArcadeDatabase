@@ -7,7 +7,7 @@
 	<version>Karateco, Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Van-Van Car</parent_title>
-	<platform>Pac-Man hardware</platform>
+	<platform>Namco Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

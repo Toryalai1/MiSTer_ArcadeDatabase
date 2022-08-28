@@ -378,16 +378,16 @@ feversos,Fever SOS,World,,no,Dangun Feveron,CAVE 68000,,no,no,1998,CAVE,Shooter 
 ffightj1,"Final Fight (JP, 900112)",Japan,900112,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightj2,"Final Fight (JP, 900305)",Japan,900305,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightj3,"Final Fight (JP, 900405)",Japan,900405,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-ffightj4,"Final Fight (JP, 900613)",Japan,900613,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
+ffightj4,"Final Fight (JP, 900613)",Japan,900613,no,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightj,Final Fight (JP),Japan,,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightua,"Final Fight (US, 900112)",USA,900112,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightub,"Final Fight (US, 900424)",USA,900424,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightuc,"Final Fight (US, 900613)",USA,900613,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightu,"Final Fight (US, Set 1)",USA,Set 1,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffightu1,"Final Fight (US, Set 2)",USA,Set 2,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-ffight,"Final Fight (W, Set 1)",World,Set 1,no,,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
+ffight,"Final Fight (W, Set 1)",World,Set 1,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 ffighta,"Final Fight (W, Set 2)",World,Set 2,yes,Final Fight,Capcom CPS-1,Final Fight,no,no,1989,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-ffightae,Final Fight 30th Anniversary Edition [hb],,,yes,Final Fight,Capcom CPS-1,Final Fight,yes,no,2020,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,3
+ffightae,Final Fight 30th Anniversary Edition [hb],,,no,Final Fight,Capcom CPS-1,Final Fight,yes,no,2020,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,3
 flicky,"Flicky (128k Version, 315-5051)",,"128k Version, 315-5051",no,,Sega System 1,,no,no,1984,Sega,Platform,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
 foodfc,Food Fight (Cocktail),,Cocktail,yes,Food Fight,Atari 68000,,no,no,1982,General Computer Corporation / Atari,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,1
 foodf1,Food Fight (Rev 1),,Rev 1,yes,Food Fight,Atari 68000,,no,no,1982,General Computer Corporation / Atari,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,1
@@ -864,9 +864,9 @@ pokonyan,"Pokonyan! Balloon (JP, 940322)",Japan,940322,no,,Capcom CPS-1,,no,no,1
 polyplay,Poly Play,,,no,,Poly Play hardware,,no,no,1985,VEB Polytechnik,Mixed,,15kHz,horizontal,,,1,8-way,,1
 polyplay2,Poly Play 2,,,no,,Poly Play hardware,,no,no,1985,VEB Polytechnik,Mixed,,15kHz,horizontal,,,1,8-way,,1
 polyplay2,Poly Play 2c,,,no,,Poly Play hardware,,no,no,1985,VEB Polytechnik,Mixed,,15kHz,horizontal,,,1,8-way,,1
-pong,Pong (Rev E),,Rev E,no,,Atari Discrete,,no,no,1972,Atari,Ball and Paddle,,15kHz,horizontal,,,2 (simultaneous),,positional,0
-ponpoko,Ponpoko,,,no,,Pac-Man hardware,,no,no,1982,Sigma,Platform - Climb,,15kHz,horizontal,,,2 (alternating),4-way,,1
-ponpokov,Ponpoko (Venture Line),,Venture Line,yes,Ponpoko,Pac-Man hardware,,no,no,1982,Sigma / Venture Line,Platform - Climb,,15kHz,horizontal,,,2 (alternating),4-way,,1
+pong,Pong (Rev E),,Rev E,no,,Atari Discrete hardware,,no,no,1972,Atari,Ball and Paddle,,15kHz,horizontal,,,2 (simultaneous),,positional,0
+ponpoko,Ponpoko,,,no,,Namco Pac-Man hardware,,no,no,1982,Sigma,Platform - Climb,,15kHz,horizontal,,,2 (alternating),4-way,,1
+ponpokov,Ponpoko (Venture Line),,Venture Line,yes,Ponpoko,Namco Pac-Man hardware,,no,no,1982,Sigma / Venture Line,Platform - Climb,,15kHz,horizontal,,,2 (alternating),4-way,,1
 pootan,Pootan [bl],,,yes,Pooyan,Konami Z80,,no,yes,1982,Konami,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way vertical,,1
 pooyan,Pooyan,,,no,Pooyan,Konami Z80,,no,no,1982,Konami,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way vertical,,1
 pooyans,Pooyan (Stern),,Stern,yes,Pooyan,Konami Z80,,no,no,1982,Konami,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way vertical,,1
@@ -881,12 +881,12 @@ progear,"Progear (US, 010117)",USA,010117,no,,Capcom CPS-2,,no,no,2001,Cave / Ca
 progearj,"Progear no Arashi (Japan 010117) [Second Loop] (JP, 010117, Second Loop) [hb]",Japan,"010117, Second Loop",yes,Progear,Capcom CPS-2,,yes,no,2001,Cave / Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
 progearj,"Progear no Arashi (JP, 010117)",Japan,010117,yes,Progear,Capcom CPS-2,,no,no,2001,Cave / Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
 progearj,"Progear Red Label- Halfway to Hell (JP, 160117)",Japan,160117,yes,Progear,Capcom CPS-2,,no,no,2001,Cave / Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
-puck255,Puck Man (255 Maze Fix) [hb],,255 Maze Fix,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-puckman,"Puck Man (JP, Set 1)",Japan,Set 1,no,,Pac-Man hardware,Pac-Man,no,no,1980,Namco,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-puckmod,"Puck Man (JP, Set 2)",Japan,Set 2,yes,Pac-Man,Pac-Man hardware,Pac-Man,no,no,1980,Namco,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-puckmano,Puck Man Opposite [hb],,,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-puckmot1,Puckmotik (Alt.) [hb],,Alt.,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Hebus,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-puckmoti,Puckmotik [hb],,,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Hebus,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+puck255,Puck Man (255 Maze Fix) [hb],,255 Maze Fix,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+puckman,"Puck Man (JP, Set 1)",Japan,Set 1,no,,Namco Pac-Man hardware,Pac-Man,no,no,1980,Namco,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+puckmod,"Puck Man (JP, Set 2)",Japan,Set 2,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,no,no,1980,Namco,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+puckmano,Puck Man Opposite [hb],,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+puckmot1,Puckmotik (Alt.) [hb],,Alt.,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Hebus,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+puckmoti,Puckmotik [hb],,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Hebus,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 pzloop2,"Puzz Loop 2 (EU, 010302)",Europe,010302,no,,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
 pzloop2jr1,"Puzz Loop 2 (JP, 010205)",Japan,010205,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
 pzloop2j,"Puzz Loop 2 (JP, 010226)",Japan,010226,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
@@ -902,8 +902,8 @@ radarscp,Radar Scope,,,no,,Donkey Kong hardware,,no,no,1980,Nintendo,Shooter - G
 raflesia,Rafflesia (315-5162),,315-5162,no,,Sega System 1,,no,no,1986,Sega,Shooter - Vertical,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 raflesia,Rafflesia (Japan) (315-5162),Japan,315-5162,yes,Rafflesia,Sega System 1,,no,no,1986,Sega,Shooter - Vertical,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 dkrainbow,Rainbow Donkey Kong [hb],,,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-rallyx,Rally-X (32k Ver),,32k Ver,no,,Pac-Man hardware,Rally-X,no,no,1980,Namco,Maze,,15kHz,horizontal,,,2 (alternating),4-way,,1
-rallyxm,Rally-X (Midway),,Midway,yes,Rally-X,Pac-Man hardware,,no,no,1980,Namco / Midway,Maze,,15kHz,horizontal,,,2 (alternating),4-way,,1
+rallyx,Rally-X (32k Ver),,32k Ver,no,,Namco Pac-Man hardware,Rally-X,no,no,1980,Namco,Maze,,15kHz,horizontal,,,2 (alternating),4-way,,1
+rallyxm,Rally-X (Midway),,Midway,yes,Rally-X,Namco Pac-Man hardware,,no,no,1980,Namco / Midway,Maze,,15kHz,horizontal,,,2 (alternating),4-way,,1
 rampage2,"Rampage (Rev 2, 860804)",,"Rev 2, 860804",yes,Rampage,Midway MCR3,,no,no,1986,Bally / Midway,Platform - Climb,,15kHz,horizontal,,,3,8-way,,2
 rampage,"Rampage (Rev 3, 860827)",,"Rev 3, 860827",no,,Midway MCR3,,no,no,1986,Bally / Midway,Platform - Climb,,15kHz,horizontal,,,3,8-way,,2
 regulus,"Regulus (315-5033, Rev A)",,"315-5033, Rev A",no,,Sega System 1,,no,no,1983,Sega,Shooter - Vertical,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
@@ -914,7 +914,7 @@ ringdesta,"Ring of Destruction- Slam Masters II (AS, 940831)",Asia,940831,yes,Ri
 ringdest,"Ring of Destruction- Slam Masters II (EU, 940902)",Europe,940902,no,,Capcom CPS-2,Muscle Bomber,no,no,1994,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 ringdesth,"Ring of Destruction- Slam Masters II (HS, 940902)",Hispanic,940902,yes,Ring of Destruction- Slam Masters II,Capcom CPS-2,Muscle Bomber,no,no,1994,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 rpatroln,"River Patrol (JP, Unprotected)",Japan,Unprotected,no,,Taito Licensed ,,no,no,1981,Orca,Sports,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
-roboman,Robo Man [hb],,,yes,Pac-Man,Pac-Man hardware,,yes,no,1980,Runge Editing,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+roboman,Robo Man [hb],,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Runge Editing,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 robotron,Robotron 2084,,,no,,Williams 1st Generation,,no,no,1982,Williams / Vid Kidz,Shooter - Multidirectional,,15kHz,horizontal,,,1,8-way,twin stick,4
 robotron201,"Robotron 2084 (Patched, Blue-201) [hb]",,"Patched, Blue-201",yes,Robotron 2084,Williams 1st Generation,,yes,no,1982,Williams / Vid Kidz,Arena,,15kHz,horizontal,,,1,8-way,twin stick,4
 robotronp,Robotron 2084 (Patched) [hb],,Patched,yes,Robotron 2084,Williams 1st Generation,,yes,no,1982,Williams / Vid Kidz,Arena,,15kHz,horizontal,,,1,8-way,twin stick,4
@@ -974,7 +974,7 @@ skyskipr,Sky Skipper,,,no,,Nintendo Arcade,,no,no,1981,Nintendo,Arena,,15kHz,hor
 slapshtr,Slap Shooter,,,no,,Sega System E,,no,no,1986,Sega,Sports,,15kHz,horizontal,,,1,8-way,,2
 snapjack,Snap Jack,,,no,,Universal Lady Bug,,no,no,1982,Universal,Platform,,15kHz,horizontal,,,2 (alternating),8-way,,0
 koroleva,Snezhnaja Koroleva,,,no,,TIAMC1,,no,no,1988,Terminal,Maze,,15kHz,horizontal,,,1,4-way,,1
-snowpac,Snowy Day Pac-Man [hb],,,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,T-Bone,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+snowpac,Snowy Day Pac-Man [hb],,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,T-Bone,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 solarfox,Solar Fox,,,no,,Midway MCR1,,no,no,1980,Bally / Midway,Shooter - Multidirectional,,15kHz,vertical (cw),no,,2 (alternating),4-way,,2
 solomonjs01,"Solomon no Kagi (CH, Chinese) [hb]",China,Chinese,yes,Solomon's Key,Solomon's Key hardware,,yes,no,1986,Tecmo,Platform - Climb,,15kHz,horizontal,,,2 (alternating),8-way,,2
 solomonj,Solomon no Kagi (JP),Japan,,yes,Solomon's Key,Solomon's Key hardware,,no,no,1986,Tecmo,Platform - Climb,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -990,7 +990,7 @@ invaders,Space Invaders,,,no,,Midway 8080,Space Invaders,no,no,1978,Taito,Shoote
 invad2ct,"Space Invaders Part II (Midway, Cocktail)",,"Midway, Cocktail",yes,Space Invaders,Midway 8080,Space Invaders,no,no,1980,Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 invadpt2,"Space Invaders Part II (Taito, Bigger ROMs)",,"Taito, Bigger ROMs",yes,Space Invaders,Midway 8080,Space Invaders,no,no,1979,Taito,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
 spaceplt,Space Pilot (Time Pilot bootleg),,,yes,,Konami Z80,,no,yes,1982,,Shooter - Multidirectional,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
-spacerace,Space Race,,,no,,Atari Discrete,,no,no,1973,Atari,Racing,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
+spacerace,Space Race,,,no,,Atari Discrete hardware,,no,no,1973,Atari,Racing,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
 spcrocks,"Space Rocks (Asteroids, Spanish) [bl]",,"Asteroids, Spanish",yes,Asteroids,Atari 6502,,no,yes,1981,Atari,Shooter - Multidirectional,,31kHz,horizontal,,,1,2-way horizontal,,3
 spacezap,Space Zap,,,no,,Midway Astrocade,,no,no,1980,Midway,Shooter - Multidirectional,,15kHz,horizontal,,,2 (alternating),4-way,,1
 spartanx,Spartan X (JP),Japan,,yes,Kung-Fu Master,Irem M62,,no,no,1984,Irem,Beat 'em Up,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -1141,8 +1141,8 @@ strideruc,"Strider (US, B-Board, 89624B-3)",USA,"B-Board, 89624B-3",yes,Strider,
 striderjr,"Strider Hiryu (JP, Resale)",Japan,Resale,yes,Strider,Capcom CPS-1,Strider,no,no,1989,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,3
 striderj,Strider Hiryu (JP),Japan,,yes,Strider,Capcom CPS-1,Strider,no,no,1989,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,3
 strongx,Strong X,,,yes,Strategy X,Konami Scramble based,,no,no,1982,,Shooter - Multidirectional,,15kHz,horizontal,,,2 (alternating),8-way,,3
-sumeltob,Summertime Elton (Old) [hb],,Old,yes,Pac-Man,Pac-Man hardware,,yes,no,1980,Staizitto,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-sumelton,Summertime Elton [hb],,,yes,Pac-Man,Pac-Man hardware,,yes,no,1980,Staizitto,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+sumeltob,Summertime Elton (Old) [hb],,Old,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Staizitto,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+sumelton,Summertime Elton [hb],,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Staizitto,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 sbagman,Super Bagman,,,no,Super Bagman,Stern based,,no,no,1984,Valadon Automation,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 sbagmans,Super Bagman (Stern),,Stern,yes,Super Bagman,Stern based,,no,no,1984,Valadon Automation / Stern,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 sbagman2,Super Bagman (Ver 3),,Ver 3,yes,Super Bagman,Stern based,,no,no,1984,Valadon Automation,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
@@ -1161,7 +1161,7 @@ scobrag,Super Cobra [bl],,,yes,Super Cobra,Konami Scramble based,Scramble,no,yes
 sgemfa,"Super Gem Fighter- Mini Mix (AS, 970904)",Asia,970904,yes,Super Gem Fighter- Mini Mix,Capcom CPS-2,Street Fighter,no,no,1997,Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
 sgemfh,"Super Gem Fighter- Mini Mix (HS, 970904)",Hispanic,970904,yes,Super Gem Fighter- Mini Mix,Capcom CPS-2,Street Fighter,no,no,1997,Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
 sgemf,"Super Gem Fighter- Mini Mix (US, 970904)",USA,970904,no,,Capcom CPS-2,Street Fighter,no,no,1997,Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
-sprglobpg,Super Glob [bl],,,no,,Pac-Man hardware,,no,yes,1984,,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,2
+sprglobpg,Super Glob [bl],,,no,,Namco Pac-Man hardware,,no,yes,1984,,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,2
 suprheli,Super Heli (Super Cobra bootleg) (Super Cobra) [bl],,Super Cobra,yes,Super Cobra,Konami Scramble based,,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 smbombr1,"Super Muscle Bomber- The International Blowout (JP, 940808)",Japan,940808,yes,Super Muscle Bomber- The International Blowout,Capcom CPS-2,Muscle Bomber,no,no,1994,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 smbomb,"Super Muscle Bomber- The International Blowout (JP, 940831)",Japan,940831,no,,Capcom CPS-2,Muscle Bomber,no,no,1994,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
@@ -1233,7 +1233,7 @@ battroad,The Battle-Road,,,no,,Irem M62,,no,no,1984,Irem,Shooter - Vertical,,15k
 theend,The End,,,no,,Konami Scramble based,,no,no,1980,Konami,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 theend,The End (BKG),,BKG,no,,Konami Scramble based,,no,no,1980,Konami,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 theends,The End (Stern),,Stern,yes,The End,Konami Scramble based,,no,no,1980,Konami / Stern,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
-theglobp,The Glob (Pac-Man Hardware),,Pac-Man Hardware,no,,Pac-Man hardware,,no,no,1983,Epos Corporation,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
+theglobp,The Glob (Pac-Man Hardware),,Pac-Man Hardware,no,,Namco Pac-Man hardware,,no,no,1983,Epos Corporation,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
 theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighting,,15kHz,no,no,,2 (simutaneous),8-way,,4
 kodja,"The King of Dragons (JP, B-Board, 89625B-1)",Japan,"B-Board, 89625B-1",yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
 kodj,"The King of Dragons (JP, B-Board, 90629B-3)",Japan,"B-Board, 90629B-3",yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
@@ -1303,7 +1303,7 @@ cawingj,"U.S. Navy (JP, 901012)",Japan,901012,yes,Carrier Air Wing,Capcom CPS-1,
 ufosensib,UFO Senshi Youko Chan [bootleg],,,yes,UFO Senshi Youko Chan,Sega System 1,,no,yes,1988,Sega,Maze,,15kHz,horizontal,,,2 (alternating),8-way,,2
 ufosensib,"UFO Senshi Youko Chan [MC-8123, 317-0064]",World,"MC-8123, 317-0064",yes,UFO Senshi Youko Chan,Sega System 1,,no,no,1988,Sega,Maze,,15kHz,horizontal,,,2 (alternating),8-way,,2
 uecology,"Ultimate Ecology (JP, 931203)",Japan,931203,yes,Eco Fighters,Capcom CPS-2,,no,no,1993,Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
-ultra2,Ultra Pac-Man [hb],,,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,TwoBit Score,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+ultra2,Ultra Pac-Man [hb],,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,TwoBit Score,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 ultratnk,Ultra Tank,,,no,,Atari 6502,,no,no,1978,Atari,Shooter - Multidirectional,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,twin stick,1
 uniwars,UniWar S,,,no,,Irem Unique,,no,no,1980,Irem,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 uniwarsa,UniWar S [bl],,,yes,UniWar S,Irem Unique,,no,yes,1980,Irem,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -1329,9 +1329,9 @@ vsavb,"Vampire Savior- The Lord of Vampire (W, 970519)",World,970519,yes,Vampire
 vampjr1,"Vampire- The Night Warriors (JP, 940630)",Japan,940630,yes,Vampire- The Night Warriors,Capcom CPS-2,Darkstalkers,no,no,1994,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 vampja,"Vampire- The Night Warriors (JP, 940705, alt)",Japan,"940705, alt",yes,Vampire- The Night Warriors,Capcom CPS-2,Darkstalkers,no,no,1994,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 vampj,"Vampire- The Night Warriors (JP, 940705)",Japan,940705,yes,Vampire- The Night Warriors,Capcom CPS-2,Darkstalkers,no,no,1994,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
-vanvan,Van-Van Car,,,no,,Pac-Man hardware,,no,no,1983,Sanritsu,Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
-vanvank,"Van-Van Car (Karateco, Set 1)",,"Karateco, Set 1",yes,Van-Van Car,Pac-Man hardware,,no,no,1983,Sanritsu / Karateco,Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
-vanvanb,"Van-Van Car (Karateco, Set 2)",,"Karateco, Set 2",yes,Van-Van Car,Pac-Man hardware,,no,no,1983,Sanritsu / Karateco,Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+vanvan,Van-Van Car,,,no,,Namco Pac-Man hardware,,no,no,1983,Sanritsu,Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+vanvank,"Van-Van Car (Karateco, Set 1)",,"Karateco, Set 1",yes,Van-Van Car,Namco Pac-Man hardware,,no,no,1983,Sanritsu / Karateco,Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
+vanvanb,"Van-Van Car (Karateco, Set 2)",,"Karateco, Set 2",yes,Van-Van Car,Namco Pac-Man hardware,,no,no,1983,Sanritsu / Karateco,Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 varthj,"Varth- Operation Thunderstorm (JP, 920714)",Japan,920714,yes,Varth,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 varthjr,"Varth- Operation Thunderstorm (JP, 920714)",Japan,920714,yes,Varth,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 varthu,"Varth- Operation Thunderstorm (US, 920612)",USA,920612,yes,Varth,Capcom CPS-1,,no,no,1992,Capcom,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
@@ -1343,27 +1343,27 @@ vectiped,Vectipede [hb],,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari
 vgalagaf,Vector Galaga (Fast Shoot) [hb],,Fast Shoot,yes,Galaga,Namco Galaga based,Galaxian,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 vgalagam,Vector Galaga (Midway) [hb],,Midway,yes,Galaga,Namco Galaga based,Galaxian,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 vgalaga,Vector Galaga [hb],,,yes,Galaga,Namco Galaga based,Galaxian,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
-vhangly,Vector Hangly-Man (Vector) [hb],,Vector,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Nittoh,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vecbaby,Vector Pac-Man (Baby Maze 1) [hb],,Baby Maze 1,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vecbaby2,Vector Pac-Man (Baby Maze 2) [hb],,Baby Maze 2,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vecbaby3,Vector Pac-Man (Baby Maze 3) [hb],,Baby Maze 3,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacbell,Vector Pac-Man (Bell) [hb],,Bell,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vcrunchy,Vector Pac-Man (Crunchy) [hb],,Crunchy,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacelec,Vector Pac-Man (Electric Cowboy) [hb],,Electric Cowboy,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacjail,Vector Pac-Man (Jail) [hb],,Jail,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacmsa1,Vector Pac-Man (Ms. Pac-Man Attack 1) [hb],,Ms. Pac-Man Attack 1,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacmsa2,Vector Pac-Man (Ms. Pac-Man Attack 2) [hb],,Ms. Pac-Man Attack 2,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacmsa3,Vector Pac-Man (Ms. Pac-Man Attack 3) [hb],,Ms. Pac-Man Attack 3,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacmsa4,Vector Pac-Man (Ms. Pac-Man Attack 4) [hb],,Ms. Pac-Man Attack 4,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacms1,Vector Pac-Man (Ms. Pac-Man Maze 1) [hb],,Ms. Pac-Man Maze 1,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacms2,Vector Pac-Man (Ms. Pac-Man Maze 2) [hb],,Ms. Pac-Man Maze 2,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacms3,Vector Pac-Man (Ms. Pac-Man Maze 3) [hb],,Ms. Pac-Man Maze 3,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacms4,Vector Pac-Man (Ms. Pac-Man Maze 4) [hb],,Ms. Pac-Man Maze 4,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpacshuf,Vector Pac-Man (Shuffle) [hb],,Shuffle,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vpspeed,Vector Pac-Man (Speedy) [hb],,Speedy,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vecpac,Vector Pac-Man [hb],,,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vectplus,Vector Pacman Plus [hb],,,yes,Pac-Man,Pac-Man hardware,Pac-Man,yes,no,1980,Bally / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-vectxens,Vector Xens Revenge [hb],,,yes,Pac-Man,Pac-Man hardware,,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vhangly,Vector Hangly-Man (Vector) [hb],,Vector,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Nittoh,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vecbaby,Vector Pac-Man (Baby Maze 1) [hb],,Baby Maze 1,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vecbaby2,Vector Pac-Man (Baby Maze 2) [hb],,Baby Maze 2,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vecbaby3,Vector Pac-Man (Baby Maze 3) [hb],,Baby Maze 3,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacbell,Vector Pac-Man (Bell) [hb],,Bell,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vcrunchy,Vector Pac-Man (Crunchy) [hb],,Crunchy,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacelec,Vector Pac-Man (Electric Cowboy) [hb],,Electric Cowboy,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacjail,Vector Pac-Man (Jail) [hb],,Jail,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacmsa1,Vector Pac-Man (Ms. Pac-Man Attack 1) [hb],,Ms. Pac-Man Attack 1,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacmsa2,Vector Pac-Man (Ms. Pac-Man Attack 2) [hb],,Ms. Pac-Man Attack 2,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacmsa3,Vector Pac-Man (Ms. Pac-Man Attack 3) [hb],,Ms. Pac-Man Attack 3,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacmsa4,Vector Pac-Man (Ms. Pac-Man Attack 4) [hb],,Ms. Pac-Man Attack 4,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacms1,Vector Pac-Man (Ms. Pac-Man Maze 1) [hb],,Ms. Pac-Man Maze 1,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacms2,Vector Pac-Man (Ms. Pac-Man Maze 2) [hb],,Ms. Pac-Man Maze 2,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacms3,Vector Pac-Man (Ms. Pac-Man Maze 3) [hb],,Ms. Pac-Man Maze 3,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacms4,Vector Pac-Man (Ms. Pac-Man Maze 4) [hb],,Ms. Pac-Man Maze 4,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpacshuf,Vector Pac-Man (Shuffle) [hb],,Shuffle,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vpspeed,Vector Pac-Man (Speedy) [hb],,Speedy,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vecpac,Vector Pac-Man [hb],,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vectplus,Vector Pacman Plus [hb],,,yes,Pac-Man,Namco Pac-Man hardware,Pac-Man,yes,no,1980,Bally / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+vectxens,Vector Xens Revenge [hb],,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 vectrped,Vectorpede [hb],,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
 venus,Venus (Gyruss) [bl],,Gyruss,no,,Konami 6809 Based,,no,yes,1983,,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 victorycb,Victory,,,no,,Namco Galaxian based,,no,no,1982,,Shooter - Multidirectional,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,1
@@ -1395,7 +1395,7 @@ wbmlvcd,Wonder Boy in Monster Land,Japan,"English, Virtual Console",yes,Wonder B
 wbmlvcd,"Wonder Boy in Monster Land (English, Virtual Console) [decrypted bootleg]",Japan,"English, Virtual Console",yes,Wonder Boy,Sega System 1,,no,yes,1987,Sega,Platform,,15kHz,horizontal,,,2 (alternating),8-way,,2
 wbmljod,Wonder Boy in Monster Land (Japanese Old Version) [decrypted bootleg],Japan,"Old Version, Virtual Console",yes,Wonder Boy,Sega System 1,,no,yes,1987,Sega,Platform,,15kHz,horizontal,,,2 (alternating),8-way,,2
 wbml,"Wonder Boy in Monster Land (Japanese, New Version) [MC-8123, 317-0043]",Japan,"New Version, Virtual Console",yes,Wonder Boy,Sega System 1,,no,no,1987,Sega,Platform,,15kHz,horizontal,,,2 (alternating),8-way,,2
-woodpeck,Woodpecker (Set 1),,Set 1,no,,Pac-Man hardware,,no,no,1981,Amenip / Palcom Queen River,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+woodpeck,Woodpecker (Set 1),,Set 1,no,,Namco Pac-Man hardware,,no,no,1981,Amenip / Palcom Queen River,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 xmvsfar3,"X-Men Vs. Street Fighter (AS, 960910)",Asia,960910,yes,X-Men Vs. Street Fighter,Capcom CPS-2,Marvel / Capcom,no,no,1996,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 xmvsfar2,"X-Men Vs. Street Fighter (AS, 960919)",Asia,960919,yes,X-Men Vs. Street Fighter,Capcom CPS-2,Marvel / Capcom,no,no,1996,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 xmvsfar1,"X-Men Vs. Street Fighter (AS, 961004)",Asia,961004,yes,X-Men Vs. Street Fighter,Capcom CPS-2,Marvel / Capcom,no,no,1996,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
@@ -1427,8 +1427,8 @@ xmcotaj1,"X-Men- Children of the Atom (JP, 941222)",Japan,941222,yes,X-Men- Chil
 xmcotaj,"X-Men- Children of the Atom (JP, 950105)",Japan,950105,yes,X-Men- Children of the Atom,Capcom CPS-2,X-Men / Marvel,no,no,1994,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 xmcotau,"X-Men- Children of the Atom (US, 950105)",USA,950105,yes,X-Men- Children of the Atom,Capcom CPS-2,X-Men / Marvel,no,no,1994,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 xmcotab,"X-Men- Children of the Atom (W, 950331)",World,950331,yes,X-Men- Children of the Atom,Capcom CPS-2,X-Men / Marvel,no,no,1994,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
-xensrev,Xens Revenge [hb],,,yes,Pac-Man,Pac-Man hardware,,yes,no,1980,Jeff Morris,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-xensad,Xens Revenge After Dark [hb],,,yes,Pac-Man,Pac-Man hardware,,yes,no,1980,Jeff Morris,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+xensrev,Xens Revenge [hb],,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Jeff Morris,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+xensad,Xens Revenge After Dark [hb],,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Jeff Morris,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 xevios,Xevios,,,yes,Xevious,Namco Galaga based,,no,no,1982,Namco,Shooter - Vertical,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 xevious,Xevious,,,no,Xevious,Namco Galaga based,,no,no,1982,Namco,Shooter - Vertical,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 xevioush,Xevious 2002 [hb],,,yes,Xevious,Namco Galaga based,,yes,no,1982,Namco,Shooter - Vertical,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
@@ -1498,7 +1498,7 @@ trackfld,Track &amp; Field,World,,no,,Konami 6809 based,,no,no,1983,Konami,Sport
 cosmica,Cosmic Alien,,,no,,Universal Cosmic hardware,,no,no,1981,Universal,,,15kHz,horizontal,,,2 (alternating),2-way,,1
 devzone,Devil Zone,,,no,,Universal Cosmic hardware,,no,no,1980,Universal,,,15kHz,horizontal,,,2 (alternating),2-way,,1
 magspot,Magical Spot,,,no,,Universal Cosmic hardware,,no,no,1980,Universal,,,15kHz,vertical (cw),,,2 (alternating),2-way,,1
-nomnlndg,No Man's Land,,,no,,Universal Cosmic hardware,,no,no,1980,Universal,,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
+nomnlnd,No Man's Land,,,no,,Universal Cosmic hardware,,no,no,1980,Universal,,,15kHz,vertical (cw),,,2 (alternating),8-way,,1
 panic,Space Panic,,,no,,Universal Cosmic hardware,,no,no,1981,Universal,Platform,,15kHz,vertical (cw),,,2 (alternating),4-way,,2
 hyperspt,Hyper Sports,World,,no,,Konami 6809 based,,no,no,1984,Konami,Sports,,15kHz,horizontal,,,4,,,
 hippodrm,Hippodrome (US),USA,,no,Hippodrome,Data East MEC-M1,,no,no,1989,Data East,Fighting,,15kHz,horizontal,,,2,8,,2

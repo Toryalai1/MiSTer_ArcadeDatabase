@@ -5,7 +5,7 @@
 	<name>Final Fight (JP, 900613)</name>
 	<region>Japan</region>
 	<version>900613</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Final Fight</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Final Fight</series>

@@ -7,7 +7,7 @@
 	<version>Venture Line</version>
 	<alternative>yes</alternative>
 	<parent_title>Ponpoko</parent_title>
-	<platform>Pac-Man hardware</platform>
+	<platform>Namco Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

@@ -7,7 +7,7 @@
 	<version>Rev E</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Atari Discrete</platform>
+	<platform>Atari Discrete hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

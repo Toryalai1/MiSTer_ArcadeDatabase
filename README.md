@@ -52,3 +52,4 @@ An example of a valid MAD file would be the following:
 
 </misterarcadedescription>
 ```
+```
