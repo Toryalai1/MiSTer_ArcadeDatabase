@@ -1,6 +1,12 @@
-# MAD Database for MiSTer
+# MiSTer_Arcade_Database
 
-Auto-Generated json DB file at: https://github.com/theypsilon/MAD_Database_MiSTer/tree/db
+The MiSTer_Arcade_Database repo contains files and list about the different arcade core MRAs that are available for MiSTer. The purpose of this database is to be used with the [Arcade Organizer script](https://github.com/theypsilon/_arcade-organizer "Arcade Organizer script") that [theyepsilon](https://github.com/theypsilon/_arcade-organizer "theyepsilon") has created. This is a continuation of what [Porkshop Express](https://twitter.com/misteraddons "Porkshop Express") created and maitained (the repo is now gone).
+
+Anything missing?
+Create an issue ticket.
+
+Auto-Generated json DB file at: 
+https://github.com/Toryalai1/MiSTer_ArcadeDatabase/tree/db
 
 ## How to generate your own MAD Database:
 
