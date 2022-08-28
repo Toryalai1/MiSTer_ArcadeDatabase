@@ -1,6 +1,6 @@
 # MiSTer_Arcade_Database
 
-The MiSTer_Arcade_Database repo contains files and list about the different arcade core MRAs that are available for MiSTer. The purpose of this database is to be used with the [Arcade Organizer script](https://github.com/theypsilon/_arcade-organizer "Arcade Organizer script") that [theyepsilon](https://github.com/theypsilon/_arcade-organizer "theyepsilon") has created. This is a continuation of what [Porkshop Express](https://twitter.com/misteraddons "Porkshop Express") created and maitained (the repo is now gone).
+The MiSTer_Arcade_Database repo contains files and list about the different arcade core MRAs that are available for MiSTer. The purpose of this database is to be used with the [Arcade Organizer script](https://github.com/theypsilon/_arcade-organizer "Arcade Organizer script") that [theypsilon](https://github.com/theypsilon/_arcade-organizer "theypsilon") has created. This is a continuation of what [Porkshop Express](https://twitter.com/misteraddons "Porkshop Express") created and maitained (the repo is now gone).
 
 Anything missing?
 Create an issue ticket.
