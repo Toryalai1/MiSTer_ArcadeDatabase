@@ -16,8 +16,8 @@
 	<category></category>
 
 	<resolution>15kHz</resolution>
-	<rotation></rotation>
-	<flip></flip>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
 
 	<players></players>
 	<move_inputs></move_inputs>

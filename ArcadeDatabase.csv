@@ -404,7 +404,7 @@ frenzy,Frenzy (Rev RA1),,Rev RA1,no,,Stern based,,no,no,1981,Stern,Shooter - Mul
 frogger,Frogger (Konami Bugfixed),,Konami Bugfixed,no,Frogger,Konami Z80,,no,no,1981,Konami,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,0
 frogger,"Frogger (Sega, Set 2)",,"Sega, Set 2",no,Frogger,Konami Z80,,no,no,1981,Konami,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 futurespy,Future Spy,,,no,,Sega Zaxxon based,,no,no,1982,Sega/Gremlin,Shooter - Isometric,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
-gaia,Gaia Crusaders,World,,no,Gaia Crusaders,CAVE 68000,,no,no,1999,CAVE,Fighting,,15kHz,no,no,,2 (simutaneous),8-way,,4
+gaia,Gaia Crusaders,World,,no,Gaia Crusaders,CAVE 68000,,no,no,1999,CAVE,Fighting,,15kHz,horizontal,no,,2 (simutaneous),8-way,,4
 galagaef,Galaga (Enduring Freedom) [hb],,,yes,Galaga,Namco Galaga based,Galaga,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 galagamf,"Galaga (Fast Shoot, Set 1)",,"Fast Shoot, Set 1",yes,Galaga,Namco Galaga based,Galaga,no,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 galagads,Galaga (Fast Shoot) [hb],,Fast Shoot,yes,Galaga,Namco Galaga based,Galaga,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -893,7 +893,7 @@ pzloop2j,"Puzz Loop 2 (JP, 010226)",Japan,010226,yes,Puzz Loop 2,Capcom CPS-2,Pu
 uopokoj,Puzzle Uo Poko (Japan),Japan,,no,Puzzle Uo Poko,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
 uopoko,Puzzle Uo Poko,World,,no,,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
 qbert,"Q'bert (US, Set 1)",USA,Set 1,no,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,vertical (ccw),yes,,2 (alternating),4-way diagonal,,0
-qbertqub,Q'bert Qubes,,,no,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,,,,2 (alternating),4-way diagonal,,0
+qbertqub,Q'bert Qubes,,,no,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,vertical (ccw),,,2 (alternating),4-way diagonal,,0
 qadjr,"Quiz &amp; Dragons- Capcom Quiz Game (JP, Resale, 940921)",Japan,"Resale, 940921",yes,Quiz &amp; Dragons,Capcom CPS-1,,no,no,1994,Capcom,Quiz,,15kHz,horizontal,n/a,,2 (simultaneous),n/a,n/a,4
 qad,"Quiz &amp; Dragons- Capcom Quiz Game (US, 920701)",USA,920701,no,,Capcom CPS-1,,no,no,1992,Capcom,Quiz,,15kHz,horizontal,n/a,,2 (simultaneous),n/a,n/a,4
 qndream,"Quiz Nanairo Dreams- Nijiirochou no Kiseki (JP, 960826)",Japan,960826,no,,Capcom CPS-2,Puzz Loop,no,no,1996,Capcom,Quiz,,15kHz,horizontal,n/a,,2 (simultaneous),4-way,n/a,4
@@ -986,7 +986,7 @@ schaser,Space Chaser,,,no,,Taito 8080,,no,no,1979,Taito,Maze,,15kHz,vertical (cc
 spacempr,Space Empire [bl],,,yes,UniWar S,Irem Unique,,no,yes,1980,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 spcenctr,Space Encounters,,,no,,Midway 8080,,no,no,1980,Midway,Shooter - Vertical,,15kHz,horizontal,,,1,,positional,1
 invaders,Space Invaders,,,no,,Midway 8080,Space Invaders,no,no,1978,Taito,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
-,Space Invaders - Space Invaders M,,,no,,Midway 8080,,,,,,,,15kHz,,,,,,,
+,Space Invaders - Space Invaders M,,,no,,Midway 8080,,,,,,,,15kHz,vertical (ccw),yes,,,,,
 invad2ct,"Space Invaders Part II (Midway, Cocktail)",,"Midway, Cocktail",yes,Space Invaders,Midway 8080,Space Invaders,no,no,1980,Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 invadpt2,"Space Invaders Part II (Taito, Bigger ROMs)",,"Taito, Bigger ROMs",yes,Space Invaders,Midway 8080,Space Invaders,no,no,1979,Taito,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
 spaceplt,Space Pilot (Time Pilot bootleg),,,yes,,Konami Z80,,no,yes,1982,,Shooter - Multidirectional,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
@@ -1234,7 +1234,7 @@ theend,The End,,,no,,Konami Scramble based,,no,no,1980,Konami,Shooter - Gallery,
 theend,The End (BKG),,BKG,no,,Konami Scramble based,,no,no,1980,Konami,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 theends,The End (Stern),,Stern,yes,The End,Konami Scramble based,,no,no,1980,Konami / Stern,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 theglobp,The Glob (Pac-Man Hardware),,Pac-Man Hardware,no,,Namco Pac-Man hardware,,no,no,1983,Epos Corporation,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
-theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighting,,15kHz,no,no,,2 (simutaneous),8-way,,4
+theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighting,,15kHz,horizontal,no,,2 (simutaneous),8-way,,4
 kodja,"The King of Dragons (JP, B-Board, 89625B-1)",Japan,"B-Board, 89625B-1",yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
 kodj,"The King of Dragons (JP, B-Board, 90629B-3)",Japan,"B-Board, 90629B-3",yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
 kodu,"The King of Dragons (US, 910910)",USA,910910,yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
@@ -1441,49 +1441,49 @@ zaxxon,Zaxxon,,,no,,Sega Zaxxon based,Zaxxon,no,no,1982,Sega,Shooter - Isometric
 zerotimemc,Zero Time (Marti Colls),,Marti Colls,yes,Galaxian,Namco Galaxian based,,no,yes,1979,Marti Colls,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 zerotime,Zero Time (Petaco S.A.),,Petaco S.A.,yes,Galaxian,Namco Galaxian based,,no,yes,1979,Petaco S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 zigzagb2,"Zig Zag (Dig Dug Conversion, Set 2) [bl]",,"Dig Dug Conversion, Set 2",yes,Dig Dug,Namco Galaga based,Dig Dug,no,yes,1982,,Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-comotion,CoMotion,,,no,,Sega Blockade hardware,,no,no,1976,Gremlin,,,15kHz,,,,,,,
+comotion,CoMotion,,,no,,Sega Blockade hardware,,no,no,1976,Gremlin,,,15kHz,horizontal,,,,,,
 pingpong,Konami's Ping-Pong,World,,no,,Konami Z80,,no,no,1985,Konami,,,15kHz,horizontal,,,2,2,,
-hellfire,Hellfire (2P set),,2P Set,no,Hellfire,Toaplan 1,,no,no,1989,Toaplan (Taito license),Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-hellfire1,Hellfire (1P set),,1P Set,yes,Hellfire,Toaplan 1,,no,no,1989,Toaplan (Taito license),Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-hellfire1a,"Hellfire (1P set, older)",,1P Set,yes,Hellfire,Toaplan 1,,no,no,1989,Toaplan (Taito license),Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-hellfire2a,"Hellfire (2P set, older)",,2P Set,yes,Hellfire,Toaplan 1,,no,no,1989,Toaplan (Taito license),Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-outzone,Out Zone,,,no,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-outzonecv,Out Zone (Zero Wing TP-015 PCB Conversion),,Zero Wing TP-015 PCB Conversion,yes,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-outzoneh,Out Zone (harder),,,yes,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-outzonea,Out Zone (old set),,,yes,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-outzoneb,Out Zone (older set),,,yes,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-truxton,Truxton - Tatsujin,,,no,Truxton - Tatsujin,Toaplan 1,,no,no,1989,Toaplan,Shooter - Vertical,,15kHz,yes,vertical (cw),,2 (alternating),8-way,,2
-zerowing,Zero Wing (2P set),,,no,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Horizontal,,15kHz,no,,,2 (simultaneous),8-way,,2
-zerowing1,Zero Wing (1P set),,,yes,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Horizontal,,15kHz,no,,,2 (simultaneous),8-way,,2
-zerowingw,"Zero Wing (2P set, Williams license)",,Williams license,yes,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Horizontal,,15kHz,no,,,2 (simultaneous),8-way,,2
-roadf,Road Fighter (Set 1),World,Set 1,no,,Konami 6809 based,,no,no,1984,Konami,,,15kHz,,,,2,8,,
+hellfire,Hellfire (2P set),,2P Set,no,Hellfire,Toaplan 1,,no,no,1989,Toaplan (Taito license),Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+hellfire1,Hellfire (1P set),,1P Set,yes,Hellfire,Toaplan 1,,no,no,1989,Toaplan (Taito license),Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+hellfire1a,"Hellfire (1P set, older)",,1P Set,yes,Hellfire,Toaplan 1,,no,no,1989,Toaplan (Taito license),Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+hellfire2a,"Hellfire (2P set, older)",,2P Set,yes,Hellfire,Toaplan 1,,no,no,1989,Toaplan (Taito license),Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+outzone,Out Zone,,,no,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+outzonecv,Out Zone (Zero Wing TP-015 PCB Conversion),,Zero Wing TP-015 PCB Conversion,yes,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+outzoneh,Out Zone (harder),,,yes,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+outzonea,Out Zone (old set),,,yes,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+outzoneb,Out Zone (older set),,,yes,Out Zone,Toaplan 1,,no,no,1990,Toaplan,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+truxton,Truxton - Tatsujin,,,no,Truxton - Tatsujin,Toaplan 1,,no,no,1989,Toaplan,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
+zerowing,Zero Wing (2P set),,,no,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+zerowing1,Zero Wing (1P set),,,yes,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+zerowingw,"Zero Wing (2P set, Williams license)",,Williams license,yes,Zero Wing,Toaplan 1,,no,no,1989,Toaplan,Shooter - Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+roadf,Road Fighter (Set 1),World,Set 1,no,,Konami 6809 based,,no,no,1984,Konami,,,15kHz,vertical (cw),,,2,8,,
 midres,Midnight Resistance (W),World,,no,Midnight Resistance,Data East MEC-M1,,no,no,1989,Data East,Platformer / Shooting Scrolling,,15kHz,horizontal,,,2,8,,4
 midresj,Midnight Resistance (JP),Japan,,yes,Midnight Resistance,Data East MEC-M1,,no,no,1989,Data East,Platformer / Shooting Scrolling,,15kHz,horizontal,,,2,8,,4
 midresu,Midnight Resistance (US),USA,,yes,Midnight Resistance,Data East MEC-M1,,no,no,1989,Data East,Platformer / Shooting Scrolling,,15kHz,horizontal,,,2,8,,4
 bouldash,Boulder Dash - Boulder Dash Part 2 (W),World,,no,Boulder Dash Part 2,Data East MEC-M1,Boulder Dash,no,no,1990,Data East,Maze / Digging,,15kHz,horizontal,,,2,4,,2
 bouldashj,Boulder Dash - Boulder Dash Part 2 (JP),Japan,,yes,Boulder Dash Part 2,Data East MEC-M1,Boulder Dash,no,no,1990,Data East,Maze / Digging,,15kHz,horizontal,,,2,4,,2
 cosmo,Cosmo,,,no,invaders,Midway 8080,,no,no,1979,TDS &amp; MINTS,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,
-terracre,Terra Cresta (YM3526 set 1),,YM3526 set 1,no,Terra Cresta,Nichibutsu M68000 (Terra Cresta),,no,no,1985,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
-terracreo,Terra Cresta (YM3526 set 2),,YM3526 set 2,yes,Terra Cresta,Nichibutsu M68000 (Terra Cresta),,no,no,1985,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
-terracrea,Terra Cresta (YM3526 set 3),,YM3526 set 3,yes,Terra Cresta,Nichibutsu M68000 (Terra Cresta),,no,no,1985,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
-amatelas,Sei Senshi Amatelass,,,no,Sei Senshi Amatelass,Nichibutsu M68000 (Terra Cresta),,no,no,1986,Nichibutsu,Run 'n' Gun - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
-amazont,Soldier Girl Amazon (Tecfri license),,Tecfri license,yes,Sei Senshi Amatelass,Nichibutsu M68000 (Terra Cresta),,no,no,1986,Nichibutsu,Run 'n' Gun - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
-amatelas,Soldier Girl Amazon,,,yes,Sei Senshi Amatelass,Nichibutsu M68000 (Terra Cresta),,no,no,1986,Nichibutsu,Run 'n' Gun - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
-horekid,Kid no Hore Hore Daisakusen,,,no,Kid no Hore Hore Daisakusen,Nichibutsu M68000 (Terra Cresta),,no,no,1987,Nichibutsu,Puzzle - Platform,,15kHz,yes,vertical (cw),,,8-way,,2
-horekidb,Kid no Hore Hore Daisakusen (Bootleg Set 1),,,yes,Kid no Hore Hore Daisakusen,Nichibutsu M68000 (Terra Cresta),,no,yes,1987,Nichibutsu,Puzzle - Platform,,15kHz,yes,vertical (cw),,,8-way,,2
-horekidb2,Kid no Hore Hore Daisakusen (Bootleg Set 2),,,yes,Kid no Hore Hore Daisakusen,Nichibutsu M68000 (Terra Cresta),,no,yes,1987,Nichibutsu,Puzzle - Platform,,15kHz,yes,vertical (cw),,,8-way,,2
-armedf,Armed F (Japan),Japan,,no,Armed F,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Shooter,,15kHz,no,,,1,8-way,,2
-armedff,Armed F (Fillmore license),,Fillmore license,yes,Armed F,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Shooter,,15kHz,no,,,1,8-way,,2
-legionj2,"Chouji Meikyuu Legion (Japan ver 1.05, set 2)",Japan,,no,Chouji Meikyuu Legion,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
-legion,Legion - Spinner-87 (World ver 2.03),World,,yes,Chouji Meikyuu Legion,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical (cw),,,8-way,,2
-cclimbr2,Crazy Climber 2 (Japan),Japan,,no,Crazy Climber 2,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Platformer,,15kHz,no,,,,2-way,,4
-cclimbr2a,"Crazy Climber 2 (Japan, Harder)",Japan,,yes,Crazy Climber 2,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Platformer,,15kHz,no,,,,2-way,,4
-kozure,Kozure Ookami (Japan),Japan,,no,Kozure Ookami,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Beat 'em' up,,15kHz,no,,,,8-way,,2
-bigfghtr,Tatakae! Big Fighter,,,no,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no,no,1989,Nichibutsu,Shooter - Horizontal,,15kHz,no,,,,8-way,,2
-skyrobo,Sky Robo,,,yes,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no,no,1989,Nichibutsu,Shooter - Horizontal,,15kHz,no,,,,8-way,,2
-terrafj,Terra Force (Japan),Japan,,no,Terra Force,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical(cw),,,8-way,,2
-terrafu,Terra Force (US),USA,,yes,Terra Force,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical(cw),,,8-way,,2
-terraf,Terra Force,,,yes,Terra Force,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,yes,vertical(cw),,,8-way,,2
+terracre,Terra Cresta (YM3526 set 1),,YM3526 set 1,no,Terra Cresta,Nichibutsu M68000 (Terra Cresta),,no,no,1985,Nichibutsu,Shooter - Vertical,,15kHz,vertical (cw),yes,,,8-way,,2
+terracreo,Terra Cresta (YM3526 set 2),,YM3526 set 2,yes,Terra Cresta,Nichibutsu M68000 (Terra Cresta),,no,no,1985,Nichibutsu,Shooter - Vertical,,15kHz,vertical (cw),yes,,,8-way,,2
+terracrea,Terra Cresta (YM3526 set 3),,YM3526 set 3,yes,Terra Cresta,Nichibutsu M68000 (Terra Cresta),,no,no,1985,Nichibutsu,Shooter - Vertical,,15kHz,vertical (cw),yes,,,8-way,,2
+amatelas,Sei Senshi Amatelass,,,no,Sei Senshi Amatelass,Nichibutsu M68000 (Terra Cresta),,no,no,1986,Nichibutsu,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,,8-way,,2
+amazont,Soldier Girl Amazon (Tecfri license),,Tecfri license,yes,Sei Senshi Amatelass,Nichibutsu M68000 (Terra Cresta),,no,no,1986,Nichibutsu,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,,8-way,,2
+amatelas,Soldier Girl Amazon,,,yes,Sei Senshi Amatelass,Nichibutsu M68000 (Terra Cresta),,no,no,1986,Nichibutsu,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,,8-way,,2
+horekid,Kid no Hore Hore Daisakusen,,,no,Kid no Hore Hore Daisakusen,Nichibutsu M68000 (Terra Cresta),,no,no,1987,Nichibutsu,Puzzle - Platform,,15kHz,vertical (cw),yes,,,8-way,,2
+horekidb,Kid no Hore Hore Daisakusen (Bootleg Set 1),,,yes,Kid no Hore Hore Daisakusen,Nichibutsu M68000 (Terra Cresta),,no,yes,1987,Nichibutsu,Puzzle - Platform,,15kHz,vertical (cw),yes,,,8-way,,2
+horekidb2,Kid no Hore Hore Daisakusen (Bootleg Set 2),,,yes,Kid no Hore Hore Daisakusen,Nichibutsu M68000 (Terra Cresta),,no,yes,1987,Nichibutsu,Puzzle - Platform,,15kHz,vertical (cw),yes,,,8-way,,2
+armedf,Armed F (Japan),Japan,,no,Armed F,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Shooter,,15kHz,horizontal,,,1,8-way,,2
+armedff,Armed F (Fillmore license),,Fillmore license,yes,Armed F,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Shooter,,15kHz,horizontal,,,1,8-way,,2
+legionj2,"Chouji Meikyuu Legion (Japan ver 1.05, set 2)",Japan,,no,Chouji Meikyuu Legion,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,vertical (cw),yes,,,8-way,,2
+legion,Legion - Spinner-87 (World ver 2.03),World,,yes,Chouji Meikyuu Legion,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,vertical (cw),yes,,,8-way,,2
+cclimbr2,Crazy Climber 2 (Japan),Japan,,no,Crazy Climber 2,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Platformer,,15kHz,horizontal,,,,2-way,,4
+cclimbr2a,"Crazy Climber 2 (Japan, Harder)",Japan,,yes,Crazy Climber 2,Nichibutsu M68000 (Armed F),,no,no,1988,Nichibutsu,Platformer,,15kHz,horizontal,,,,2-way,,4
+kozure,Kozure Ookami (Japan),Japan,,no,Kozure Ookami,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Beat 'em' up,,15kHz,horizontal,,,,8-way,,2
+bigfghtr,Tatakae! Big Fighter,,,no,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no,no,1989,Nichibutsu,Shooter - Horizontal,,15kHz,horizontal,,,,8-way,,2
+skyrobo,Sky Robo,,,yes,Tatakae! Big Fighter,Nichibutsu M68000 (Armed F),,no,no,1989,Nichibutsu,Shooter - Horizontal,,15kHz,horizontal,,,,8-way,,2
+terrafj,Terra Force (Japan),Japan,,no,Terra Force,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,vertical(cw),yes,,,8-way,,2
+terrafu,Terra Force (US),USA,,yes,Terra Force,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,vertical(cw),yes,,,8-way,,2
+terraf,Terra Force,,,yes,Terra Force,Nichibutsu M68000 (Armed F),,no,no,1987,Nichibutsu,Shooter - Vertical,,15kHz,vertical(cw),yes,,,8-way,,2
 joust2,Joust 2 - Survival of the Fittest (revision 2),World,Rev. 2,no,,Williams 2nd Generation,Joust,no,no,1986,Williams,,,15kHz,vertical (ccw),,,2,8-way,,
 joust2r1,Joust 2 - Survival of the Fittest (revision 1),World,Rev. 1,yes,,Williams 2nd Generation,Joust,no,no,1986,Williams,,,15kHz,vertical (ccw),,,2,8-way,,
 yiear,Yie Ar Kung-Fu (program code I),World,Program code I,no,,Konami 6809 based,,,,1985,Konami,,,15kHz,horizontal,,,2,8,,
@@ -1648,55 +1648,55 @@ wb35,"Wonder Boy III - Monster Lair (JP, S16A, Set 5)",Japan,Set 5,yes,Wonder Bo
 wrestwar,"Wrestle War (W, Set 3)",World,Set 3,no,Wrestle War,Sega System 16,,no,no,1989,Sega,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
 wrestwar1,"Wrestle War (JP, Set 1)",Japan,Set 1,yes,Wrestle War,Sega System 16,,no,no,1989,Sega,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
 wrestwar2,"Wrestle War (W, Set 2)",World,Set 2,yes,Wrestle War,Sega System 16,,no,no,1989,Sega,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
-pang,Pang,World,,no,Pang,Capcom Mitchell,,no,no,1989,Mitchell,Puzzle - Platform,,15kHz,no,,,2 (simultaneous),4-way,,2
-bbros,Buster Bros. (USA),USA,,yes,Pang,Capcom Mitchell,,no,no,1989,Mitchell,Puzzle - Platform,,15kHz,no,,,2 (simultaneous),4-way,,2
-pompingw,Pomping World (Japan),Japan,,yes,Pang,Capcom Mitchell,,no,no,1989,Mitchell,Puzzle - Platform,,15kHz,no,,,2 (simultaneous),4-way,,2
-spang,Super Pang (World 900914),World,,no,Super Pang,Capcom Mitchell,,no,no,1990,Mitchell,Puzzle - Paltform,,15kHz,no,,,2 (simultaneous),4-way,,2
-ssbros,Super Buster Bros. (USA 901001),USA,,yes,Super Pang,Capcom Mitchell,,no,no,1990,Mitchell,Puzzle - Paltform,,15kHz,no,,,2 (simultaneous),4-way,,2
-spangj,Super Pang (Japan 901023),Japan,,yes,Super Pang,Capcom Mitchell,,no,no,1990,Mitchell,Puzzle - Paltform,,15kHz,no,,,2 (simultaneous),4-way,,2
-batrideru,Armed Police Batrider (USA) (Fri Feb 13 1998),USA,,no,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-batriderc,Armed Police Batrider (China) (Fri Feb 13 1998),World,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-batriderhk,Armed Police Batrider (Hong Kong) (Mon Dec 22 1997),World,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-batriderja,Armed Police Batrider (Japan - older version) (Mon Dec 22 1997),Japan,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-batriderk,Armed Police Batrider (Korea) (Fri Feb 13 1998),Korea,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-batridert,Armed Police Batrider (Taiwan) (Mon Dec 22 1997),Taiwan,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bbakraid,Battle Bakraid - Unlimited Version (USA) (Tue Jun 8 1999),USA,,no,Battle Bakraid,Toaplan 2,,no,no,1999,Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bbakraidja,Battle Bakraid (Japan) (Wed Apr 7 1999),Japan,,yes,Battle Bakraid,Toaplan 2,,no,no,1999,Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bbakraidc,Battle Bakraid - Unlimited Version (China) (Tue Jun 8 1999),World,,yes,Battle Bakraid,Toaplan 2,,no,no,1999,Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bbakraidj,Battle Bakraid - Unlimited Version (Japan) (Tue Jun 8 1999),Japan,,yes,Battle Bakraid,Toaplan 2,,no,no,1999,Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bgaregga,Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996),Japan,,no,Battle Garegga,Toaplan 2,,no,no,1996,Raizing - Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bgareggahk,Battle Garegga (Austria - Hong Kong) (Sat Feb 3 1996),World,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bgareggatw,Battle Garegga (Taiwan - Germany) (Thu Feb 1 1996),Taiwan,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bgareggat,Battle Garegga (location test) (Wed Jan 17 1996),World,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bgaregganv,Battle Garegga - New Version (Austria - Hong Kong) (Sat Mar 2 1996),World,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bgareggacn,Battle Garegga - Type 2 (Denmark - China) (Tue Apr 2 1996),World,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing - Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-bgareggat2,Battle Garegga - Type 2 (Europe - USA - Japan - Asia) (Sat Mar 2 1996),Japan,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-kingdmgp,Kingdom Grandprix,World,,no,Kingdom Grandprix,Toaplan 2,,no,no,1994,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-shippumd,Shippu Mahou Daisakusen (Japan),Japan,,yes,Kingdom Grandprix,Toaplan 2,,no,no,1994,Raizing / Eighting,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-sstriker,Sorcer Striker,World,,no,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-mahoudai,Mahou Daisakusen (Japan),Japan,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-sstrikerk,Sorcer Striker (Korea),Korea,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,yes,vertical (ccw),,2 (simultaneous),8-way,,3
-renegade,Renegade (US),USA,,no,Renegade,Technos 6309 based,,no,no,1986,Technos Japan,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
-renegadeb,Renegade (US bootleg),USA,,no,Renegade,Technos 6309 based,,no,no,1986,Technos Japan,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
-kuniokun,Nekketsu Kouha Kunio-kun (Japan),Japan,,no,Renegade,Technos 6309 based,,no,no,1986,bootleg,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
-kuniokunb,Nekketsu Kouha Kunio-kun (Japan bootleg),Japan,,no,Renegade,Technos 6309 based,,no,yes,1986,bootleg,Fighting,,15kHz,no,,,2 (alternating),8-way,,3
-nemesis,Nemesis (ROM version),World,,no,Nemesis,GX400,,no,no,1985,Konami,Shooter - Horizontal,,15kHz,no,,,2 (alternating),8-way,,3
-nemesisuk,"Nemesis World, ROM version",World,,no,Nemesis,GX400,,no,no,1985,Konami,Shooter - Horizontal,,15kHz,no,,,2 (alternating),8-way,,3
-gallop,Gallop - Armed Police Unit (Japan),Japan,,no,Gallop - Armed Police Unit,Irem M72,,no,no,1991,IREM,Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-rtypej,R-Type (Japan),Japan,,no,R-Type,Irem M72,,no,no,1987,IREM,Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-rtype,R-Type (World),World,,no,R-Type,Irem M72,,no,no,1987,IREM,Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-rtypejp,R-Type (Japan prototype),Japan,,yes,R-Type,Irem M72,,no,no,1987,IREM,Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-rtypeu,R-Type (US),USA,,yes,R-Type,Irem M72,,no,no,1987,IREM,Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-rtypeb,R-Type (World bootleg),World,,yes,R-Type,Irem M72,,no,yes,1987,IREM,Shooter - Horizontal,,15kHz,no,,,1,8-way,,2
-tnk3,TNKIII,,,no,TNKIII,SNK Triple Z80,,no,no,1985,SNK,Shooter / Driving Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),"8-way,Positional",,2
-tnk3j,T.A.N.K_Japan,Japan,,yes,TNKIII,SNK Triple Z80,,no,no,1985,SNK,Shooter / Driving Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),"8-way,Positional",,2
-ikari,Ikari Warriors,,,no,Ikari Warriors,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-ikarijp,Ikari Warriors JP,Japan,,yes,Ikari Warriors,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-victroad,Victory Road,,,no,Victory Road,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-dogosoke,Dogou Souken,Japan,,yes,Victory Road,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,2
-aso,ASO - Armored Scrum Object,,,no,ASO - Armored Scrum Object,SNK Triple Z80,,no,no,1985,SNK,Shooter / Flying Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,3
-alphamis,Alpha Mission,,,yes,ASO - Armored Scrum Object,SNK Triple Z80,,no,no,1985,SNK,Shooter / Flying Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,3
-arian,Arian Mission,,,yes,ASO - Armored Scrum Object,SNK Triple Z80,,no,no,1985,SNK,Shooter / Flying Vertical,,15kHz,yes,vertical (cw),,2 (simultaneous),8-way,,3
+pang,Pang,World,,no,Pang,Capcom Mitchell,,no,no,1989,Mitchell,Puzzle - Platform,,15kHz,horizontal,,,2 (simultaneous),4-way,,2
+bbros,Buster Bros. (USA),USA,,yes,Pang,Capcom Mitchell,,no,no,1989,Mitchell,Puzzle - Platform,,15kHz,horizontal,,,2 (simultaneous),4-way,,2
+pompingw,Pomping World (Japan),Japan,,yes,Pang,Capcom Mitchell,,no,no,1989,Mitchell,Puzzle - Platform,,15kHz,horizontal,,,2 (simultaneous),4-way,,2
+spang,Super Pang (World 900914),World,,no,Super Pang,Capcom Mitchell,,no,no,1990,Mitchell,Puzzle - Paltform,,15kHz,horizontal,,,2 (simultaneous),4-way,,2
+ssbros,Super Buster Bros. (USA 901001),USA,,yes,Super Pang,Capcom Mitchell,,no,no,1990,Mitchell,Puzzle - Paltform,,15kHz,horizontal,,,2 (simultaneous),4-way,,2
+spangj,Super Pang (Japan 901023),Japan,,yes,Super Pang,Capcom Mitchell,,no,no,1990,Mitchell,Puzzle - Paltform,,15kHz,horizontal,,,2 (simultaneous),4-way,,2
+batrideru,Armed Police Batrider (USA) (Fri Feb 13 1998),USA,,no,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+batriderc,Armed Police Batrider (China) (Fri Feb 13 1998),World,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+batriderhk,Armed Police Batrider (Hong Kong) (Mon Dec 22 1997),World,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+batriderja,Armed Police Batrider (Japan - older version) (Mon Dec 22 1997),Japan,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+batriderk,Armed Police Batrider (Korea) (Fri Feb 13 1998),Korea,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+batridert,Armed Police Batrider (Taiwan) (Mon Dec 22 1997),Taiwan,,yes,Armed Police Batrider,Toaplan 2,,no,no,1998,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bbakraid,Battle Bakraid - Unlimited Version (USA) (Tue Jun 8 1999),USA,,no,Battle Bakraid,Toaplan 2,,no,no,1999,Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bbakraidja,Battle Bakraid (Japan) (Wed Apr 7 1999),Japan,,yes,Battle Bakraid,Toaplan 2,,no,no,1999,Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bbakraidc,Battle Bakraid - Unlimited Version (China) (Tue Jun 8 1999),World,,yes,Battle Bakraid,Toaplan 2,,no,no,1999,Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bbakraidj,Battle Bakraid - Unlimited Version (Japan) (Tue Jun 8 1999),Japan,,yes,Battle Bakraid,Toaplan 2,,no,no,1999,Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bgaregga,Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996),Japan,,no,Battle Garegga,Toaplan 2,,no,no,1996,Raizing - Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bgareggahk,Battle Garegga (Austria - Hong Kong) (Sat Feb 3 1996),World,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bgareggatw,Battle Garegga (Taiwan - Germany) (Thu Feb 1 1996),Taiwan,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bgareggat,Battle Garegga (location test) (Wed Jan 17 1996),World,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bgaregganv,Battle Garegga - New Version (Austria - Hong Kong) (Sat Mar 2 1996),World,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bgareggacn,Battle Garegga - Type 2 (Denmark - China) (Tue Apr 2 1996),World,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing - Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+bgareggat2,Battle Garegga - Type 2 (Europe - USA - Japan - Asia) (Sat Mar 2 1996),Japan,,yes,Battle Garegga,Toaplan 2,,no,no,1996,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+kingdmgp,Kingdom Grandprix,World,,no,Kingdom Grandprix,Toaplan 2,,no,no,1994,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+shippumd,Shippu Mahou Daisakusen (Japan),Japan,,yes,Kingdom Grandprix,Toaplan 2,,no,no,1994,Raizing / Eighting,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+sstriker,Sorcer Striker,World,,no,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+mahoudai,Mahou Daisakusen (Japan),Japan,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+sstrikerk,Sorcer Striker (Korea),Korea,,yes,Sorcer Striker,Toaplan 2,,no,no,1993,Raizing,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+renegade,Renegade (US),USA,,no,Renegade,Technos 6309 based,,no,no,1986,Technos Japan,Fighting,,15kHz,horizontal,,,2 (alternating),8-way,,3
+renegadeb,Renegade (US bootleg),USA,,no,Renegade,Technos 6309 based,,no,no,1986,Technos Japan,Fighting,,15kHz,horizontal,,,2 (alternating),8-way,,3
+kuniokun,Nekketsu Kouha Kunio-kun (Japan),Japan,,no,Renegade,Technos 6309 based,,no,no,1986,bootleg,Fighting,,15kHz,horizontal,,,2 (alternating),8-way,,3
+kuniokunb,Nekketsu Kouha Kunio-kun (Japan bootleg),Japan,,no,Renegade,Technos 6309 based,,no,yes,1986,bootleg,Fighting,,15kHz,horizontal,,,2 (alternating),8-way,,3
+nemesis,Nemesis (ROM version),World,,no,Nemesis,GX400,,no,no,1985,Konami,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,3
+nemesisuk,"Nemesis World, ROM version",World,,no,Nemesis,GX400,,no,no,1985,Konami,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,3
+gallop,Gallop - Armed Police Unit (Japan),Japan,,no,Gallop - Armed Police Unit,Irem M72,,no,no,1991,IREM,Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+rtypej,R-Type (Japan),Japan,,no,R-Type,Irem M72,,no,no,1987,IREM,Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+rtype,R-Type (World),World,,no,R-Type,Irem M72,,no,no,1987,IREM,Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+rtypejp,R-Type (Japan prototype),Japan,,yes,R-Type,Irem M72,,no,no,1987,IREM,Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+rtypeu,R-Type (US),USA,,yes,R-Type,Irem M72,,no,no,1987,IREM,Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+rtypeb,R-Type (World bootleg),World,,yes,R-Type,Irem M72,,no,yes,1987,IREM,Shooter - Horizontal,,15kHz,horizontal,,,1,8-way,,2
+tnk3,TNKIII,,,no,TNKIII,SNK Triple Z80,,no,no,1985,SNK,Shooter / Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
+tnk3j,T.A.N.K_Japan,Japan,,yes,TNKIII,SNK Triple Z80,,no,no,1985,SNK,Shooter / Driving Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),"8-way,Positional",,2
+ikari,Ikari Warriors,,,no,Ikari Warriors,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+ikarijp,Ikari Warriors JP,Japan,,yes,Ikari Warriors,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+victroad,Victory Road,,,no,Victory Road,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+dogosoke,Dogou Souken,Japan,,yes,Victory Road,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+aso,ASO - Armored Scrum Object,,,no,ASO - Armored Scrum Object,SNK Triple Z80,,no,no,1985,SNK,Shooter / Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+alphamis,Alpha Mission,,,yes,ASO - Armored Scrum Object,SNK Triple Z80,,no,no,1985,SNK,Shooter / Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
+arian,Arian Mission,,,yes,ASO - Armored Scrum Object,SNK Triple Z80,,no,no,1985,SNK,Shooter / Flying Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,3
 athena,Athena,,,no,Athena,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 athena,Athena_Screen_Flip_Fix_ROM_Patch,,,no,Athena,SNK Triple Z80,,no,no,1986,SNK,Action,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 athenab,Athena (bootleg),,,yes,Athena,SNK Triple Z80,,no,yes,1986,SNK,Action,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2

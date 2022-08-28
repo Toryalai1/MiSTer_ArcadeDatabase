@@ -16,7 +16,7 @@
 	<category>Platform - Climb</category>
 
 	<resolution>15kHz</resolution>
-	<rotation></rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 
 	<players>2 (alternating)</players>

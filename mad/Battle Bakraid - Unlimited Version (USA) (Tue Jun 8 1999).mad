@@ -16,8 +16,8 @@
 	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>yes</rotation>
-	<flip>vertical (ccw)</flip>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
