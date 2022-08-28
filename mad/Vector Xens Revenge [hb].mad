@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>
-	<platform></platform>
+	<platform>Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>

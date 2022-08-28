@@ -5,7 +5,7 @@
 	<name>Captain Commando (JP, 920928)</name>
 	<region>Japan</region>
 	<version>920928</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Captain Commando</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series></series>

@@ -7,7 +7,7 @@
 	<version>2 Players, Rev 1</version>
 	<alternative>yes</alternative>
 	<parent_title>Gauntlet II</parent_title>
-	<platform></platform>
+	<platform>Atari Gauntlet based</platform>
 	<series>Gauntlet</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

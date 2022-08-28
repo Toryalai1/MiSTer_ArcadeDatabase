@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Rally-X</parent_title>
-	<platform></platform>
+	<platform>Pac-Man based</platform>
 	<series>Rally-X</series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

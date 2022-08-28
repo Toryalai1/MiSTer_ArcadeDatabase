@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>Magical Spot</setname>
+	<setname>magspot</setname>
 	<name>Magical Spot</name>
 	<region></region>
 	<version></version>
-	<alternative></alternative>
+	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Universal Cosmic hardware</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
-	<year>1981</year>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
 	<manufacturer>Universal</manufacturer>
-	<category>Garden</category>
+	<category></category>
 
 	<resolution>15kHz</resolution>
-	<rotation></rotation>
+	<rotation>vertical (cw)</rotation>
 	<flip></flip>
 
-	<players></players>
-	<move_inputs></move_inputs>
+	<players>2 (alternating)</players>
+	<move_inputs>2-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons></num_buttons>
+	<num_buttons>1</num_buttons>
 </misterarcadedescription>

@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>Clean Sweep</setname>
+	<setname>cleansweept</setname>
 	<name>Clean Sweep (TTL)</name>
 	<region></region>
 	<version>TTL</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Namco Galaxian based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

@@ -7,7 +7,7 @@
 	<version>Rev 6</version>
 	<alternative>yes</alternative>
 	<parent_title>Gauntlet</parent_title>
-	<platform></platform>
+	<platform>Atari Gauntlet based</platform>
 	<series>Gauntlet</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

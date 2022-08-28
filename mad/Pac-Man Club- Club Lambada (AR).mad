@@ -6,8 +6,8 @@
 	<region>Argentina</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<parent_title>Pac-Man</parent_title>
+	<platform>Pac-Man based</platform>
 	<series>Pac-Man</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

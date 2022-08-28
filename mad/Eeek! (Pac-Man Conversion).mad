@@ -7,7 +7,7 @@
 	<version>Pac-Man Conversion</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Pac-Man based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

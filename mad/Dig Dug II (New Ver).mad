@@ -7,7 +7,7 @@
 	<version>New Ver</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Namco Super Pacman based</platform>
 	<series>Dig Dug</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

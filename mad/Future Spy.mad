@@ -7,10 +7,10 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Sega Zaxxon based</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1982</year>
 	<manufacturer>Sega/Gremlin</manufacturer>
 	<category>Shooter - Isometric</category>

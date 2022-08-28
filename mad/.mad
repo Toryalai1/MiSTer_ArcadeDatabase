@@ -2,10 +2,10 @@
 <misterarcadedescription>
 
 	<setname></setname>
-	<name>Dangun Feveron (JP, v980917)</name>
+	<name></name>
 	<region></region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative></alternative>
 	<parent_title></parent_title>
 	<platform></platform>
 	<series></series>
@@ -15,7 +15,7 @@
 	<manufacturer></manufacturer>
 	<category></category>
 
-	<resolution>15kHz</resolution>
+	<resolution></resolution>
 	<rotation></rotation>
 	<flip></flip>
 

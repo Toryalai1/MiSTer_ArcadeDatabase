@@ -7,7 +7,7 @@
 	<version>Midway</version>
 	<alternative>yes</alternative>
 	<parent_title>Rally-X</parent_title>
-	<platform></platform>
+	<platform>Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

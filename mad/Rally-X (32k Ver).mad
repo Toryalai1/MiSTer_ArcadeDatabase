@@ -7,7 +7,7 @@
 	<version>32k Ver</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Pac-Man hardware</platform>
 	<series>Rally-X</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

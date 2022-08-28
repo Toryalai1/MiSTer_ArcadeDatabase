@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pisces</parent_title>
-	<platform></platform>
+	<platform>Namco Galaxian based</platform>
 	<series></series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>

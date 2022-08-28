@@ -6,8 +6,8 @@
 	<region></region>
 	<version>Midway, Set 1</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<parent_title>Galaga</parent_title>
+	<platform>Namco Galaga based</platform>
 	<series>Galaga</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

@@ -6,8 +6,8 @@
 	<region></region>
 	<version></version>
 	<alternative>yes</alternative>
-	<parent_title>UniWar S</parent_title>
-	<platform></platform>
+	<parent_title></parent_title>
+	<platform>Namco Galaxian based</platform>
 	<series>Galaxian</series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

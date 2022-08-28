@@ -6,8 +6,8 @@
 	<region></region>
 	<version>Namco, Set 1</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<parent_title>Galaxian</parent_title>
+	<platform>Namco Galaxian based</platform>
 	<series>Galaxian</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

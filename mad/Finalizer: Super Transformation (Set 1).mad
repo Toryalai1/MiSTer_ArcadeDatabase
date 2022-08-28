@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>finalizrb</setname>
-	<name>Finalizer: Super Transformation</name>
+	<setname>finalizr</setname>
+	<name>Finalizer: Super Transformation (Set 1)</name>
 	<region>World</region>
-	<version>Set 2</version>
-	<alternative>no</alternative>
+	<version>Set 1</version>
+	<alternative>yes</alternative>
 	<parent_title>finalizr</parent_title>
-	<platform></platform>
+	<platform>Konami Double Dribble based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>yes</bootleg>
-	<year>1986</year>
+	<bootleg>no</bootleg>
+	<year>1985</year>
 	<manufacturer>Konami</manufacturer>
 	<category>Shooter - Vertical</category>
 

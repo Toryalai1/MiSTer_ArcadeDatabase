@@ -7,7 +7,7 @@
 	<version>Prototype</version>
 	<alternative>yes</alternative>
 	<parent_title>Sinistar</parent_title>
-	<platform></platform>
+	<platform>Williams 1st Generation</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

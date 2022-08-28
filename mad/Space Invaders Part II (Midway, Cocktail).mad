@@ -7,7 +7,7 @@
 	<version>Midway, Cocktail</version>
 	<alternative>yes</alternative>
 	<parent_title>Space Invaders</parent_title>
-	<platform></platform>
+	<platform>Midway 8080</platform>
 	<series>Space Invaders</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

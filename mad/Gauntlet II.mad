@@ -6,8 +6,8 @@
 	<region></region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<parent_title>Gauntlet II</parent_title>
+	<platform>Atari Gauntlet based</platform>
 	<series>Gauntlet</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

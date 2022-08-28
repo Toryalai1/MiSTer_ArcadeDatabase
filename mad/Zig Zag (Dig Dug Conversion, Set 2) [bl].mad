@@ -7,7 +7,7 @@
 	<version>Dig Dug Conversion, Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Dig Dug</parent_title>
-	<platform></platform>
+	<platform>Namco Galaga based</platform>
 	<series>Dig Dug</series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

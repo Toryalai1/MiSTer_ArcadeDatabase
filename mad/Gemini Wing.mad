@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Gemini Wing</parent_title>
-	<platform>Tecmo</platform>
+	<platform>Tecmo hardware</platform>
 	<series>Gemini Wing</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

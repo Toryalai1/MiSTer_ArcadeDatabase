@@ -7,7 +7,7 @@
 	<version>Set 4</version>
 	<alternative>yes</alternative>
 	<parent_title>Gaplus</parent_title>
-	<platform></platform>
+	<platform>Namco Galaga based</platform>
 	<series>Galaga</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

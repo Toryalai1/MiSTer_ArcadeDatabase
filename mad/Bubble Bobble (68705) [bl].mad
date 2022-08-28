@@ -6,8 +6,8 @@
 	<region>Japan</region>
 	<version>v0.1</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<parent_title>Bubble Bobble</parent_title>
+	<platform>Taito Bubble Booble based</platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

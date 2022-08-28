@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Bubble Bobble</parent_title>
-	<platform></platform>
+	<platform>Taito Bubble Booble based</platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

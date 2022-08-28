@@ -7,7 +7,7 @@
 	<version>2600 GFX</version>
 	<alternative>yes</alternative>
 	<parent_title>Donkey Kong</parent_title>
-	<platform></platform>
+	<platform>Donkey Kong hardware</platform>
 	<series>Donkey Kong</series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>

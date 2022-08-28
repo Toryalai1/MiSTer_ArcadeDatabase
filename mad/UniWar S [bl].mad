@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>UniWar S</parent_title>
-	<platform></platform>
+	<platform>Irem Unique</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

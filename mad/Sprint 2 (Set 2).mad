@@ -7,7 +7,7 @@
 	<version>Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Sprint 2</parent_title>
-	<platform></platform>
+	<platform>Atari 6502</platform>
 	<series>Sprint</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

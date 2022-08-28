@@ -7,7 +7,7 @@
 	<version>Cocktail, Set 1</version>
 	<alternative>yes</alternative>
 	<parent_title>Tetris</parent_title>
-	<platform></platform>
+	<platform>Atari 6502</platform>
 	<series>Tetris</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

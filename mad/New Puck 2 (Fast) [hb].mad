@@ -7,7 +7,7 @@
 	<version>Fast</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>
-	<platform></platform>
+	<platform>Pac-Man based</platform>
 	<series>Pac-Man</series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>

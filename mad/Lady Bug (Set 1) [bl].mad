@@ -7,7 +7,7 @@
 	<version>Set 1</version>
 	<alternative>yes</alternative>
 	<parent_title>Lady Bug</parent_title>
-	<platform></platform>
+	<platform>Universal Lady Bug</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

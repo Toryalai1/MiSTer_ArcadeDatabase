@@ -7,7 +7,7 @@
 	<version>Rev 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Vindicators Part II</parent_title>
-	<platform></platform>
+	<platform>Atari Gauntlet based</platform>
 	<series>Vindicators</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

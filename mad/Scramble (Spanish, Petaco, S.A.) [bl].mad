@@ -7,7 +7,7 @@
 	<version>Spanish, Petaco, S.A.</version>
 	<alternative>yes</alternative>
 	<parent_title>Scramble</parent_title>
-	<platform></platform>
+	<platform>Konami Scramble based</platform>
 	<series>Scramble</series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

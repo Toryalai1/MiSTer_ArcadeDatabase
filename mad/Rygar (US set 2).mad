@@ -7,7 +7,7 @@
 	<version>Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Rygar</parent_title>
-	<platform>Tecmo</platform>
+	<platform>Tecmo hardware</platform>
 	<series>Rygar</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

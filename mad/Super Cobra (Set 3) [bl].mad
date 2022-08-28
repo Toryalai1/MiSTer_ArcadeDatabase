@@ -7,7 +7,7 @@
 	<version>Set 3</version>
 	<alternative>yes</alternative>
 	<parent_title>Super Cobra</parent_title>
-	<platform></platform>
+	<platform>Konami Scramble based</platform>
 	<series>Scramble</series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

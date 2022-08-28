@@ -7,7 +7,7 @@
 	<version>Scramble Hardware</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Konami Scramble based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

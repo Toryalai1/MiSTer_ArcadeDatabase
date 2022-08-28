@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname></setname>
+	<setname>spacerace</setname>
 	<name>Space Race</name>
 	<region></region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Atari Discrete</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

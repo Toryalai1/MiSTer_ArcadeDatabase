@@ -6,8 +6,8 @@
 	<region></region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform></platform>
+	<parent_title>Rally-X</parent_title>
+	<platform>Pac-Man based</platform>
 	<series>Rally-X</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

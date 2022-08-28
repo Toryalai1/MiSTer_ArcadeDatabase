@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>subs</parent_title>
-	<platform></platform>
+	<platform>Atari 6502</platform>
 	<series>Subs</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

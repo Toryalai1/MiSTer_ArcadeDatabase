@@ -7,7 +7,7 @@
 	<version>Tester</version>
 	<alternative>yes</alternative>
 	<parent_title>Pooyan</parent_title>
-	<platform></platform>
+	<platform>Konami Z80</platform>
 	<series></series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>

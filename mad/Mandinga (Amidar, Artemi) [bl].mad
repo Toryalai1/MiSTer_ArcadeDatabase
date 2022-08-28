@@ -7,7 +7,7 @@
 	<version>Amidar, Artemi</version>
 	<alternative>yes</alternative>
 	<parent_title>Amidar</parent_title>
-	<platform></platform>
+	<platform>Konami Scramble based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

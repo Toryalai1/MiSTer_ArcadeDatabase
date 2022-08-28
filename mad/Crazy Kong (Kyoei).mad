@@ -7,7 +7,7 @@
 	<version>Kyoei</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform></platform>
+	<platform>Donkey Kong hardware</platform>
 	<series>Donkey Kong</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
