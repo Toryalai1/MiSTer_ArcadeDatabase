@@ -38,18 +38,18 @@ abortman,Abortman,,,yes,Pac-Man,Pac-Man based,,no,no,1980,Atari,Maze,,15kHz,vert
 cworld2ja,"Adventure Quiz Capcom 2 (JP, 920611, B-Board 90629B-3, no battery)",Japan,"920611, B-Board 90629B-3, no battery",yes,Adventure Quiz Capcom World 2,Capcom CPS-1,,no,no,1992,Capcom,Quiz,,15kHz,horizontal,n/a,,2 (simultaneous),n/a,n/a,4
 cworld2jb,"Adventure Quiz Capcom 2 (JP, 920611, B-Board 91634B-2)",Japan,"920611, B-Board 91634B-2",yes,Adventure Quiz Capcom World 2,Capcom CPS-1,,no,no,1992,Capcom,Quiz,,15kHz,horizontal,n/a,,2 (simultaneous),n/a,n/a,4
 cworld2j,"Adventure Quiz Capcom 2 (JP, 920611)",Japan,920611,no,Adventure Quiz Capcom World 2,Capcom CPS-1,,no,no,1992,Capcom,Quiz,,15kHz,horizontal,n/a,,2 (simultaneous),n/a,n/a,4
-aerolitos,Aerolitos (Spanish),,Spanish,yes,Asteroids,Atari Vector,,no,no,1980,Atari,Shooter - Multidirectional,,31kHz,horizontal,,,1,2-way horizontal,,3
-alibaba,Ali Baba and 40 Thieves,,,no,,Sega Z80,,no,no,1982,Sega,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
-alienaru,Alien Arena (Stargate upgrade),,Stargate upgrade,no,,Robotron based,,no,no,1985,Duncan Brown,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,2
+aerolitos,Aerolitos (Spanish),Spain,Spanish,yes,Asteroids,Atari Vector,,no,no,1980,Atari,Shooter - Multidirectional,,31kHz,horizontal,,,1,2-way horizontal,,3
+alibaba,Ali Baba and 40 Thieves,,,no,Ali Baba and 40 Thieves,Sega Z80,,no,no,1982,Sega,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+alienaru,Alien Arena (Stargate upgrade),,Stargate upgrade,no,Alien Arena,Robotron based,,no,no,1985,Duncan Brown,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,2
 avspa,"Alien vs. Predator (AS, 940520)",Asia,940520,yes,Alien vs. Predator,Capcom CPS-2,Aliens,no,no,1994,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,n/a,3
 avsp,"Alien vs. Predator (EU, 940520)",Europe,940520,yes,Alien vs. Predator,Capcom CPS-2,Aliens,no,no,1994,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,n/a,3
 avsph,"Alien vs. Predator (HS, 940520)",Hispanic,940520,yes,Alien vs. Predator,Capcom CPS-2,Aliens,no,no,1994,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,n/a,3
 avspj,"Alien vs. Predator (JP, 940520)",Japan,940520,no,Alien vs. Predator,Capcom CPS-2,Aliens,no,no,1994,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,n/a,3
 avspu,"Alien vs. Predator (US, 940520)",USA,940520,yes,Alien vs. Predator,Capcom CPS-2,Aliens,no,no,1994,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,n/a,3
-maze,Amazing Maze,,,no,,Midway 8080,,no,no,1976,Midway,Maze,,15kHz,horizontal,,,2 (alternating),8-way,,0
-amidars,Amidar (Scramble),,Scramble,no,,Konami Scramble based,,no,no,1982,Konami,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+maze,Amazing Maze,,,no,Amazing Maze,Midway 8080,,no,no,1976,Midway,Maze,,15kHz,horizontal,,,2 (alternating),8-way,,0
+amidars,Amidar (Scramble),,Scramble,no,Amidar,Konami Scramble based,,no,no,1982,Konami,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 andromd,Andromeda [hb],,,yes,Galaxian,Namco Galaxian based,,yes,no,1979,hack,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
-anteater,Anteater,,,no,,Konami Scramble based,,no,no,1982,Tago Electronics,Maze,,15kHz,vertical (cw),yes,,1,4-way,,1
+anteater,Anteater,,,no,Anteater,Konami Scramble based,,no,no,1982,Tago Electronics,Maze,,15kHz,vertical (cw),yes,,1,4-way,,1
 aponow,Apocaljpse now (Rescue) [bl],,Rescue,yes,Rescue,Konami Scramble based,,no,yes,1982,,Shooter - Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,twin stick,4
 area88r,"Area 88 (JP, Resale)",Japan,Resale,yes,U.N. Squadron,Capcom CPS-1,U.N. Squadron,no,no,1989,Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 area88,Area 88 (JP),Japan,,no,U.N. Squadron,Capcom CPS-1,U.N. Squadron,no,no,1989,Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
@@ -86,67 +86,67 @@ astrofl,Astro Flash (Japan),Japan,,no,Astro Flash,Sega System E,,no,no,1986,Sega
 astroped,Astropede [hb],,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
 astropd2,Astropede II [hb],,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
 asideral,"Ataque Sideral (Spanish, UniWar S) [bl]",Spain,"Spanish, UniWar S",yes,UniWar S,Namco Galaxian based,,no,yes,1980,Electrogame S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
-attackfc,Attack Force,,,no,,Midway 8080,,no,no,1979,Electronic Games Systems,Shooter - Gallery,,15kHz,horizontal,,,1,2-way horizontal,,1
-avefenix,"Ave Fenix (Electrogame, Spanish, Phoenix) [bl]",,"Electrogame, Spanish, Phoenix",yes,Phoenix,Taito Unique,,no,yes,1980,Video Game,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
-avefenixl,"Ave Fenix (Laguna, Spanish, Phoenix) [bl]",,"Laguna, Spanish, Phoenix",yes,Phoenix,Taito Unique,,no,yes,1980,Laguna,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
-avefenixrf,"Ave Fenix (Recreativos Franco, Spanish, Phoenix) [bl]",,"Recreativos Franco, Spanish, Phoenix",yes,Phoenix,Taito Unique,,no,yes,1980,Recreativos Franco S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
-azurian,Azurian Attack,,,no,,Namco Galaxian based,,no,no,1982,Rait Electronics Ltd,Shooter - Multidirectional,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
+attackfc,Attack Force,,,no,Attack Force,Midway 8080,,no,no,1979,Electronic Games Systems,Shooter - Gallery,,15kHz,horizontal,,,1,2-way horizontal,,1
+avefenix,"Ave Fenix (Electrogame, Spanish, Phoenix) [bl]",Spain,"Electrogame, Spanish, Phoenix",yes,Phoenix,Taito Unique,,no,yes,1980,Video Game,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+avefenixl,"Ave Fenix (Laguna, Spanish, Phoenix) [bl]",Spain,"Laguna, Spanish, Phoenix",yes,Phoenix,Taito Unique,,no,yes,1980,Laguna,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+avefenixrf,"Ave Fenix (Recreativos Franco, Spanish, Phoenix) [bl]",Spain,"Recreativos Franco, Spanish, Phoenix",yes,Phoenix,Taito Unique,,no,yes,1980,Recreativos Franco S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+azurian,Azurian Attack,,,no,Azurian Attack,Namco Galaxian based,,no,no,1982,Rait Electronics Ltd,Shooter - Multidirectional,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 baby2,Baby Pac-Man 2 (Alt) [hb],,Alt,yes,Pac-Man,Pac-Man based,Pac-Man,yes,no,1980,Atari,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 baby3,Baby Pac-Man 3 (Alt) [hb],,Alt,yes,Pac-Man,Pac-Man based,Pac-Man,yes,no,1980,Atari,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 baddudes,"Bad Dudes vs. Dragonninja (US, Rev. 1)",USA,Rev. 1,no,Bad Dudes vs. Dragonninja,Data East MEC-M1,,no,no,1988,Data East,Platform,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,2
-bagman,Bagman,,,no,,Taito Licensed ,,no,no,1982,Valadon Automation,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+bagman,Bagman,,,no,Bagman,Taito Licensed ,,no,no,1982,Valadon Automation,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 bagmans,"Bagman (Stern, Set 1)",,"Stern, Set 1",yes,Bagman,Taito Licensed ,,no,no,1982,Valadon Automation / Stern,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 bagmans2,"Bagman (Stern, Set 2)",,"Stern, Set 2",yes,Bagman,Taito Licensed ,,no,no,1982,Valadon Automation / Stern,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 bagmanj,Bagman (Taito),,Taito,yes,Bagman,Taito Licensed ,,no,no,1982,Valadon Automation / Taito,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 bagturbo,"Bagman Turbo (Stern, Set 1, Cheat) [hb]",,"Stern, Set 1, Cheat",yes,Bagman,Taito Licensed ,,yes,no,1982,Valadon Automation,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ballbomb,Balloon Bomber,,,no,,Taito 8080,,no,no,1980,Taito,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
+ballbomb,Balloon Bomber,,,no,Balloon Bomber,Taito 8080,,no,no,1980,Taito,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
 batcira,"Battle Circuit (AS, 970319)",Asia,970319,yes,Battle Circuit,Capcom CPS-2,,no,no,1997,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,4,8-way,n/a,2
-batcir,"Battle Circuit (EU, 970319)",Europe,970319,no,,Capcom CPS-2,,no,no,1997,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,4,8-way,n/a,2
+batcir,"Battle Circuit (EU, 970319)",Europe,970319,no,Battle Circuit,Capcom CPS-2,,no,no,1997,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,4,8-way,n/a,2
 batcirj,"Battle Circuit (JP, 970319)",Japan,970319,yes,Battle Circuit,Capcom CPS-2,,no,no,1997,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,4,8-way,n/a,2
-atlantis2,Battle of Atlantis,,,no,,Konami Scramble based,,no,no,1981,Comsoft,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
+atlantis2,Battle of Atlantis,,,no,Battle of Atlantis,Konami Scramble based,,no,no,1981,Comsoft,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 battles2,Battles (Set 2),,Set 2,yes,Xevious,Namco Galaga Based,,no,no,1982,,Shooter - Vertical,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
-beastfp,Beastie Feastie (Pac-Man Conversion),,Pac-Man Conversion,no,,Pac-Man based,,no,no,1984,Epos Corporation,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
-berzerk,Berzerk,,,no,,Stern based,,no,no,1980,Stern,Shooter - Multidirectional,,15kHz,horizontal,,,2 (alternating),8-way,,1
+beastfp,Beastie Feastie (Pac-Man Conversion),,Pac-Man Conversion,no,Beastie Feastie,Pac-Man based,,no,no,1984,Epos Corporation,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
+berzerk,Berzerk,,,no,Berzerk,Stern based,,no,no,1980,Stern,Shooter - Multidirectional,,15kHz,horizontal,,,2 (alternating),8-way,,1
 berzerkf,"Berzerk (FR, Speech, Rev RC31)",France,"Speech, Rev RC31",yes,Berzerk,Stern based,,no,no,1980,Stern,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,1
 berzerkg,"Berzerk (German Speech, Rev RC31)",,"German Speech, Rev RC31",yes,Berzerk,Stern based,,no,no,1980,Stern,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,1
 berzerkb,Berzerk (Rev RC28),,Rev RC28,yes,Berzerk,Stern based,,no,no,1980,Stern,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,1
 berzerka,Berzerk (Rev RC31),,Rev RC31,yes,Berzerk,Stern based,,no,no,1980,Stern,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,1
-berzerks,"Berzerk (Spanish Speech, Rev RC32)",,"Spanish Speech, Rev RC32",yes,Berzerk,Stern based,,no,no,1980,Stern,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,1
+berzerks,"Berzerk (Spanish Speech, Rev RC32)",Spain,"Spanish Speech, Rev RC32",yes,Berzerk,Stern based,,no,no,1980,Stern,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,1
 punisherbz,"Biaofeng Zhanjing (The Punisher, CPS1, Chinese) [bl]",,"The Punisher, CPS1, Chinese",yes,The Punisher,Capcom CPS-1.5,,no,yes,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
 punisherbz,"Biaofeng Zhanjing (The Punisher, CPS1.5, Chinese) [bl]",,"The Punisher, CPS1.5, Chinese",yes,The Punisher,Capcom CPS-1.5,,no,yes,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
-bigkong,Big Kong,,,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-bilyard,Billiard,,,no,,TIAMC1,,no,no,1988,Terminal,Sports,,15kHz,horizontal,,,1,2-way horizontal,,1
-bionicc,Bionic Commando,,,no,,Capcom CPS-0,,no,no,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
+bigkong,Big Kong,,,no,Big Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Falcon,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+bilyard,Billiard,,,no,Billiard,TIAMC1,,no,no,1988,Terminal,Sports,,15kHz,horizontal,,,1,2-way horizontal,,1
+bionicc,Bionic Commando,,,no,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 bionicc1,"Bionic Commando (US, Set 1)",USA,Set 1,yes,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 bionicc2,"Bionic Commando (US, Set 2)",USA,Set 2,yes,Bionic Commando,Capcom CPS-0,,no,no,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 bioniccbl2,Bionic Commandos (Set 2) [bl],,Set 2,yes,Bionic Commando,Capcom CPS-0,,no,yes,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
-birdiy,Birdiy,,,no,,Pac-Man based,,no,no,1983,Mama Top,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
+birdiy,Birdiy,,,no,Birdiy,Pac-Man based,,no,no,1983,Mama Top,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 blktiger,Black Dragon (JP),Japan,,yes,Black Tiger,Capcom CPS-0,,no,no,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 blktiger,Black Dragon [bl],,,yes,Black Tiger,Capcom CPS-0,,no,yes,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
-blkhole,Black Hole,,,no,,Konami Z80,,no,no,1981,TDS &amp; MINTS,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+blkhole,Black Hole,,,no,Black Hole,Konami Z80,,no,no,1981,TDS &amp; MINTS,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 blktiger,Black Tiger,,,no,Black Tiger,Capcom CPS-0,,no,no,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 blktiger,Black Tiger (Older),,Older,yes,Black Tiger,Capcom CPS-0,,no,no,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 blktiger,Black Tiger (Set 1) [bl],,Set 1,yes,Black Tiger,Capcom CPS-0,,no,yes,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 blktiger,Black Tiger (Set 2) [bl],,Set 2,yes,Black Tiger,Capcom CPS-0,,no,yes,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 blktiger,Black Tiger- Black Dragon (Mixed) [bl],,Mixed,yes,Black Tiger,Capcom CPS-0,,no,yes,1987,Capcom,Platform,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
-bwidow,Black Widow,,,no,,Atari Vector,,no,no,1982,Atari,Shooter - Tube,,31kHz,horizontal,,,1,8-way,twin stick,4
+bwidow,Black Widow,,,no,Black Widow,Atari Vector,,no,no,1982,Atari,Shooter - Tube,,31kHz,horizontal,,,1,8-way,twin stick,4
 arkblock,"Block (Game Corporation, Set 1) [bl]",,"Game Corporation, Set 1",yes,Arkanoid,Taito Arkanoid Hardware,,no,yes,1986,Taito / Game Corporation,Ball and Paddle,,15kHz,vertical (cw),yes,,2 (alternating),,spinner,0
 arkbloc2,"Block (Game Corporation, Set 2) [bl]",,"Game Corporation, Set 2",yes,Arkanoid,Taito Arkanoid Hardware,,no,yes,1986,Taito / Game Corporation,Ball and Paddle,,15kHz,vertical (cw),yes,,2 (alternating),,spinner,0
-blockgal,Block Gal,,,no,,Sega System 1,,no,no,1987,Sega,Ball and Paddle,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,spinner,0
-blueshrk,Blue Shark,,,no,,Midway 8080,,no,no,1978,Midway,Shooter - Gallery,,15kHz,horizontal,,,1,,positional,1
+blockgal,Block Gal,,,no,Block Gal,Sega System 1,,no,no,1987,Sega,Ball and Paddle,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,spinner,0
+blueshrk,Blue Shark,,,no,Blue Shark,Midway 8080,,no,no,1978,Midway,Shooter - Gallery,,15kHz,horizontal,,,1,,positional,1
 boblbobl,Bobble Bobble (Bubble Bobble) [bl],,Bubble Bobble,yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,no,yes,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
-bombjack,Bomb Jack,,,no,,Tehkan hardware,,no,no,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
-bombjacks01,Bomb Jack (Chinese) [hb],,Chinese,yes,Bomb Jack,Tehkan hardware,,yes,no,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
-bmbjckgr,Bomb Jack (Greek) [hb],,Greek,yes,Bomb Jack,Tehkan hardware,,yes,no,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
+bombjack,Bomb Jack,,,no,Bomb Jack,Tehkan hardware,,no,no,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,1
+bombjacks01,Bomb Jack (Chinese) [hb],China,Chinese,yes,Bomb Jack,Tehkan hardware,,yes,no,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
+bmbjckgr,Bomb Jack (Greek) [hb],Greece,Greek,yes,Bomb Jack,Tehkan hardware,,yes,no,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 bombjred,Bomb Jack (Red) [hb],,Red,yes,Bomb Jack,Tehkan hardware,,yes,no,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 bombjack2,Bomb Jack (Set 2),,Set 2,yes,Bomb Jack,Tehkan hardware,,no,no,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 bombjckb,Bomb Jack [bl],,,yes,Bomb Jack,Tehkan hardware,,no,yes,1984,Tehkan,Puzzle - Platform,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
-boothill,Boot Hill,,,no,,Midway 8080,,no,no,1977,Dave Nutting Associates / Midway,Shooter - Multidirectional,,15kHz,horizontal,,,2 (alternating),8-way,,1
-botanic,"Botanic (English, Spanish, Set 1)",,"English, Spanish, Set 1",no,,Taito Licensed ,,no,no,1983,Itisa,Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+boothill,Boot Hill,,,no,Boot Hill,Midway 8080,,no,no,1977,Dave Nutting Associates / Midway,Shooter - Multidirectional,,15kHz,horizontal,,,2 (alternating),8-way,,1
+botanic,"Botanic (English, Spanish, Set 1)",Spain,"English, Spanish, Set 1",no,Botanic,Taito Licensed ,,no,no,1983,Itisa,Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 botanicf,Botanic (FR),France,,yes,Botanic,Taito Licensed ,,no,no,1984,Itisa,Maze,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-brain,Brain,,,no,,Sega System 1,,no,no,1986,Sega / Coreland,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+brain,Brain,,,no,Brain,Sega System 1,,no,no,1986,Sega / Coreland,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 brakman,Brakman [hb],,,yes,Pac-Man,Pac-Man based,,yes,no,1980,Scott Lawrence,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-breakout,Breakout (TTL),,TTL,no,,Atari Discrete hardware,Breakout,no,no,1976,Atari,Ball and Paddle,,15kHz,vertical (cw),no,,2 (alternating),,rotary,0
+breakout,Breakout (TTL),,TTL,no,Breakout,Atari Discrete hardware,Breakout,no,no,1976,Atari,Ball and Paddle,,15kHz,vertical (cw),no,,2 (alternating),,rotary,0
 bub68705,Bubble Bobble (68705) [bl],,68705,yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,no,yes,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
 bublbobl,Bubble Bobble (68705) [bl],Japan,v0.1,no,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,no,no,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
 bublboblb,Bubble Bobble (Bubble Bobble PCB) [bl],,Bubble Bobble PCB,yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,no,yes,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
@@ -159,26 +159,26 @@ bublcave10,Bubble Bobble- Lost Cave (v1.0) [hb],,v1.0,yes,Bubble Bobble,Taito Bu
 bublcave11,Bubble Bobble- Lost Cave (v1.1) [hb],,v1.1,yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,yes,no,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
 boblcave,"Bubble Bobble- Lost Cave (v1.2, Bubble Bobble PCB) [hb]",,"v1.2, Bubble Bobble PCB",yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,yes,no,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
 bublcave,Bubble Bobble- Lost Cave (v1.2) [hb],,v1.2,yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,yes,no,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
-bubbles,Bubbles,,,no,,Williams 1st Generation,,no,no,1982,Williams,Arena,,15kHz,horizontal,,,1,8-way,,0
+bubbles,Bubbles,,,no,Bubbles,Williams 1st Generation,,no,no,1982,Williams,Arena,,15kHz,horizontal,,,1,8-way,,0
 bubblesp,Bubbles (Prototype),,Prototype,yes,Bubbles,Williams 1st Generation,,no,no,1982,Williams,Arena,,15kHz,horizontal,,,1,8-way,,0
 bubblesr,Bubbles (Solid Red Label),,Solid Red Label,yes,Bubbles,Williams 1st Generation,,no,no,1982,Williams,Arena,,15kHz,horizontal,,,1,8-way,,0
-bullfgt,Bull Fight (315-5056),,315-5056,no,,Sega System 1,,no,no,1984,Sega,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,2
+bullfgt,Bull Fight (315-5056),,315-5056,no,Bull Fight,Sega System 1,,no,no,1984,Sega,Arena,,15kHz,horizontal,,,2 (alternating),8-way,,2
 bnj,Bump 'n' Jump,,,yes,Burning Rubber,Data East Burger Time hardware,,no,no,1982,Data East,Racing,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 bnjm,Bump 'n' Jump (Midway),,Midway,yes,Burning Rubber,Data East Burger Time hardware,,no,no,1982,Data East / Midway,Racing,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 bnjr,Bump 'n' Jump (Reverse) [hb],,Reverse,yes,Burning Rubber,Data East Burger Time hardware,,yes,no,1982,Data East,Racing,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 btime2,"Burger Time (Data East, Set 2)",,"Data East, Set 2",yes,Burger Time,Data East Burger Time hardware,,no,no,1982,Data East,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-btime,Burger Time (Set 1),,Set 1,no,,Data East Burger Time hardware,,no,no,1982,Data East,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-brubber,Burnin' Rubber,,,no,,Data East Burger Time hardware,,no,no,1982,Data East,Racing,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
+btime,Burger Time (Set 1),,Set 1,no,Burger Time,Data East Burger Time hardware,,no,no,1982,Data East,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+brubber,Burnin' Rubber,,,no,Burnin' Rubber,Data East Burger Time hardware,,no,no,1982,Data East,Racing,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 dinoa,"Cadillacs and Dinosaurs (AS, 930223)",Asia,930223,yes,Cadillacs and Dinosaurs,Capcom CPS-1.5,,no,no,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
 dinou,"Cadillacs and Dinosaurs (US, 930201)",USA,930201,yes,Cadillacs and Dinosaurs,Capcom CPS-1.5,,no,no,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
-dino,"Cadillacs and Dinosaurs (W, 930201)",World,930201,no,,Capcom CPS-1.5,,no,no,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
+dino,"Cadillacs and Dinosaurs (W, 930201)",World,930201,no,Cadillacs and Dinosaurs,Capcom CPS-1.5,,no,no,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
 dinoj,"Cadillacs- Kyouryuu Shin Seiki (JP, 930201)",Japan,930201,yes,Cadillacs and Dinosaurs,Capcom CPS-1.5,,no,no,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
-calipso,Calipso,,,no,,Konami Scramble based,,no,no,1982,Tago Electronics,Shooter - Multidirectional,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,1
+calipso,Calipso,,,no,Calipso,Konami Scramble based,,no,no,1982,Tago Electronics,Shooter - Multidirectional,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,1
 candory,Candory (Ponpoko with Mario) [bl],,Ponpoko with Mario,yes,Ponpoko,Pac-Man based,Mario,no,yes,1982,,Platform - Climb,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
-canyon,Canyon Bomber,,,no,,Atari 6502 ,,no,no,1977,Atari,Shooter - Gallery,,15kHz,horizontal,,,2 (simultaneous),,,1
+canyon,Canyon Bomber,,,no,Canyon Bomber,Atari 6502 ,,no,no,1977,Atari,Shooter - Gallery,,15kHz,horizontal,,,2 (simultaneous),,,1
 cscluba,"Capcom Sports Club (AS, 970722)",Asia,970722,yes,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
 csclub1,"Capcom Sports Club (EU, 970722)",Europe,970722,yes,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
-csclub,"Capcom Sports Club (EU, 971017)",Europe,971017,no,,Capcom CPS-2,,no,no,1997,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
+csclub,"Capcom Sports Club (EU, 971017)",Europe,971017,no,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
 csclubh,"Capcom Sports Club (HS, 970722)",Hispanic,970722,yes,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
 csclubjy,"Capcom Sports Club (JP, 970722, yellow case)",Japan,"970722, yellow case",yes,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
 csclubj,"Capcom Sports Club (JP, 970722)",Japan,970722,yes,Capcom Sports Club,Capcom CPS-2,,no,no,1997,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
@@ -195,7 +195,7 @@ cawingur1,"Carrier Air Wing (US, 901012)",USA,901012,yes,Carrier Air Wing,Capcom
 cawingu,"Carrier Air Wing (US, 901130)",USA,901130,yes,Carrier Air Wing,Capcom CPS-1,U.N. Squadron,no,no,1990,Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 cawing,"Carrier Air Wing (W, 901012)",World,901012,no,Carrier Air Wing,Capcom CPS-1,U.N. Squadron,no,no,1990,Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 cawingr1,"Carrier Air Wing (W, 901990)",World,901990,yes,Carrier Air Wing,Capcom CPS-1,U.N. Squadron,no,no,1990,Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
-catacomb,Catacomb,,,no,,Namco Galaga Based,,no,no,1982,MTM Games,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+catacomb,Catacomb,,,no,Catacomb,Namco Galaga Based,,no,no,1982,MTM Games,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 caterpil,Caterpillar [hb],,,yes,Pac-Man,Pac-Man based,,yes,no,1980,Phi,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 cemescry,Cemescary [hb],,,yes,Centipede,Atari Centipede based,,yes,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
 centiped1,Centipede (Rev 1),,Rev 1,yes,Centipede,Atari Centipede based,*pede,no,no,1980,Atari,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,,trackball,1
@@ -207,22 +207,22 @@ centipdd,Centipede Dux [hb],,,yes,Centipede,Atari Centipede based,*pede,yes,no,1
 chikij,"Chiki Chiki Boys (JP, 900619)",Japan,900619,yes,Mega Twins,Capcom CPS-1,Mega Twins,no,no,1990,Capcom,Platform,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 chopliftbl,Choplifter (Bootleg),,,yes,Choplifter,Sega System 1,,no,yes,1985,Sega,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 chopliftu,Choplifter (Unprotected),,Unprotected,yes,Choplifter,Sega System 1,,no,no,1985,Sega,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
-cleansweept,Clean Sweep (TTL),,TTL,no,,Namco Galaxian based,,no,no,1974,Ramtek,Maze,,15kHz,vertical (cw),yes,,1,,rotary,0
-clowns,Clowns,,,no,,Midway 8080,,no,no,1978,Midway,Ball and Paddle,,15kHz,horizontal,,,2 (alternating),,positional,0
+cleansweept,Clean Sweep (TTL),,TTL,no,Galaxian,Namco Galaxian based,,no,no,1974,Ramtek,Maze,,15kHz,vertical (cw),yes,,1,,rotary,0
+clowns,Clowns,,,no,Clowns,Midway 8080,,no,no,1978,Midway,Ball and Paddle,,15kHz,horizontal,,,2 (alternating),,positional,0
 ladybugb2,"Coccinelle (Lady Bug, Set 2) [bl]",,"Lady Bug, Set 2",yes,Lady Bug,Universal Lady Bug,,no,yes,1981,Universal,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,0
-colony7,Colony 7 (Set 1),,Set 1,no,,Taito Unique,,no,no,1981,Taito,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,8-way,,3
+colony7,Colony 7 (Set 1),,Set 1,no,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,8-way,,3
 colony7a,Colony 7 (Set 2),,Set 2,yes,Colony 7,Taito Unique,,no,no,1981,Taito,Shooter - Gallery,,15kHz,vertical (ccw),no,,1,8-way,,3
 commandou2,"Commando (US, Set 2)",USA,Set 2,yes,Commando,Capcom CPS-0,Commando,no,no,1985,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 commando,Commando (W),World,,no,Commando,Capcom CPS-0,Commando,no,no,1985,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 comdelux,Commando Deluxe [hb],World,,yes,Commando,Capcom CPS-0,Commando,yes,no,2002,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 comdlux1,Commando Deluxe Again [hb],,,yes,Commando,Capcom CPS-0,Commando,yes,no,1985,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,2
 ,Computer Space,,,no,Computer Space,Computer Space,,no,no,1971,Syzygy Engineering,Shooter - Multidirectional,,15kHz,horizontal,,,1,2-way horizontal,,2
-contraj,Contra (Japan 1),,Japan 1,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
-contrabj,Contra (Japan 1) [bl],,Japan 1,yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
-contraj1,Contra (Japan 2),,Japan 2,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
-contrabj1,Contra (Japan 2) [bl],,Japan 2,yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
-contrabj,"Contra (Japan, Set 1) [bl]",,"Japan, Set 1",yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
-contrabj1,"Contra (Japan, Set 2) [bl]",,"Japan, Set 2",yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+contraj,Contra (Japan 1),Japan,Japan 1,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+contrabj,Contra (Japan 1) [bl],Japan,Japan 1,yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+contraj1,Contra (Japan 2),Japan,Japan 2,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+contrabj1,Contra (Japan 2) [bl],Japan,Japan 2,yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+contrabj,"Contra (Japan, Set 1) [bl]",Japan,"Japan, Set 1",yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
+contrabj1,"Contra (Japan, Set 2) [bl]",Japan,"Japan, Set 2",yes,Contra,Konami Contra based,Contra,no,yes,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 contraj,"Contra (JP, Set 1)",Japan,Set 1,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 contraj1,"Contra (JP, Set 2)",Japan,Set 2,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
 contra1,"Contra (US-AS, Set 2)",USA - Asia,Set 2,yes,Contra,Konami Contra based,Contra,no,no,1987,Konami,Run 'n' Gun - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,2
@@ -281,14 +281,14 @@ dimahoo,"Dimahoo (EU, 000121)",Europe,000121,no,,Capcom CPS-2,,no,no,2000,Eighti
 dimahoo,"Dimahoo (EU, 000121)",Europe,000121,no,,Capcom CPS-2,,no,no,2000,Eighting / Raizing / Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,n/a,3
 dimahoou,"Dimahoo (US, 000121)",USA,000121,yes,Dimahoo,Capcom CPS-2,,no,no,2000,Eighting / Raizing / Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,n/a,3
 dimahoou,"Dimahoo (US, 000121)",USA,000121,yes,Dimahoo,Capcom CPS-2,,no,no,2000,Eighting / Raizing / Capcom,Shooter - Vertical,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,n/a,3
-dinohunt,"Dinosaur Hunter (Cadillacs and Dinosaurs, CPS1, Chinese) [bl]",,"Cadillacs and Dinosaurs, CPS1, Chinese",yes,Cadillacs and Dinosaurs,Capcom CPS-1.5,,no,yes,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
-dinohunt,"Dinosaur Hunter (Cadillacs and Dinosaurs, CPS1.5, Chinese) [bl]",,"Cadillacs and Dinosaurs, CPS1.5, Chinese",yes,Cadillacs and Dinosaurs,Capcom CPS-1.5,,no,yes,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
+dinohunt,"Dinosaur Hunter (Cadillacs and Dinosaurs, CPS1, Chinese) [bl]",China,"Cadillacs and Dinosaurs, CPS1, Chinese",yes,Cadillacs and Dinosaurs,Capcom CPS-1.5,,no,yes,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
+dinohunt,"Dinosaur Hunter (Cadillacs and Dinosaurs, CPS1.5, Chinese) [bl]",China,"Cadillacs and Dinosaurs, CPS1.5, Chinese",yes,Cadillacs and Dinosaurs,Capcom CPS-1.5,,no,yes,1993,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,2
 dotron,Discs of Tron,,,no,,Midway MCR3,Tron,no,no,1983,Bally / Midway,Sports,,15kHz,horizontal,,,1,8-way,,4
 dotrona,Discs of Tron (Alt.),,Alt.,yes,Discs of Tron,Midway MCR3,,no,no,1983,Bally / Midway,Sports,,15kHz,horizontal,,,1,8-way,,4
 dizzy,Dizzy Ghost- A Reversal of Roles [hb],,,yes,Pac-Man,Pac-Man based,,yes,no,1980,Atari,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 ddonpach,DoDonPachi,World,,no,,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ,DoDonPachi Trainer (Japan),Japan,Trainer,yes,DoDonPachi,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
-ddonpacha,DoDonPachi (Arrange),,Arrange V1.1,yes,DoDonPachi,CAVE 68000,,yes,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+ddonpacha,DoDonPachi (Arrange),,Arrange V1.1,no,DoDonPachi,CAVE 68000,,yes,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 ddonpachj,DoDonPachi (JP),Japan,,no,DoDonPachi,CAVE 68000,,no,no,1997,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 domino,Domino Man,,,no,,Midway MCR2,,no,no,1982,Bally / Midway,Action,,15kHz,horizontal,,,2 (alternating),4-way,,1
 dominos,Dominos,,,no,,Atari 6502,,no,no,1977,Atari,Maze,,15kHz,horizontal,,,2 (simultaneous),4-way,,0
@@ -303,7 +303,7 @@ dkongpac,Donkey Kong (Pac-Man GFX) [hb],,Pac-Man GFX,yes,Donkey Kong,Donkey Kong
 dkongp,Donkey Kong (Patched) [hb],,Patched,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkongpe,"Donkey Kong (Pauline, Rev 5) [hb]",,"Pauline, Rev 5",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkrdemo,"Donkey Kong (Remix, Rev 1.8) [hb]",,"Remix, Rev 1.8",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-ckongdks,"Donkey Kong (Spanish, Crazy Kong) [bl]",,"Spanish, Crazy Kong",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
+ckongdks,"Donkey Kong (Spanish, Crazy Kong) [bl]",Spain,"Spanish, Crazy Kong",yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,yes,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkong,"Donkey Kong (US, Set 1)",USA,Set 1,no,,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
 dkongo,"Donkey Kong (US, Set 2)",USA,Set 2,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,no,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkong3,Donkey Kong 3 (US),USA,,no,,Donkey Kong hardware,Donkey Kong,no,no,1983,Nintendo,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,1
@@ -322,7 +322,7 @@ dorodon2,Dorodon (Set 2),,Set 2,yes,Dorodon,Universal Lady Bug,,no,no,1982,UPL,M
 dotrikun,Dottori-Kun (New),,New,no,,Dottori-Kun,,no,no,1990,Sega,Maze,,15kHz,horizontal,no,,1,8-way,,2
 dotrikun,Dottori-Kun (Old),,Old,no,,Dottori-Kun,,no,no,1990,Sega,Maze,,15kHz,horizontal,no,,1,8-way,,2
 dotrikun,Dottori-Man Jr [hb],,,no,,Dottori-Kun,,yes,no,1990,Chris Covell,Maze,,15kHz,horizontal,no,,1,8-way,,2
-drgninja,"Dragonninja (JP, Rev. 1)",JP,Rev. 1,yes,Bad Dudes vs. Dragonninja,Data East MEC-M1,,no,no,1988,Data East,Platform,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,2
+drgninja,"Dragonninja (JP, Rev. 1)",Japan,Rev. 1,no,Bad Dudes vs. Dragonninja,Data East MEC-M1,,no,no,1988,Data East,Platform,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,2
 dland,Dream Land- Super Dream Land (Bubble Bobble) [bl],,Bubble Bobble,yes,Bubble Bobble,Taito Bubble Booble based,Bubble Bobble,no,yes,1986,Taito,Puzzle - Platform,,15kHz,horizontal,n/a,,2 (simultaneous),2-way horizontal,,2
 dremshpr,Dream Shopper,,,no,,Pac-Man based,,no,no,1982,Sanritsu,Maze,,15kHz,vertical (ccw),yes,,2 (alternating),4-way,,1
 ddsomar1,"Dungeons &amp; Dragons- Shadow over Mystara (AS, 960208)",Asia,960208,yes,Dungeons &amp; Dragons- Shadow over Mystara,Capcom CPS-2,Dungeons &amp; Dragons,no,no,1996,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,4,8-way,n/a,4
@@ -508,7 +508,7 @@ gunsmokej,"Gun Smoke (JP, 851115)",Japan,851115,yes,Gun Smoke,Capcom CPS-0,,no,n
 gunsmokeua,"Gun Smoke (US, 851115, Set 1)",USA,"851115, Set 1",yes,Gun Smoke,Capcom CPS-0,,no,no,1985,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
 gunsmokeub,"Gun Smoke (US, 851115, Set 2)",USA,"851115, Set 2",yes,Gun Smoke,Capcom CPS-0,,no,no,1986,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
 gunsmokeu,"Gun Smoke (US, 860408)",USA,860408,yes,Gun Smoke,Capcom CPS-0,,no,no,1986,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,3
-guwanges,Guwange (Special),World,Special,yes,Guwange,CAVE 68000,,no,no,1999,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
+guwanges,Guwange (Special),World,Special,no,Guwange,CAVE 68000,,no,no,1999,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 guwange,Guwange,World,,no,,CAVE 68000,,no,no,1999,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 gyruss,Gyruss,,,no,Gyruss,Konami 6809 Based,,no,no,1983,Konami,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 gyrussce,Gyruss (Centuri),,Centuri,yes,Gyruss,Konami 6809 Based,,no,no,1983,Konami / Centuri,Shooter - Tube,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
@@ -557,7 +557,7 @@ jumpshotp,Jump Shot (Engineering Sample),,Engineering Sample,yes,Jump Shot,Pac-M
 jyangoku,"Jyangokushi- Haoh no Saihai (JP, 990527)",Japan,990527,no,,Capcom CPS-2,,no,no,1999,Capcom,Fighting,,15kHz,horizontal,n/a,,1,8-way,n/a,2
 yanchamr,Kaiketsu Yanchamaru (JP),Japan,,yes,Kid Niki - Radical Ninja,Irem M62,,no,no,1986,Irem,Platform,,15kHz,horizontal,,,2 (alternating),8-way,,2
 kamakazi3,Kamakazi III (Superg) [hb],,Superg,yes,Scramble,Konami Scramble based,,yes,no,1979,hack,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
-kamikazesp,"Kamikaze (Scramble, Spanish) [bl]",,"Scramble, Spanish",yes,Scramble,Konami Scramble based,,no,yes,1981,Konami,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,0
+kamikazesp,"Kamikaze (Scramble, Spanish) [bl]",Spain,"Scramble, Spanish",yes,Scramble,Konami Scramble based,,no,yes,1981,Konami,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,0
 kick,Kick,,,no,,Midway MCR1,,no,no,1980,Midway,Ball and Paddle,,15kHz,vertical (cw),no,,1,,trackball,1
 kickc,Kick (Cocktail),,Cocktail,yes,Kick,Midway MCR,,no,no,1981,Midway,Ball and Paddle,,15kHz,vertical (cw),no,,1,2-way horizontal,,0
 kickman,Kick-Man,,,yes,Kick,Midway MCR1,,no,no,1980,Midway,Ball and Paddle,,15kHz,vertical (cw),no,,1,,trackball,1
@@ -731,7 +731,7 @@ nwarrb,"Night Warriors- Darkstalkers' Revenge (W, 950403)",World,950403,yes,Nigh
 ninjakun,Ninjakun Majou no Bouken,,,no,,Taito Unique,,no,no,1984,UPL / Taito,Platform - Climb,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,2
 nobb,Noboranka (Bootleg),,,no,,Sega System 1,,no,no,1986,Sega,Run 'n' Gun - Vertical,,15kHz,vertical (ccw),no,,2 (alternating),8-way,,2
 offender,Offender [hb],,,yes,Scramble,Konami Scramble based,,yes,no,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
-offensiv,"Offensive (Scramble, Spanish) [bl]",,"Scramble, Spanish",yes,Scramble,Konami Scramble based,,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
+offensiv,"Offensive (Scramble, Spanish) [bl]",Spain,"Scramble, Spanish",yes,Scramble,Konami Scramble based,,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 omegab,Omega,,,no,,Namco Galaxian based,,no,yes,1981,Nihon,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
 omni,Omni,,,yes,Pisces,Namco Galaxian based,,no,no,1982,,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 opaopa,"Opa Opa (MC-8123, 317-0042)",,"MC-8123, 317-0042",yes,Opa Opa,Sega System E,,no,no,1987,Sega,Maze,,15kHz,horizontal,,,1,8-way,,2
@@ -810,7 +810,7 @@ pacipede,Pacipede [hb],,,yes,Centipede,Atari Centipede based,,yes,no,1980,Namco 
 packetman,Packetman [hb],,,yes,Pac-Man,Pac-Man based,,yes,no,1980,Namco / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 pplusad,Pacman Plus After Dark [hb],,,yes,Pac-Man,Pac-Man based,Pac-Man,yes,no,1980,Bally / Midway,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 ,Pacmanic Miner,,,no,,,Pac-Man,no,no,1980,Jim Bagley,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
-pajaroes,"Pajaro del Espacio (UniWar S, Spanish) [bl]",,"UniWar S, Spanish",yes,UniWar S,Irem Unique,,no,yes,1980,PSV S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
+pajaroes,"Pajaro del Espacio (UniWar S, Spanish) [bl]",Spain,"UniWar S, Spanish",yes,UniWar S,Irem Unique,,no,yes,1980,PSV S.A.,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 pang3r1,"Pang! 3 (EU, 950511)",Europe,950511,yes,Pang! 3,Capcom CPS-1,Pang!,no,no,1995,Capcom,Ball and Paddle,,15kHz,horizontal,n/a,,2 (simultaneous),4-way,,1
 pang3,"Pang! 3 (EU, 950601)",Europe,950601,no,,Capcom CPS-1,Pang!,no,no,1995,Capcom,Ball and Paddle,,15kHz,horizontal,n/a,,2 (simultaneous),4-way,,1
 pang3b,Pang! 3 [bl],,,yes,Pang! 3,Capcom CPS-1,Pang!,no,yes,1995,Capcom,Ball and Paddle,,15kHz,horizontal,n/a,,2 (simultaneous),4-way,,1
@@ -827,12 +827,12 @@ pestplce,Pest Place,,,no,,Donkey Kong hardware,,no,no,1983,,Puzzle - Platform,,1
 phoenixt,Phoenix,,,yes,Phoenix,Taito Unique,,no,no,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenix,"Phoenix (Amstar, Set 1)",,"Amstar, Set 1",no,,Taito Unique,,no,no,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,2
 phoenix2,"Phoenix (Amstar, Set 2)",,"Amstar, Set 2",yes,Phoenix,Taito Unique,,no,no,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
-phoenixass,"Phoenix (Assa, Spanish) [bl]",,"Assa, Spanish",yes,Phoenix,Taito Unique,,no,yes,1981,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
+phoenixass,"Phoenix (Assa, Spanish) [bl]",Spain,"Assa, Spanish",yes,Phoenix,Taito Unique,,no,yes,1981,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenixa,"Phoenix (Centuri, Set 1)",,"Centuri, Set 1",yes,Phoenix,Taito Unique,,no,no,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenixb,"Phoenix (Centuri, Set 2)",,"Centuri, Set 2",yes,Phoenix,Taito Unique,,no,no,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenixdal,Phoenix (D and L) [bl],,D and L,yes,Phoenix,Taito Unique,,no,yes,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenixgu,Phoenix (G. Universal Video) [bl],,G. Universal Video,yes,Phoenix,Taito Unique,,no,yes,1981,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
-phoenixg,Phoenix (Greek) [hb],,Greek,yes,Phoenix,Taito Unique,,yes,no,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
+phoenixg,Phoenix (Greek) [hb],Greece,Greek,yes,Phoenix,Taito Unique,,yes,no,1980,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenixha,Phoenix (Hellomat Automaten) [bl],,Hellomat Automaten,yes,Phoenix,Taito Unique,,no,yes,1981,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenixc,"Phoenix (Irecsa - G.G.I Corp, Set 1)",,"Irecsa - G.G.I Corp, Set 1",yes,Phoenix,Taito Unique,,no,no,1981,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
 phoenixc2,"Phoenix (Irecsa - G.G.I Corp, Set 2)",,"Irecsa - G.G.I Corp, Set 2",yes,Phoenix,Taito Unique,,no,no,1981,Amstar,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,2
@@ -856,7 +856,7 @@ pleiadsi,Pleiades (Irecsa),,Irecsa,yes,Pleiades,Taito Unique,,no,no,1981,Tehkan 
 pleiadsn,Pleiades (Niemer S.A.),,Niemer S.A.,yes,Pleiades,Taito Unique,,no,no,1981,Tehkan / Niemer SA,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 pleiadbl,Pleiades (Set 1) [bl],,Set 1,yes,Pleiades,Taito Unique,,no,yes,1981,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 pleiadsb2,Pleiades (Set 2) [bl],,Set 2,yes,Pleiades,Taito Unique,,no,yes,1981,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
-pleiadss,Pleiades (Spanish) [bl],,Spanish,yes,Pleiades,Taito Unique,,no,yes,1981,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
+pleiadss,Pleiades (Spanish) [bl],Spain,Spanish,yes,Pleiades,Taito Unique,,no,yes,1981,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 pleiads,Pleiades (Tehkan),,,no,,Taito Unique,,no,no,1981,Tehkan,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way (horizontal,,1
 pnickj,"Pnickies (JP, 940608)",Japan,940608,no,,Capcom CPS-1,,no,no,1994,Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,3
 pfghtj,"Pocket Fighter (JP, 970904)",Japan,970904,yes,Pocket Fighter,Capcom CPS-2,Street Fighter,no,no,1997,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,3
@@ -891,7 +891,7 @@ pzloop2,"Puzz Loop 2 (EU, 010302)",Europe,010302,no,,Capcom CPS-2,Puzz Loop,no,n
 pzloop2jr1,"Puzz Loop 2 (JP, 010205)",Japan,010205,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
 pzloop2j,"Puzz Loop 2 (JP, 010226)",Japan,010226,yes,Puzz Loop 2,Capcom CPS-2,Puzz Loop,no,no,2001,Mitchell / Capcom,Puzzle,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,1
 uopokoj,Puzzle Uo Poko (Japan),Japan,,no,Puzzle Uo Poko,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
-uopoko,Puzzle Uo Poko,World,,no,,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
+uopoko,Puzzle Uo Poko,World,,yes,,CAVE 68000,,no,no,1998,CAVE,Puzzle,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
 qbert,"Q'bert (US, Set 1)",USA,Set 1,no,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,vertical (ccw),yes,,2 (alternating),4-way diagonal,,0
 qbertqub,Q'bert Qubes,,,no,,Konami Unique,Q'bert,no,no,1982,Gottlieb,Platform - Climb,,15kHz,vertical (ccw),,,2 (alternating),4-way diagonal,,0
 qadjr,"Quiz &amp; Dragons- Capcom Quiz Game (JP, Resale, 940921)",Japan,"Resale, 940921",yes,Quiz &amp; Dragons,Capcom CPS-1,,no,no,1994,Capcom,Quiz,,15kHz,horizontal,n/a,,2 (simultaneous),n/a,n/a,4
@@ -914,7 +914,7 @@ ringdesta,"Ring of Destruction- Slam Masters II (AS, 940831)",Asia,940831,yes,Ri
 ringdest,"Ring of Destruction- Slam Masters II (EU, 940902)",Europe,940902,no,,Capcom CPS-2,Muscle Bomber,no,no,1994,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 ringdesth,"Ring of Destruction- Slam Masters II (HS, 940902)",Hispanic,940902,yes,Ring of Destruction- Slam Masters II,Capcom CPS-2,Muscle Bomber,no,no,1994,Capcom,Sports,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,n/a,6
 rpatroln,"River Patrol (JP, Unprotected)",Japan,Unprotected,no,,Taito Licensed ,,no,no,1981,Orca,Sports,,15kHz,horizontal,,,2 (alternating),2-way horizontal,,1
-roboman,Robo Man [hb],,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Runge Editing,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
+roboman,Robo Man [hb],Japan,,yes,Pac-Man,Namco Pac-Man hardware,,yes,no,1980,Runge Editing,Maze,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 robotron,Robotron 2084,,,no,,Williams 1st Generation,,no,no,1982,Williams / Vid Kidz,Shooter - Multidirectional,,15kHz,horizontal,,,1,8-way,twin stick,4
 robotron201,"Robotron 2084 (Patched, Blue-201) [hb]",,"Patched, Blue-201",yes,Robotron 2084,Williams 1st Generation,,yes,no,1982,Williams / Vid Kidz,Arena,,15kHz,horizontal,,,1,8-way,twin stick,4
 robotronp,Robotron 2084 (Patched) [hb],,Patched,yes,Robotron 2084,Williams 1st Generation,,yes,no,1982,Williams / Vid Kidz,Arena,,15kHz,horizontal,,,1,8-way,twin stick,4
@@ -942,15 +942,15 @@ slammastu,"Saturday Night Slam Masters (US, 930713)",USA,930713,yes,Slam Masters
 slammast,"Saturday Night Slam Masters (W, 930713)",World,930713,no,,Capcom CPS-1.5,Slam Masters,no,no,1993,Capcom,Sports,,15kHz,horizontal,n/a,,4,8-way,,3
 scotrsht,Scooter Shooter (W),World,,no,,Konami 6809 Based,,no,no,1985,Konami,Shooter - Horizontal,,15kHz,vertical (cw),yes,,2 (simultaneous),8-way,,1
 scramblebf,"Scramble (FR, Karateco) [bl]",France,Karateco,yes,Scramble,Konami Scramble based,Scramble,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
-scramce,"Scramble (Spanish, Centromatic S.A.) [bl]",,"Spanish, Centromatic S.A.",yes,Scramble,Konami Scramble based,Scramble,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
-scrampt,"Scramble (Spanish, Petaco, S.A.) [bl]",,"Spanish, Petaco, S.A.",yes,Scramble,Konami Scramble based,Scramble,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
+scramce,"Scramble (Spanish, Centromatic S.A.) [bl]",Spain,"Spanish, Centromatic S.A.",yes,Scramble,Konami Scramble based,Scramble,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
+scrampt,"Scramble (Spanish, Petaco, S.A.) [bl]",Spain,"Spanish, Petaco, S.A.",yes,Scramble,Konami Scramble based,Scramble,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 scramble,"Scramble (Stern, Set 1)",,"Stern, Set 1",no,,Konami Scramble based,Scramble,no,no,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 scramblebb,Scramble [bl],,,yes,Scramble,Konami Scramble based,Scramble,no,yes,1981,Konami,Shooter - Horizontal,,15kHz,vertical (cw),no,,2 (alternating),8-way,,2
 seawolf,Sea Wolf (Set 1),,Set 1,no,,Midway 8080,Sea Wolf,no,no,1976,Dave Nutting Associates / Midway,Shooter - Gallery,,15kHz,horizontal,,,1,,positional,1
 seawolf2,Sea Wolf II,,,no,,Midway Astrocade,Sea Wolf,no,no,1978,Dave Nutting Associates / Midway,Shooter - Gallery,,15kHz,horizontal,,,2 (simultaneous),,positional,1
 sectionz,Section Z,,,no,,Capcom CPS-0,,no,no,1985,Capcom,Shooter - Horizontal,,15kHz,horizontal,n/a,,2 (alternating),8-way,,2
 seganinj,Sega Ninja (315-5102),,315-5102,no,,Sega System 1,,no,no,1985,Sega,Shooter - Gallery,,15kHz,horizontal,,,2 (alternating),8-way,,3
-seganinj,Sega Ninja (US) (315-5102),US,315-5102,yes,Sega Ninja,Sega System 1,,no,no,1985,Sega,Shooter - Gallery,,15kHz,horizontal,,,2 (alternating),8-way,,3
+seganinj,Sega Ninja (US) (315-5102),USA,315-5102,yes,Sega Ninja,Sega System 1,,no,no,1985,Sega,Shooter - Gallery,,15kHz,horizontal,,,2 (alternating),8-way,,3
 commandoj,Senjou no Ookami,,,yes,Commando,Capcom CPS-0,Commando,no,no,1985,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
 mercsj,"Senjou no Ookami II (JP, 900302)",Japan,900302,yes,Mercs,Capcom CPS-1,,no,no,1990,Capcom,Run 'n' Gun - Vertical,,15kHz,vertical (ccw),yes,,3,8-way,,2
 shtrider,Shot Rider (B-Board 89624B-1),,B-Board 89624B-1,no,,Irem M52,,no,no,1983,Capcom,Racing,,15kHz,vertical (ccw),yes,,2 (alternating),8-way,,
@@ -991,11 +991,11 @@ invad2ct,"Space Invaders Part II (Midway, Cocktail)",,"Midway, Cocktail",yes,Spa
 invadpt2,"Space Invaders Part II (Taito, Bigger ROMs)",,"Taito, Bigger ROMs",yes,Space Invaders,Midway 8080,Space Invaders,no,no,1979,Taito,Shooter - Gallery,,15kHz,vertical (ccw),yes,,2 (alternating),2-way horizontal,,1
 spaceplt,Space Pilot (Time Pilot bootleg),,,yes,,Konami Z80,,no,yes,1982,,Shooter - Multidirectional,,15kHz,vertical (cw),no,,2 (alternating),8-way,,1
 spacerace,Space Race,,,no,,Atari Discrete hardware,,no,no,1973,Atari,Racing,,15kHz,horizontal,,,2 (simultaneous),2-way vertical,,0
-spcrocks,"Space Rocks (Asteroids, Spanish) [bl]",,"Asteroids, Spanish",yes,Asteroids,Atari 6502,,no,yes,1981,Atari,Shooter - Multidirectional,,31kHz,horizontal,,,1,2-way horizontal,,3
+spcrocks,"Space Rocks (Asteroids, Spanish) [bl]",Spain,"Asteroids, Spanish",yes,Asteroids,Atari 6502,,no,yes,1981,Atari,Shooter - Multidirectional,,31kHz,horizontal,,,1,2-way horizontal,,3
 spacezap,Space Zap,,,no,,Midway Astrocade,,no,no,1980,Midway,Shooter - Multidirectional,,15kHz,horizontal,,,2 (alternating),4-way,,1
 spartanx,Spartan X (JP),Japan,,yes,Kung-Fu Master,Irem M62,,no,no,1984,Irem,Beat 'em Up,,15kHz,horizontal,,,2 (alternating),8-way,,2
 spatter,Spatter (315-5xxx),,315-5xxx,no,,Sega System 1,,no,no,1984,Sega,Maze,,15kHz,horizontal,,,2 (alternating),8-way,,2
-spatter,Spatter (US) (315-5xxx),US,315-5xxx,yes,Spatter,Sega System 1,,no,no,1984,Sega,Maze,,15kHz,horizontal,,,2 (alternating),8-way,,2
+spatter,Spatter (US) (315-5xxx),USA,315-5xxx,yes,Spatter,Sega System 1,,no,no,1984,Sega,Maze,,15kHz,horizontal,,,2 (alternating),8-way,,2
 spdcoin,Speed Coin,,,no,,Konami Scramble based,,no,no,1984,Stern,Puzzle,,15kHz,vertical (cw),yes,,1,2-way horizontal,,0
 spelunkr,Spelunker,,,no,Spelunker,Irem M62,Spelunker,no,no,1985,Irem,Platform - Climb,,15kHz,horizontal,,,2 (alternating),8-way,,2
 spelunkrj,Spelunker (JP),Japan,,yes,Spelunker,Irem M62,Spelunker,no,no,1985,Irem / Broderbund,Platform - Climb,,15kHz,horizontal,,,2 (alternating),8-way,,2
@@ -1089,7 +1089,7 @@ sf2rb3,"Street Fighter II'- Champion Edition (Rainbow, Set 3) [bl]",,"Rainbow, S
 sf2re,Street Fighter II'- Champion Edition (RE) [bl],,RE,yes,Street Fighter II,Capcom CPS-1,Street Fighter,no,yes,1992,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,6
 sf2redp2,Street Fighter II'- Champion Edition (Red Wave Pt. II) [bl],,Red Wave Pt. II,yes,Street Fighter II,Capcom CPS-1,Street Fighter,no,yes,1992,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,6
 sf2red,Street Fighter II'- Champion Edition (Red Wave) [bl],,Red Wave,yes,Street Fighter II,Capcom CPS-1,Street Fighter,no,yes,1992,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,6
-sf2cebltw,"Street Fighter II'- Champion Edition (Taiwan, PAL) [bl]",,"Taiwan, PAL",yes,Street Fighter II,Capcom CPS-1,Street Fighter,no,yes,1992,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,6
+sf2cebltw,"Street Fighter II'- Champion Edition (Taiwan, PAL) [bl]",Taiwan,"Taiwan, PAL",yes,Street Fighter II,Capcom CPS-1,Street Fighter,no,yes,1992,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,6
 sf2cet,"Street Fighter II'- Champion Edition (TW, 920313)",Taiwan,920313,yes,Street Fighter II,Capcom CPS-1,Street Fighter,no,no,1992,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,6
 sf2ceupl,Street Fighter II'- Champion Edition (UPL) [bl],,UPL,yes,Street Fighter II,Capcom CPS-1,Street Fighter,no,yes,1992,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,6
 sf2ceua,"Street Fighter II'- Champion Edition (US, 920313)",USA,920313,yes,Street Fighter II,Capcom CPS-1,Street Fighter,no,no,1992,Capcom,Fighting,,15kHz,horizontal,n/a,,2 (simultaneous),8-way,,6
@@ -1748,3 +1748,6 @@ prehisle,Prehistoric Isle in 1930 (World),World,,no,Prehistoric Isle,SNK Unique,
 gensitou,Genshitou 1930's,Japan,,yes,Prehistoric Isle,SNK Unique,,no,no,1989,SNK,Shooter - Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 prehisleu,Prehistoric Isle in 1930 (US),USA,,yes,Prehistoric Isle,SNK Unique,,no,no,1989,SNK,Shooter - Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
 prehislek,Wonsido 1930's (Korea),Korea,,yes,Prehistoric Isle,SNK Unique,,no,no,1989,SNK,Shooter - Horizontal,,15kHz,horizontal,,,2 (simultaneous),8-way,,2
+airdueljm72,"Air Duel (Japan, M72 hardware)",Japan,,no,Air Duel,Irem M72,,no,no,1990,Irem,Shooter - Vertical,,15kHz,vertical,,,2 (simultaneous),8-way,,2
+xmultiplm72,"X Multiply (Japan, M72 hardware)",Japan,,no,X Multiply,Irem M72,,no,no,1989,Irem,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
+dkgensanm72,"Daiku no Gensan (Japan, M72 hardware)",Japan,,no,Daiku no Gensan,Irem M72,,no,no,1990,Irem,Platform / Fighting,,15kHz,horizontal,,,2 (alternating),8-way,,2

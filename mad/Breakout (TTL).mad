@@ -6,7 +6,7 @@
 	<region></region>
 	<version>TTL</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<parent_title>Breakout</parent_title>
 	<platform>Atari Discrete hardware</platform>
 	<series>Breakout</series>
 	<homebrew>no</homebrew>

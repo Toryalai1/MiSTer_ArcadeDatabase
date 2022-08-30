@@ -5,7 +5,7 @@
 	<name>DoDonPachi (Arrange)</name>
 	<region></region>
 	<version>Arrange V1.1</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>DoDonPachi</parent_title>
 	<platform>CAVE 68000</platform>
 	<series></series>

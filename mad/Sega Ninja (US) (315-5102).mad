@@ -3,7 +3,7 @@
 
 	<setname>seganinj</setname>
 	<name>Sega Ninja (US) (315-5102)</name>
-	<region>US</region>
+	<region>USA</region>
 	<version>315-5102</version>
 	<alternative>yes</alternative>
 	<parent_title>Sega Ninja</parent_title>

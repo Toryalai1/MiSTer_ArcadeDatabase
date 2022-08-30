@@ -3,7 +3,7 @@
 
 	<setname>spcrocks</setname>
 	<name>Space Rocks (Asteroids, Spanish) [bl]</name>
-	<region></region>
+	<region>Spain</region>
 	<version>Asteroids, Spanish</version>
 	<alternative>yes</alternative>
 	<parent_title>Asteroids</parent_title>

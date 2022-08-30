@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>drgninja</setname>
-	<name>Dragonninja (JP, Rev. 1)</name>
+	<setname>airdueljm72</setname>
+	<name>Air Duel (Japan, M72 hardware)</name>
 	<region>Japan</region>
-	<version>Rev. 1</version>
+	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Bad Dudes vs. Dragonninja</parent_title>
-	<platform>Data East MEC-M1</platform>
+	<parent_title>Air Duel</parent_title>
+	<platform>Irem M72</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1988</year>
-	<manufacturer>Data East</manufacturer>
-	<category>Platform</category>
+	<year>1990</year>
+	<manufacturer>Irem</manufacturer>
+	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
+	<rotation>vertical</rotation>
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>

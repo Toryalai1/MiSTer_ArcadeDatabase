@@ -3,7 +3,7 @@
 
 	<setname>spatter</setname>
 	<name>Spatter (US) (315-5xxx)</name>
-	<region>US</region>
+	<region>USA</region>
 	<version>315-5xxx</version>
 	<alternative>yes</alternative>
 	<parent_title>Spatter</parent_title>

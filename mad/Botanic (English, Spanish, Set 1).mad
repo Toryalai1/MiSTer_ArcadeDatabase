@@ -3,10 +3,10 @@
 
 	<setname>botanic</setname>
 	<name>Botanic (English, Spanish, Set 1)</name>
-	<region></region>
+	<region>Spain</region>
 	<version>English, Spanish, Set 1</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<parent_title>Botanic</parent_title>
 	<platform>Taito Licensed </platform>
 	<series></series>
 	<homebrew>no</homebrew>

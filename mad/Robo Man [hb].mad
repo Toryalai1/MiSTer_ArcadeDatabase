@@ -3,7 +3,7 @@
 
 	<setname>roboman</setname>
 	<name>Robo Man [hb]</name>
-	<region></region>
+	<region>Japan</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

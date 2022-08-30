@@ -5,7 +5,7 @@
 	<name>Puzzle Uo Poko</name>
 	<region>World</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title></parent_title>
 	<platform>CAVE 68000</platform>
 	<series></series>

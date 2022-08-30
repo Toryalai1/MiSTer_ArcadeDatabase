@@ -6,7 +6,7 @@
 	<region></region>
 	<version>TTL</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<parent_title>Galaxian</parent_title>
 	<platform>Namco Galaxian based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
