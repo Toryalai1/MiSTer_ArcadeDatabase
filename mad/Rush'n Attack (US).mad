@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Green Beret</parent_title>
-	<platform>Konami Green Beret Based</platform>
+	<platform>Konami Green Beret based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

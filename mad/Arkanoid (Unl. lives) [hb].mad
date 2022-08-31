@@ -7,7 +7,7 @@
 	<version>Unl. Lives</version>
 	<alternative>yes</alternative>
 	<parent_title>Arkanoid</parent_title>
-	<platform>Taito Arkanoid Hardware</platform>
+	<platform>Taito Arkanoid hardware</platform>
 	<series></series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>

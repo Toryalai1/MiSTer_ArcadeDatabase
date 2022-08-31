@@ -7,7 +7,7 @@
 	<version>Tecfri PCB</version>
 	<alternative>yes</alternative>
 	<parent_title>Gaplus</parent_title>
-	<platform>Namco Galaga Based</platform>
+	<platform>Namco Galaga based</platform>
 	<series>Galaxian</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

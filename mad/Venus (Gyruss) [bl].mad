@@ -7,7 +7,7 @@
 	<version>Gyruss</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Konami 6809 Based</platform>
+	<platform>Konami 6809 based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

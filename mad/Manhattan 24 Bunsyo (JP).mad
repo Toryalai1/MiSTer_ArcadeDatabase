@@ -16,7 +16,7 @@
 	<category></category>
 
 	<resolution>15kHz</resolution>
-	<rotation></rotation>
+	<rotation>horizontal</rotation>
 	<flip>no</flip>
 
 	<players>2 (alternating)</players>

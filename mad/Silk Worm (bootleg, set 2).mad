@@ -7,7 +7,7 @@
 	<version>bootleg, set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Silk Worm</parent_title>
-	<platform>Tecmo</platform>
+	<platform>Tecmo hardware</platform>
 	<series>Silk Worm</series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

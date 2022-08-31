@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>nspirit</setname>
+	<setname>nspiritj</setname>
 	<name>Ninja Spirit (Japan)</name>
 	<region>Japan</region>
 	<version></version>
@@ -11,7 +11,7 @@
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1988</year>
+	<year>1989</year>
 	<manufacturer>Irem</manufacturer>
 	<category>Shooter</category>
 
