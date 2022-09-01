@@ -314,8 +314,8 @@ dkongjr,"Donkey Kong Junior (US, Set F-2)",USA,Set F-2,no,Donkey Kong Junior,Don
 dkpace,Donkey Kong Pace (Pace) [hb],,Pace,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dkongrev,Donkey Kong Reverse [hb],,,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
 dktrainer,Donkey Kong Trainer (v1.01) [hb],,v1.01,yes,Donkey Kong,Donkey Kong hardware,Donkey Kong,yes,no,1981,Nintendo,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,1
-donpachi,Donpachi,World,,no,DonPachi,CAVE 68000,,no,no,1995,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2(simutaneous),8-way,,3
-donpachij,Donpachi (Japan),Japan,,no,DonPachi,CAVE 68000,,no,no,1995,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2(simutaneous),8-way,,3
+donpachi,Donpachi,World,,no,DonPachi,CAVE 68000,,no,no,1995,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simlutaneous),8-way,,3
+donpachij,Donpachi (Japan),Japan,,no,DonPachi,CAVE 68000,,no,no,1995,CAVE,Shooter - Vertical,,15kHz,vertical (ccw),yes,,2 (simultaneous),8-way,,3
 dorodon,Dorodon (Set 1),,Set 1,no,,Universal Lady Bug,,no,no,1982,UPL,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,0
 dorodon2,Dorodon (Set 2),,Set 2,yes,Dorodon,Universal Lady Bug,,no,no,1982,UPL,Maze,,15kHz,vertical (ccw),no,,2 (alternating),4-way,,0
 dotrikun,Dottori-Kun (New),,New,no,,Dottori-Kun,,no,no,1990,Sega,Maze,,15kHz,horizontal,no,,1,8-way,,2
@@ -403,7 +403,7 @@ frenzy,Frenzy (Rev RA1),,Rev RA1,no,,Stern based,,no,no,1981,Stern,Shooter - Mul
 frogger,Frogger (Konami Bugfixed),,Konami Bugfixed,no,Frogger,Konami Z80,,no,no,1981,Konami,Platform - Climb,,15kHz,vertical (cw),no,,2 (alternating),4-way,,0
 frogger,"Frogger (Sega, Set 2)",,"Sega, Set 2",no,Frogger,Konami Z80,,no,no,1981,Konami,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,0
 futurespy,Future Spy,,,no,,Sega Zaxxon based,,no,no,1982,Sega/Gremlin,Shooter - Isometric,,15kHz,vertical (cw),yes,,2 (alternating),8-way,,2
-gaia,Gaia Crusaders,World,,no,Gaia Crusaders,CAVE 68000,,no,no,1999,CAVE,Fighting,,15kHz,horizontal,no,,2 (simutaneous),8-way,,4
+gaia,Gaia Crusaders,World,,no,Gaia Crusaders,CAVE 68000,,no,no,1999,CAVE,Fighting,,15kHz,horizontal,no,,2 (simultaneous),8-way,,4
 galagaef,Galaga (Enduring Freedom) [hb],,,yes,Galaga,Namco Galaga based,Galaga,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 galagamf,"Galaga (Fast Shoot, Set 1)",,"Fast Shoot, Set 1",yes,Galaga,Namco Galaga based,Galaga,no,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 galagads,Galaga (Fast Shoot) [hb],,Fast Shoot,yes,Galaga,Namco Galaga based,Galaga,yes,no,1981,Namco / Midway,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
@@ -1233,7 +1233,7 @@ theend,The End,,,no,,Konami Scramble based,,no,no,1980,Konami,Shooter - Gallery,
 theend,The End (BKG),,BKG,no,,Konami Scramble based,,no,no,1980,Konami,Shooter - Gallery,,15kHz,vertical (cw),yes,,2 (alternating),2-way horizontal,,1
 theends,The End (Stern),,Stern,yes,The End,Konami Scramble based,,no,no,1980,Konami / Stern,Shooter - Gallery,,15kHz,vertical (cw),no,,2 (alternating),2-way horizontal,,1
 theglobp,The Glob (Pac-Man Hardware),,Pac-Man Hardware,no,,Namco Pac-Man hardware,,no,no,1983,Epos Corporation,Platform - Climb,,15kHz,vertical (cw),yes,,2 (alternating),4-way,,2
-theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighting,,15kHz,horizontal,no,,2 (simutaneous),8-way,,4
+theroes,Thunder Heroes,World,,no,Thunder Heroes,CAVE 68000,,no,no,2001,CAVE,Fighting,,15kHz,horizontal,no,,2 (simultaneous),8-way,,4
 kodja,"The King of Dragons (JP, B-Board, 89625B-1)",Japan,"B-Board, 89625B-1",yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
 kodj,"The King of Dragons (JP, B-Board, 90629B-3)",Japan,"B-Board, 90629B-3",yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
 kodu,"The King of Dragons (US, 910910)",USA,910910,yes,The King of Dragons,Capcom CPS-1,,no,no,1991,Capcom,Beat 'em Up,,15kHz,horizontal,n/a,,3,8-way,,2
@@ -1748,3 +1748,5 @@ prehislek,Wonsido 1930's (Korea),Korea,,yes,Prehistoric Isle,SNK Unique,,no,no,1
 airdueljm72,"Air Duel (Japan, M72 hardware)",Japan,,no,Air Duel,Irem M72,,no,no,1990,Irem,Shooter - Vertical,,15kHz,vertical,,,2 (simultaneous),8-way,,2
 xmultiplm72,"X Multiply (Japan, M72 hardware)",Japan,,no,X Multiply,Irem M72,,no,no,1989,Irem,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 dkgensanm72,"Daiku no Gensan (Japan, M72 hardware)",Japan,,no,Daiku no Gensan,Irem M72,,no,no,1990,Irem,Platform / Fighting,,15kHz,horizontal,,,2 (alternating),8-way,,2
+psychic5j,Psychic 5 (Japan),Japan,,yes,Psychic 5,Jaleco Unique,,no,no,1987,Jaleco,Action / Maze Vertical,,15kHz,vertical (ccw),,,1,8-way,,2
+psychic5,Psychic 5 (World),World,,no,Psychic 5,Jaleco Unique,,no,no,1987,Jaleco,Action / Maze Vertical,,15kHz,vertical (ccw),,,1,8-way,,2
