@@ -6,8 +6,8 @@
 	<region></region>
 	<version>New Ver</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Namco Super Pac-Man based</platform>
+	<parent_title>Dig Dug II</parent_title>
+	<platform>Namco Super Pac-Man hardware</platform>
 	<series>Dig Dug</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

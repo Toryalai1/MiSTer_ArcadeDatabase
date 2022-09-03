@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Rally-X</parent_title>
-	<platform>Pac-Man based</platform>
+	<platform>Namco Pac-Man hardware</platform>
 	<series>Rally-X</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

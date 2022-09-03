@@ -7,7 +7,7 @@
 	<version>Engineering Sample</version>
 	<alternative>yes</alternative>
 	<parent_title>Jump Shot</parent_title>
-	<platform>Pac-Man based</platform>
+	<platform>Namco Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

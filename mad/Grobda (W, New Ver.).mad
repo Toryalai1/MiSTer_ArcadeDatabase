@@ -7,7 +7,7 @@
 	<version>New Ver.</version>
 	<alternative>yes</alternative>
 	<parent_title></parent_title>
-	<platform>Namco Super Pac-Man based</platform>
+	<platform>Namco Super Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

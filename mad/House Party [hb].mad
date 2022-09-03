@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Mappy</parent_title>
-	<platform>Namco Super Pac-Man based</platform>
+	<platform>Namco Super Pac-Man hardware</platform>
 	<series></series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>

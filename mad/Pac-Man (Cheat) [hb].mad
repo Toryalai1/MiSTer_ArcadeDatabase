@@ -7,7 +7,7 @@
 	<version>Cheat</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>
-	<platform>Pac-Man based</platform>
+	<platform>Namco Pac-Man hardware</platform>
 	<series>Pac-Man</series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
