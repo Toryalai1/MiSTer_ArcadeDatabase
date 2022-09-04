@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>megaman</setname>
-	<name>Mega Man- The Power Battle (CPS1.5 Qsound) [hb]</name>
+	<setname>ffightae_cps2</setname>
+	<name>Final Fight 30th Anniversary Edition CPS2</name>
 	<region></region>
-	<version>CPS1.5 Qsound</version>
-	<alternative>yes</alternative>
-	<parent_title>Mega Man- The Power Battle</parent_title>
-	<platform>Capcom CPS-1.5</platform>
-	<series>Mega Man</series>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Final Fight</parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series>Final Fight</series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
-	<year>1995</year>
+	<year>2022</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Fighting</category>
+	<category>Beat 'em Up</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
+	<players>3</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>
