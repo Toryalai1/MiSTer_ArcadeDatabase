@@ -5,7 +5,7 @@
 	<name>Street Fighter II'- Hyper Fighting (W, 921209)</name>
 	<region>World</region>
 	<version>921209</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Street Fighter II</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Street Fighter</series>
