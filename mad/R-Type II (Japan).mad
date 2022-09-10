@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>rtype</setname>
-	<name>R-Type (World)</name>
-	<region>World</region>
+	<setname>rtype2j</setname>
+	<name>R-Type II (Japan)</name>
+	<region>Japan</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title>R-Type</parent_title>
+	<alternative>yes</alternative>
+	<parent_title>R-Type II</parent_title>
 	<platform>Irem M72</platform>
 	<series>R-Type</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1987</year>
-	<manufacturer>IREM</manufacturer>
+	<year>1989</year>
+	<manufacturer>Irem</manufacturer>
 	<category>Shooter - Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>1</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
