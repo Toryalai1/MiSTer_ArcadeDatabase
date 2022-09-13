@@ -1,10 +1,10 @@
 #!/bin/python3
-# 20210425 Written by Felix Leger (aka @barfood#4348), with guidance from Porkchop Express.
-# https://felixleger.com || https://misteraddons.com
+
+
 
 """
 How to use:
-    python3 csv2mad.py ARCADE_METADATA_FILE(.csv)
+    python3 csv2mad.py ArcadeDatabase[DATE](.csv)
 
 This will generate an "output_mads/" folder with 1 file per line in your ARCADE_METADATA_FILE.
 """
@@ -33,7 +33,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 ############### MAIN LOOP #########################
 for _, game in tqdm.tqdm(df.iterrows(), desc="Generating mads", total=df.shape[0]):
 
-    # Alternate mads are created in subfolders
+    # This code block is if you want to have an alternatives MADs. Alternate mads are created in subfolders
     # if len(game.alternative) > 0:
     #     alternate_folder = os.path.join(OUTPUT_DIR, "_alternatives", "_"+game.alternative.replace("&amp;", "&"))
     #     os.makedirs(alternate_folder, exist_ok=True)
