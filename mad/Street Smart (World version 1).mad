@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>streetsmw</setname>
+	<name>Street Smart (World version 1)</name>
+	<region>World</region>
+	<version>version 1</version>
+	<alternative>yes</alternative>
+	<parent_title>Street Smart</parent_title>
+	<platform>SNK 68000</platform>
+	<series>Street Smart</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1989</year>
+	<manufacturer>SNK</manufacturer>
+	<category>Fighter</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>
