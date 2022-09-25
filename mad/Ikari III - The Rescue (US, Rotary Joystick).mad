@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ikari3u</setname>
+	<name>Ikari III - The Rescue (US, Rotary Joystick)</name>
+	<region>USA</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Ikari III</parent_title>
+	<platform>SNK 68000</platform>
+	<series>Ikari Warriors</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1989</year>
+	<manufacturer>SNK</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>Rotary Joystick</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ikari</setname>
-	<name>Ikari Warriors</name>
-	<region></region>
+	<setname>ikari3</setname>
+	<name>Ikari III - The Rescue (W, Version 1, 8-Way Joystick)</name>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Ikari Warriors</parent_title>
-	<platform>SNK Triple Z80</platform>
+	<parent_title>Ikari III</parent_title>
+	<platform>SNK 68000</platform>
 	<series>Ikari Warriors</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1986</year>
+	<year>1989</year>
 	<manufacturer>SNK</manufacturer>
-	<category>Action</category>
+	<category>Shooter - Horizontal</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
-	<flip>yes</flip>
+	<rotation>horizontal</rotation>
+	<flip></flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>
