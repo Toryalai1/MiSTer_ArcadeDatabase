@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>mysticm</setname>
-	<name>Mystic Marathon</name>
+	<setname>bankp</setname>
+	<name>Bank Panic</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Mystic Marathon</parent_title>
-	<platform>Williams 2nd Generation</platform>
-	<series></series>
+	<parent_title>Bank Panic</parent_title>
+	<platform>Sega Z80</platform>
+	<series>Bank Panic</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1983</year>
-	<manufacturer>Williams</manufacturer>
-	<category>Sports</category>
+	<year>1984</year>
+	<manufacturer>Sega/Sanritsu</manufacturer>
+	<category>Shooter</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<move_inputs></move_inputs>
+	<move_inputs>2-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons></num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

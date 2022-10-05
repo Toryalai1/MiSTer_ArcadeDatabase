@@ -4,12 +4,12 @@
 	<setname>ddonpacha</setname>
 	<name>DoDonPachi (Arrange)</name>
 	<region></region>
-	<version>Arrange V1.1</version>
+	<version></version>
 	<alternative>no</alternative>
 	<parent_title>DoDonPachi</parent_title>
 	<platform>CAVE 68000</platform>
-	<series></series>
-	<homebrew>yes</homebrew>
+	<series>Donpachi</series>
+	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1997</year>
 	<manufacturer>CAVE</manufacturer>

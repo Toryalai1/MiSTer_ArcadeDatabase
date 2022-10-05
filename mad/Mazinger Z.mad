@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddonpach</setname>
-	<name>DoDonPachi</name>
+	<setname>mazinger</setname>
+	<name>Mazinger Z</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>DoDonPachi</parent_title>
+	<parent_title>Mazinger Z</parent_title>
 	<platform>CAVE 68000</platform>
-	<series>Donpachi</series>
+	<series>Mazinger Z</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1997</year>
-	<manufacturer>CAVE</manufacturer>
+	<year>1994</year>
+	<manufacturer>Banpresto</manufacturer>
 	<category>Shooter - Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
-	<flip>yes</flip>
+	<rotation>vertical</rotation>
+	<flip></flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>

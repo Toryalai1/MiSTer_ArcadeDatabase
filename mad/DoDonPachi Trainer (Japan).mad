@@ -8,7 +8,7 @@
 	<alternative>yes</alternative>
 	<parent_title>DoDonPachi</parent_title>
 	<platform>CAVE 68000</platform>
-	<series></series>
+	<series>Donpachi</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1997</year>

@@ -19,7 +19,7 @@
 	<rotation>vertical</rotation>
 	<flip>yes</flip>
 
-	<players>2</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs></move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
