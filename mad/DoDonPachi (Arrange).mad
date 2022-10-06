@@ -3,7 +3,7 @@
 
 	<setname>ddonpacha</setname>
 	<name>DoDonPachi (Arrange)</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>DoDonPachi</parent_title>
@@ -11,7 +11,7 @@
 	<series>Donpachi</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1997</year>
+	<year>2012</year>
 	<manufacturer>CAVE</manufacturer>
 	<category>Shooter - Vertical</category>
 
