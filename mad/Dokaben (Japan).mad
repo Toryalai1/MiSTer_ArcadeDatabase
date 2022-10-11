@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>srumbler</setname>
-	<name>The Speed Rumbler (Set 1)</name>
-	<region>World</region>
-	<version>Set 1</version>
+	<setname>dokaben</setname>
+	<name>Dokaben (Japan)</name>
+	<region>Japan</region>
+	<version></version>
 	<alternative>no</alternative>
-	<parent_title>The Speed Rumber</parent_title>
-	<platform>Capcom CPS-0</platform>
-	<series></series>
+	<parent_title>Dokaben</parent_title>
+	<platform>Capcom Mitchell</platform>
+	<series>Dokaben</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1986</year>
+	<year>1989</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Shooter - Vertical</category>
+	<category>Sports</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>horizontal</rotation>
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>

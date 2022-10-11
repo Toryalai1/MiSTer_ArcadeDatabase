@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>srumbler</setname>
-	<name>The Speed Rumbler (Set 1)</name>
+	<setname>block</setname>
+	<name>Block Block (W, 911219, Joystick)</name>
 	<region>World</region>
-	<version>Set 1</version>
+	<version></version>
 	<alternative>no</alternative>
-	<parent_title>The Speed Rumber</parent_title>
-	<platform>Capcom CPS-0</platform>
-	<series></series>
+	<parent_title>Block Block</parent_title>
+	<platform>Capcom Mitchell</platform>
+	<series>Block Block</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1986</year>
+	<year>1991</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Shooter - Vertical</category>
+	<category>Paddle</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<move_inputs>8-way</move_inputs>
+	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
 </misterarcadedescription>
