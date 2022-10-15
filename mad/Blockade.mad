@@ -9,8 +9,8 @@
 	<parent_title></parent_title>
 	<platform>Sega Blockade hardware</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1976</year>
 	<manufacturer>Gremlin</manufacturer>
 	<category></category>

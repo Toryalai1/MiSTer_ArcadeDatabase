@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>1944d</setname>
+	<name>1944: The Loop Master (US, Phoenix Edition) [bl]</name>
+	<region>USA</region>
+	<version>Phoenix Edition</version>
+	<alternative>yes</alternative>
+	<parent_title>1944- The Loop Master</parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series>19XX</series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>2000</year>
+	<manufacturer>Eighting</manufacturer>
+	<manufacturer>Raizing</manufacturer>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

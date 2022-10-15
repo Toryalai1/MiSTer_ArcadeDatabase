@@ -5,8 +5,8 @@
 	<name>Super Street Fighter II X- Grand Master Challenge (JP, 940311)</name>
 	<region>Japan</region>
 	<version>940311</version>
-	<alternative>yes</alternative>
-	<parent_title>Super Street Fighter II X- Grand Master Challenge</parent_title>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Capcom CPS-2</platform>
 	<series>Street Fighter</series>
 	<homebrew>no</homebrew>

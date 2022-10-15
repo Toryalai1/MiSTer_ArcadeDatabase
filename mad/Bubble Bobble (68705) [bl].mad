@@ -1,16 +1,16 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>bublbobl</setname>
+	<setname>bub68705</setname>
 	<name>Bubble Bobble (68705) [bl]</name>
-	<region>Japan</region>
-	<version>v0.1</version>
-	<alternative>no</alternative>
+	<region></region>
+	<version>68705</version>
+	<alternative>yes</alternative>
 	<parent_title>Bubble Bobble</parent_title>
 	<platform>Taito Bubble Booble based</platform>
 	<series>Bubble Bobble</series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
+	<bootleg>yes</bootleg>
 	<year>1986</year>
 	<manufacturer>Taito</manufacturer>
 	<category>Puzzle - Platform</category>

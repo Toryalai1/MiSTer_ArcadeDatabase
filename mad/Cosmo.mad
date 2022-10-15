@@ -22,5 +22,5 @@
 	<players>2 (alternating)</players>
 	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons></num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

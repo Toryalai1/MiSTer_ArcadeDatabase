@@ -9,8 +9,8 @@
 	<parent_title>Bay Route</parent_title>
 	<platform>Sega System 16</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1989</year>
 	<manufacturer>Sunsoft</manufacturer>
 	<manufacturer>Sega</manufacturer>
@@ -21,7 +21,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<move_inputs>8</move_inputs>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons></num_buttons>
 </misterarcadedescription>
