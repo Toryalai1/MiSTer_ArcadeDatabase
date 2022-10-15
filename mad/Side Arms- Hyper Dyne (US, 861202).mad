@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>sidearmsur1</setname>
-	<name>Side Arms- Hyper Dyne (US)</name>
+	<setname>sidearmsu</setname>
+	<name>Side Arms- Hyper Dyne (US, 861202)</name>
 	<region>USA</region>
-	<version>861128</version>
+	<version>861202</version>
 	<alternative>yes</alternative>
 	<parent_title>Side Arms</parent_title>
 	<platform>Capcom CPS-0</platform>

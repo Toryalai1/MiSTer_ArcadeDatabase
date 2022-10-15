@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>varthj</setname>
-	<name>Varth- Operation Thunderstorm (JP, 920714)</name>
+	<setname>varthjr</setname>
+	<name>Varth- Operation Thunderstorm (JP, Resale)</name>
 	<region>Japan</region>
-	<version>920714</version>
+	<version>920714 Resale</version>
 	<alternative>yes</alternative>
 	<parent_title>Varth</parent_title>
 	<platform>Capcom CPS-1</platform>
