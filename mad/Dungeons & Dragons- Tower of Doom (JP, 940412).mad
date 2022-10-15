@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddtodjr1</setname>
+	<setname>ddtodj</setname>
 	<name>Dungeons &amp; Dragons- Tower of Doom (JP, 940412)</name>
 	<region>Japan</region>
 	<version>940412</version>
@@ -17,10 +17,10 @@
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>4 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls></special_controls>
+	<special_controls>n-a</special_controls>
 	<num_buttons>4</num_buttons>
 </misterarcadedescription>

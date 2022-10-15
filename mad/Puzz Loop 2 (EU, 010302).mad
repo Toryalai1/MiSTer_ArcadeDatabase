@@ -12,16 +12,15 @@
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>2001</year>
-	<manufacturer>Mitchell</manufacturer>
-	<manufacturer>Capcom</manufacturer>
+	<manufacturer>Mitchell - Capcom</manufacturer>
 	<category>Puzzle</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls></special_controls>
+	<special_controls>n-a</special_controls>
 	<num_buttons>1</num_buttons>
 </misterarcadedescription>

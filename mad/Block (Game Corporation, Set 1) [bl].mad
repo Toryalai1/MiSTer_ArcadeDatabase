@@ -12,8 +12,7 @@
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>
 	<year>1986</year>
-	<manufacturer>Taito</manufacturer>
-	<manufacturer>Game Corporation</manufacturer>
+	<manufacturer>Taito - Game Corporation</manufacturer>
 	<category>Ball and Paddle</category>
 
 	<resolution>15kHz</resolution>

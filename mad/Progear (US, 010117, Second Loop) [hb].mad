@@ -12,16 +12,15 @@
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
 	<year>2001</year>
-	<manufacturer>Cave</manufacturer>
-	<manufacturer>Capcom</manufacturer>
+	<manufacturer>Cave - Capcom</manufacturer>
 	<category>Shooter - Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls></special_controls>
+	<special_controls>n-a</special_controls>
 	<num_buttons>3</num_buttons>
 </misterarcadedescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ottopza</setname>
+	<name>Crazy Otto - The Original Ms Pacman [hb]</name>
+	<region></region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Ms. Pac-man</parent_title>
+	<platform>Namco Pac-Man hardware</platform>
+	<series>Ms. Pac-man</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>2018</year>
+	<manufacturer></manufacturer>
+	<category>Maze</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>4-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>0</num_buttons>
+</misterarcadedescription>

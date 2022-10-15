@@ -12,8 +12,7 @@
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
 	<year>1980</year>
-	<manufacturer>Bally</manufacturer>
-	<manufacturer>Midway</manufacturer>
+	<manufacturer>Bally - Midway</manufacturer>
 	<category>Maze</category>
 
 	<resolution>15kHz</resolution>

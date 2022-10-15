@@ -12,13 +12,12 @@
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>
-	<manufacturer>Sega</manufacturer>
-	<manufacturer>Sunsoft</manufacturer>
+	<manufacturer>Sega - Sunsoft</manufacturer>
 	<category>Beat 'em Up</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>

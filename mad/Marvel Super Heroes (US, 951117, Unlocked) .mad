@@ -8,8 +8,7 @@
 	<alternative>yes</alternative>
 	<parent_title>Marvel Super Heroes</parent_title>
 	<platform>Capcom CPS-2</platform>
-	<series>Marvel</series>
-	<series>Capcom</series>
+	<series>Marvel - Capcom</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1995</year>
@@ -18,10 +17,10 @@
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls></special_controls>
+	<special_controls>n-a</special_controls>
 	<num_buttons>6</num_buttons>
 </misterarcadedescription>

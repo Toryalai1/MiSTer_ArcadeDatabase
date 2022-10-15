@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>goldenaxe1</setname>
+	<setname>goldnaxe1</setname>
 	<name>Golden Axe (W, Set 1)</name>
 	<region>USA</region>
 	<version>Set 1, FD1094 317-0110</version>
@@ -17,10 +17,10 @@
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls></special_controls>
+	<special_controls>n-a</special_controls>
 	<num_buttons>3</num_buttons>
 </misterarcadedescription>

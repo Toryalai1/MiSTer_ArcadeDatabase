@@ -12,8 +12,7 @@
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1982</year>
-	<manufacturer>Konami</manufacturer>
-	<manufacturer>Atari</manufacturer>
+	<manufacturer>Konami - Atari</manufacturer>
 	<category>Shooter - Multidirectional</category>
 
 	<resolution>15kHz</resolution>

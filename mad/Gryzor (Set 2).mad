@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>gryzor1</setname>
+	<name>Gryzor (Set 2)</name>
+	<region>Europe</region>
+	<version>Set 2</version>
+	<alternative>yes</alternative>
+	<parent_title>Contra</parent_title>
+	<platform>Konami Contra based</platform>
+	<series>Contra</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Run 'n' Gun - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

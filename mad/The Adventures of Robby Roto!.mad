@@ -12,9 +12,7 @@
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1981</year>
-	<manufacturer>Dave Nutting Associates</manufacturer>
-	<manufacturer>Bally</manufacturer>
-	<manufacturer>Midway</manufacturer>
+	<manufacturer>Dave Nutting Associates - Bally - Midway</manufacturer>
 	<category>Maze</category>
 
 	<resolution>15kHz</resolution>

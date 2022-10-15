@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>progearjbl</setname>
+	<name>Progear no Arashi (JP, decrypted) [bl]</name>
+	<region>Japan</region>
+	<version>decrypted</version>
+	<alternative>yes</alternative>
+	<parent_title>Progear</parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>2001</year>
+	<manufacturer>Cave - Capcom</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip>n-a</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>n-a</special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>goldenaxej</setname>
+	<setname>goldnaxej</setname>
 	<name>Golden Axe (JP, Set 4)</name>
 	<region>Japan</region>
 	<version>Set 4, FD1094 317-0121</version>
@@ -17,10 +17,10 @@
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls></special_controls>
+	<special_controls>n-a</special_controls>
 	<num_buttons>3</num_buttons>
 </misterarcadedescription>

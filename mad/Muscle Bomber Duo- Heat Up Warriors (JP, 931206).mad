@@ -17,7 +17,7 @@
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>4 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>

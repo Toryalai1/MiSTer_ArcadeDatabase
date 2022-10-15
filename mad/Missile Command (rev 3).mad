@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>missile1</setname>
+	<setname>missile</setname>
 	<name>Missile Command (rev 3)</name>
 	<region>USA</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Missile Command</parent_title>
 	<platform>Atari Missile Command</platform>
 	<series></series>

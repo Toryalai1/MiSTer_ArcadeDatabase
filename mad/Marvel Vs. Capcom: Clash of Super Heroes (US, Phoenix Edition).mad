@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>mvscud</setname>
+	<name>Marvel Vs. Capcom: Clash of Super Heroes (US, Phoenix Edition)</name>
+	<region>USA</region>
+	<version>Phoenix Edition</version>
+	<alternative>yes</alternative>
+	<parent_title>Marvel Vs. Capcom- Clash of Super Heroes</parent_title>
+	<platform>Capcom CPS-2</platform>
+	<series>Marvel - Capcom</series>
+	<homebrew>yes</homebrew>
+	<bootleg>no</bootleg>
+	<year>1998</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighting</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip>n-a</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>n-a</special_controls>
+	<num_buttons>6</num_buttons>
+</misterarcadedescription>

@@ -12,13 +12,12 @@
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>2008</year>
-	<manufacturer>Sega</manufacturer>
-	<manufacturer>M2</manufacturer>
+	<manufacturer>Sega - M2</manufacturer>
 	<category>Shooter - Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

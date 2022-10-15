@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>strideruc</setname>
+	<setname>striderua</setname>
 	<name>Strider (US, B-Board, 89624B-3)</name>
 	<region>USA</region>
 	<version>B-Board, 89624B-3</version>
@@ -17,7 +17,7 @@
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

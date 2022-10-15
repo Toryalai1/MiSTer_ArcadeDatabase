@@ -12,13 +12,12 @@
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1986</year>
-	<manufacturer>Capcom</manufacturer>
-	<manufacturer>Romstar</manufacturer>
+	<manufacturer>Capcom - Romstar</manufacturer>
 	<category>Platform</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
