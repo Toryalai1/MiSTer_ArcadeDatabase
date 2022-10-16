@@ -5,7 +5,7 @@
 	<name>Contra (US-AS, Set 3)</name>
 	<region>USA - Asia</region>
 	<version>Set 3</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Contra</parent_title>
 	<platform>Konami Contra based</platform>
 	<series>Contra</series>
