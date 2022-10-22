@@ -20,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<move_inputs>Rotary Joystick</move_inputs>
-	<special_controls></special_controls>
+	<move_inputs>8-way</move_inputs>
+	<special_controls>Rotary</special_controls>
 	<num_buttons>3</num_buttons>
 </misterarcadedescription>
