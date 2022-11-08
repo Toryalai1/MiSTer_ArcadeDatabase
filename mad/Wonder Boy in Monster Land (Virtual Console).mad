@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname></setname>
-	<name>Wonder Boy in Monster Land</name>
+	<setname>wbmlvc</setname>
+	<name>Wonder Boy in Monster Land (Virtual Console)</name>
 	<region>Japan</region>
 	<version>English, Virtual Console</version>
 	<alternative>yes</alternative>
