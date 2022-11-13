@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>boscomd</setname>
+	<name>Bosconian - Star Destroyer (Midway, New Version)</name>
+	<region>USA</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Bosconian</parent_title>
+	<platform>Namco Galaga based</platform>
+	<series>Bosconian</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1981</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Shooter - Multidirectional</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>
