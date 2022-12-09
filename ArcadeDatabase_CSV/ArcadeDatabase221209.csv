@@ -1971,7 +1971,7 @@ exprraid,"Express Raider (W, Rev 4)",World,Rev 4,no,Express Raider,Data East Uni
 wexpress,"Western Express (Japan, Rev 4)",Japan,Rev 4,yes,Express Raider,Data East Unique,Express Raider,no,no,1986,Data East USA,Platform - Fighter Scrolling,,15kHz,horizontal,,,2 (alternating),8-way,,2
 insectx,Insector X (World),World,,no,Insector X,Taito The Newzealand Story hardware,Insector X,no,no,1989,Taito Corporation Japan,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
 insectxj,Insector X (Japan),Japan,,yes,Insector X,Taito The Newzealand Story hardware,Insector X,no,no,1989,Taito Corporation Japan,Shooter - Horizontal,,15kHz,horizontal,,,2 (alternating),8-way,,2
-goldmedl,"Gold Medalist (Set 1, Alpha68k II PCB)",World,"Set 1, Alpha68k II PCB",no,Gold Medalist,SNK - Alpha Denshi,Gold Medalist,no,no,1988,Alpha Denshi Co.,Sports - Track & Field,,15kHz,horizontal,,,4 (simultaneous),8-way,,3
+goldmedl,"Gold Medalist (Set 1, Alpha68k II PCB)",World,"Set 1, Alpha68k II PCB",no,Gold Medalist,SNK - Alpha Denshi,Gold Medalist,no,no,1988,Alpha Denshi Co.,Sports - Track &amp; Field,,15kHz,horizontal,,,4 (simultaneous),8-way,,3
 skysoldr,Sky Soldiers (US),USA,,no,Sky Soldiers,SNK - Alpha Denshi,Sky Soldiers,no,no,1988,Alpha Denshi Co.,Shooter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,,2
 timesold,Time Soldiers (US Rev 3),USA,Rev 3,no,Time Soldiers,SNK - Alpha Denshi,Time Soldiers,no,no,1987,Alpha Denshi Co.,Shooter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,Rotary,2
 btlfield,Battle Field (Japan),Japan,,yes,Time Soldiers,SNK - Alpha Denshi,Time Soldiers,no,no,1987,Alpha Denshi Co.,Shooter - Vertical,,15kHz,vertical (cw),,,2 (simultaneous),8-way,Rotary,2
