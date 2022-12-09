@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>skyadvntu</setname>
-	<name>Sky Adventure (US)</name>
+	<setname>timesold1</setname>
+	<name>Time Soldiers (US Rev 1)</name>
 	<region>USA</region>
-	<version></version>
+	<version>Rev 1</version>
 	<alternative>yes</alternative>
-	<parent_title>Sky Adventure</parent_title>
+	<parent_title>Time Soldiers</parent_title>
 	<platform>SNK - Alpha Denshi</platform>
-	<series>Sky Adventure</series>
+	<series>Time Soldiers</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1987</year>
 	<manufacturer>Alpha Denshi Co.</manufacturer>
 	<category>Shooter - Vertical</category>
 
@@ -21,6 +21,6 @@
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<special_controls>Rotary</special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

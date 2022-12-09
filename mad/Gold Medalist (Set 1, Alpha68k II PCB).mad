@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>sbasebalj</setname>
-	<name>Super Champion Baseball (Japan)</name>
-	<region>Japan</region>
-	<version></version>
-	<alternative>yes</alternative>
-	<parent_title>Super Champion Baseball</parent_title>
+	<setname>goldmedl</setname>
+	<name>Gold Medalist (Set 1, Alpha68k II PCB)</name>
+	<region>World</region>
+	<version>Set 1, Alpha68k II PCB</version>
+	<alternative>no</alternative>
+	<parent_title>Gold Medalist</parent_title>
 	<platform>SNK - Alpha Denshi</platform>
-	<series>Super Champion Basebal</series>
+	<series>Gold Medalist</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1988</year>
 	<manufacturer>Alpha Denshi Co.</manufacturer>
-	<category>Sports - Baseball</category>
+	<category>Sports - Track & Field</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
+	<players>4 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>
