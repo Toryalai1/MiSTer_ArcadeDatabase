@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname></setname>
+	<setname>athena_ff</setname>
 	<name>Athena_Screen_Flip_Fix_ROM_Patch</name>
 	<region></region>
 	<version></version>
@@ -16,7 +16,7 @@
 	<category>Action</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>horizontal</rotation>
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>

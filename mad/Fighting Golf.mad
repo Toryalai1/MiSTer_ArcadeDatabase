@@ -16,7 +16,7 @@
 	<category>Sports - Golf</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>horizontal</rotation>
 	<flip></flip>
 
 	<players>2 (alternating)</players>
