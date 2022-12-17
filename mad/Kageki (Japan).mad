@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>searchar</setname>
-	<name>SAR - Search And Rescue (World)</name>
-	<region>World</region>
+	<setname>kagekij</setname>
+	<name>Kageki (Japan)</name>
+	<region>Japan</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title>SAR - Search And Rescue</parent_title>
-	<platform>SNK 68000</platform>
-	<series>SAR - Search And Rescue</series>
+	<alternative>yes</alternative>
+	<parent_title>Kageki</parent_title>
+	<platform>Taito The Newzealand Story hardware</platform>
+	<series>Kageki</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>SNK</manufacturer>
-	<category>Shooter - Vertical</category>
+	<year>1988</year>
+	<manufacturer>Taito Corporation Japan</manufacturer>
+	<category>Fighter</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
