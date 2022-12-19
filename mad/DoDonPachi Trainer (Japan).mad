@@ -5,7 +5,7 @@
 	<name>DoDonPachi Trainer (Japan)</name>
 	<region>Japan</region>
 	<version>Trainer</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>DoDonPachi</parent_title>
 	<platform>CAVE 68000</platform>
 	<series>Donpachi</series>
