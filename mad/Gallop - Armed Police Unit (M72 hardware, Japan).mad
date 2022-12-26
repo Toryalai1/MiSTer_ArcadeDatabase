@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>gallop</setname>
-	<name>Gallop - Armed Police Unit (Japan)</name>
+	<setname>gallopm72</setname>
+	<name>Gallop - Armed Police Unit (M72 hardware, Japan)</name>
 	<region>Japan</region>
-	<version></version>
+	<version>M72 hardware</version>
 	<alternative>no</alternative>
 	<parent_title>Gallop - Armed Police Unit</parent_title>
 	<platform>Irem M72</platform>
