@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>slapfigh</setname>
-	<name>Slap Fight</name>
+	<setname>tigerhb1</setname>
+	<name>Tiger Heli [bl]</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Slap Fight</parent_title>
-	<platform>Toaplan Unique</platform>
-	<series>Slap Fight</series>
+	<parent_title>Tiger Heli</parent_title>
+	<platform>Toaplan Slap Fight hardware</platform>
+	<series>Tiger Heli</series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
-	<year>1986</year>
+	<bootleg>yes</bootleg>
+	<year>1985</year>
 	<manufacturer>Toaplan - Taito</manufacturer>
 	<category>Shooter - Vertical</category>
 
