@@ -10,7 +10,7 @@
 	<platform>Technos Xain'd Sleena hardware</platform>
 	<series>Xain'd Sleena</series>
 	<homebrew>no</homebrew>
-	<bootleg>yes</bootleg>
+	<bootleg>no</bootleg>
 	<year>1986</year>
 	<manufacturer>Technos</manufacturer>
 	<category>Platform - Shooter</category>

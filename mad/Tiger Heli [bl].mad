@@ -10,7 +10,7 @@
 	<platform>Toaplan Slap Fight hardware</platform>
 	<series>Tiger Heli</series>
 	<homebrew>no</homebrew>
-	<bootleg>yes</bootleg>
+	<bootleg>no</bootleg>
 	<year>1985</year>
 	<manufacturer>Toaplan - Taito</manufacturer>
 	<category>Shooter - Vertical</category>

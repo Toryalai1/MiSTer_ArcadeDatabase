@@ -10,7 +10,7 @@
 	<platform>Toaplan Slap Fight hardware</platform>
 	<series>Slap Fight</series>
 	<homebrew>no</homebrew>
-	<bootleg>yes</bootleg>
+	<bootleg>no</bootleg>
 	<year>1986</year>
 	<manufacturer>Toaplan - Taito</manufacturer>
 	<category>Shooter - Vertical</category>
