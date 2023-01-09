@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>xmvsf</setname>
-	<name>X-Men Vs. Street Fighter (EU, 961004)</name>
-	<region>Europe</region>
-	<version>961004</version>
-	<alternative>no</alternative>
-	<parent_title>X-Men Vs. Street Fighter</parent_title>
-	<platform>Capcom CPS-2</platform>
-	<series>Marvel - Capcom</series>
+	<setname>sfjbl</setname>
+	<name>Street Fighter (JP) [bl]</name>
+	<region>Japan</region>
+	<version>bootleg</version>
+	<alternative>yes</alternative>
+	<parent_title>Street Fighter</parent_title>
+	<platform>Capcom CPS-0</platform>
+	<series>Street Fighter</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1996</year>
+	<year>1987</year>
 	<manufacturer>Capcom</manufacturer>
 	<category>Fighting</category>
 
@@ -21,6 +21,6 @@
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls>n-a</special_controls>
+	<special_controls></special_controls>
 	<num_buttons>6</num_buttons>
 </misterarcadedescription>

@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>xmvsf</setname>
-	<name>X-Men Vs. Street Fighter (EU, 961004)</name>
+	<setname>ringdstd</setname>
+	<name>Ring of Destruction- Slam Masters II (EU, Phoenix Edition)</name>
 	<region>Europe</region>
-	<version>961004</version>
-	<alternative>no</alternative>
-	<parent_title>X-Men Vs. Street Fighter</parent_title>
+	<version>Phoenix Edition</version>
+	<alternative>yes</alternative>
+	<parent_title>Ring of Destruction- Slam Masters II</parent_title>
 	<platform>Capcom CPS-2</platform>
-	<series>Marvel - Capcom</series>
+	<series>Muscle Bomber</series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
-	<year>1996</year>
+	<bootleg>yes</bootleg>
+	<year>1994</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Fighting</category>
+	<category>Sports</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

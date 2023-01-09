@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>xmvsf</setname>
-	<name>X-Men Vs. Street Fighter (EU, 961004)</name>
-	<region>Europe</region>
-	<version>961004</version>
-	<alternative>no</alternative>
-	<parent_title>X-Men Vs. Street Fighter</parent_title>
+	<setname>cybotsud</setname>
+	<name>Cyberbots- Fullmetal Madness (US, Phoenix Edition) [bl]</name>
+	<region>USA</region>
+	<version>950420</version>
+	<alternative>yes</alternative>
+	<parent_title>Cyberbots Fullmetal Madness</parent_title>
 	<platform>Capcom CPS-2</platform>
-	<series>Marvel - Capcom</series>
+	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
-	<year>1996</year>
+	<bootleg>yes</bootleg>
+	<year>1995</year>
 	<manufacturer>Capcom</manufacturer>
 	<category>Fighting</category>
 
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls>n-a</special_controls>
-	<num_buttons>6</num_buttons>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

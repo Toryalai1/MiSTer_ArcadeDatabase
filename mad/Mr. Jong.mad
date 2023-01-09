@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>crazyblk</setname>
-	<name>Crazy Blocks</name>
+	<setname>mrjong</setname>
+	<name>Mr. Jong</name>
 	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Crazy Blocks</parent_title>
+	<parent_title>Mr. Jong</parent_title>
 	<platform>Kiwako Mr. Jong hardware</platform>
-	<series>Crazy Blocks</series>
+	<series>Mr. Jong</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1983</year>
-	<manufacturer>Kiwako (ECI license)</manufacturer>
+	<manufacturer>Kiwako</manufacturer>
 	<category>Puzzle</category>
 
 	<resolution>15kHz</resolution>

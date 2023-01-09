@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>BlockBuster</parent_title>
-	<platform>Kiwako Mr.Jong hardware</platform>
+	<platform>Kiwako Mr. Jong hardware</platform>
 	<series>BlockBuster</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
