@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>quatret</setname>
+	<setname>quartet</setname>
 	<name>Quatret (W, 4 Players) Rev A</name>
 	<region>World</region>
 	<version>Rev A, 4 Players</version>
@@ -13,7 +13,7 @@
 	<bootleg>no</bootleg>
 	<year>1986</year>
 	<manufacturer>Sega</manufacturer>
-	<category>Run 'n' gun</category>
+	<category>Maze - Shooter Large</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

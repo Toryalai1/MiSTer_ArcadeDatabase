@@ -9,11 +9,11 @@
 	<parent_title></parent_title>
 	<platform>Konami 6809 based</platform>
 	<series></series>
-	<homebrew></homebrew>
-	<bootleg></bootleg>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
 	<year>1985</year>
 	<manufacturer>Konami</manufacturer>
-	<category></category>
+	<category>Fighter - Versus</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
