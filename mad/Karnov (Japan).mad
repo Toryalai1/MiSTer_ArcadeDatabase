@@ -4,15 +4,15 @@
 	<setname>karnovj</setname>
 	<name>Karnov (Japan)</name>
 	<region>Japan</region>
-	<version></version>
-	<alternative>yes</alternative>
+	<version>US Rev 6</version>
+	<alternative>no</alternative>
 	<parent_title>Karnov</parent_title>
 	<platform>Data East Karnov hardware</platform>
 	<series>Karnov</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1987</year>
-	<manufacturer>Data East USA</manufacturer>
+	<manufacturer>Data East Corporation</manufacturer>
 	<category>Platform - Shooter Scrolling</category>
 
 	<resolution>15kHz</resolution>

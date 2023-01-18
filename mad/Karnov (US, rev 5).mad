@@ -2,10 +2,10 @@
 <misterarcadedescription>
 
 	<setname>karnova</setname>
-	<name>Karnov (US, rev 5)</name>
+	<name>Karnov (US, Rev 5)</name>
 	<region>USA</region>
-	<version>Rev 5</version>
-	<alternative>yes</alternative>
+	<version>US Rev 6</version>
+	<alternative>no</alternative>
 	<parent_title>Karnov</parent_title>
 	<platform>Data East Karnov hardware</platform>
 	<series>Karnov</series>

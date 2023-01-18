@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>narc</setname>
+	<name>Narc (Rev 7.00)</name>
+	<region>World</region>
+	<version>Rev 7.00</version>
+	<alternative>no</alternative>
+	<parent_title>Narc</parent_title>
+	<platform>Williams Z / Midway Y unit</platform>
+	<series>Narc</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1988</year>
+	<manufacturer>Williams</manufacturer>
+	<category>Platform - Shooter Scrolling</category>
+
+	<resolution>31kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>4</num_buttons>
+</misterarcadedescription>

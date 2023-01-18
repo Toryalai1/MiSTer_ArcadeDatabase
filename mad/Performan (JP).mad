@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>perfrman</setname>
+	<name>Performan (JP)</name>
+	<region>Japan</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Performan</parent_title>
+	<platform>Toaplan Slap Fight hardware</platform>
+	<series>Performan</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>Toaplan - Data East Corporation</manufacturer>
+	<category>Maze - Shooter</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
