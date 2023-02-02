@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>punisherbz</setname>
+	<name>Biaofeng Zhanjing (CN, CPS1) [bl]</name>
+	<region></region>
+	<version>The Punisher, CPS1, Chinese</version>
+	<alternative>yes</alternative>
+	<parent_title>The Punisher</parent_title>
+	<platform>Capcom CPS-1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<year>1993</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip>n-a</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

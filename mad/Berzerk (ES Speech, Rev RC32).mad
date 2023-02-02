@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>berzerks</setname>
+	<name>Berzerk (ES Speech, Rev RC32)</name>
+	<region>Spain</region>
+	<version>Spanish Speech, Rev RC32</version>
+	<alternative>yes</alternative>
+	<parent_title>Berzerk</parent_title>
+	<platform>Stern based</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1980</year>
+	<manufacturer>Stern</manufacturer>
+	<category>Maze - Shooter Small</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

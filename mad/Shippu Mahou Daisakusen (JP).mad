@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>shippumd</setname>
+	<name>Shippu Mahou Daisakusen (JP)</name>
+	<region>Japan</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Kingdom Grandprix</parent_title>
+	<platform>Toaplan 2</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1994</year>
+	<manufacturer>Raizing - Eighting</manufacturer>
+	<category>Shooter - Flying Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

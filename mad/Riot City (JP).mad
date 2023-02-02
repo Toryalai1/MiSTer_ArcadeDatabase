@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>riotcity</setname>
+	<name>Riot City (JP)</name>
+	<region>Japan</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Riot City</parent_title>
+	<platform>Sega System 16</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1991</year>
+	<manufacturer>Sega - Westone</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

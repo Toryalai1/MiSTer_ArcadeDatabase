@@ -2,13 +2,13 @@
 <misterarcadedescription>
 
 	<setname>donpachi</setname>
-	<name>Donpachi</name>
+	<name>DonPachi</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>DonPachi</parent_title>
 	<platform>CAVE 68000</platform>
-	<series></series>
+	<series>DonPachi</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1995</year>

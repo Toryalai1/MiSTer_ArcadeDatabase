@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>rushcrsh</setname>
+	<name>Rush &amp; Crash (JP)</name>
+	<region>Japan</region>
+	<version>Set 1</version>
+	<alternative>yes</alternative>
+	<parent_title>The Speed Rumber</parent_title>
+	<platform>Capcom CPS-0</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Driving Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>ikarijp</setname>
+	<name>Ikari Warriors (JP)</name>
+	<region>Japan</region>
+	<version></version>
+	<alternative>yes</alternative>
+	<parent_title>Ikari Warriors</parent_title>
+	<platform>SNK Triple Z80</platform>
+	<series>Ikari Warriors</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1986</year>
+	<manufacturer>SNK</manufacturer>
+	<category>Shooter - Walking</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>yes</flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
