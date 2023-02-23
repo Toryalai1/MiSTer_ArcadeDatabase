@@ -2,8 +2,8 @@
 <misterarcadedescription>
 
 	<setname>aponow</setname>
-	<name>Apocaljpse now (Rescue) [bl]</name>
-	<region></region>
+	<name>Apocaljpse Now (Rescue) [bl]</name>
+	<region>World</region>
 	<version>Rescue</version>
 	<alternative>yes</alternative>
 	<parent_title>Rescue</parent_title>

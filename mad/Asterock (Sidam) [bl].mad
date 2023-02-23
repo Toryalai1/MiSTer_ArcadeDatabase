@@ -3,7 +3,7 @@
 
 	<setname>asterock</setname>
 	<name>Asterock (Sidam) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Sidam</version>
 	<alternative>yes</alternative>
 	<parent_title>Asteroids</parent_title>

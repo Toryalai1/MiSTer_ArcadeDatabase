@@ -3,7 +3,7 @@
 
 	<setname>arkatayt</setname>
 	<name>Arkanoid (Tayto) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Tayto</version>
 	<alternative>yes</alternative>
 	<parent_title>Arkanoid</parent_title>

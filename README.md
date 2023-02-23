@@ -18,3 +18,25 @@ Country should follow the [Alpha-2](https://www.iban.com/country-codes) country 
 bl means Bootleg
 </br>
 hb means Homebrew
+
+# Prefered version
+As you might've noticed, there are different versions/clones of the same game. Sometimes the prefered version is documented, and sometimes it is not. The basic rule of thumb is the following (from MAME doc):
+
+```
+- Prefer latest release version
+
+--Prefer English language
+
+- Prefer most widespread release
+
+- Prefer most complete version
+
+- Prefer versions that are uncensored, and have story/cutscenes intact
+
+- Prefer versions that keep the original gameplay balance
+
+- Prefer releases from original developers/publishers rather than licensees
+
+- Prefer releases without region-specific notices or warnings
+```
+

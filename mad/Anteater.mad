@@ -3,7 +3,7 @@
 
 	<setname>anteater</setname>
 	<name>Anteater</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Anteater</parent_title>

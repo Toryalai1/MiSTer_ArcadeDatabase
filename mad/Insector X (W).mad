@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Insector X</parent_title>
-	<platform>Taito The Newzealand Story hardware</platform>
+	<platform>Taito The NewZealand Story hardware</platform>
 	<series>Insector X</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

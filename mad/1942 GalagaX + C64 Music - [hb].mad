@@ -3,7 +3,7 @@
 
 	<setname>1942GXC64</setname>
 	<name>1942 GalagaX + C64 Music - [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>GalagaX + C64 Music</version>
 	<alternative>yes</alternative>
 	<parent_title>1942</parent_title>

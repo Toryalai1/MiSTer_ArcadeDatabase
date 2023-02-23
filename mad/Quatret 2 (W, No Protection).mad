@@ -2,10 +2,10 @@
 <misterarcadedescription>
 
 	<setname>quartet2a</setname>
-	<name>Quatret 2 (W) No Protection</name>
+	<name>Quatret 2 (W, No Protection)</name>
 	<region>World</region>
 	<version>No Protection</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Quatret</parent_title>
 	<platform>Sega System 16</platform>
 	<series>Quatret</series>

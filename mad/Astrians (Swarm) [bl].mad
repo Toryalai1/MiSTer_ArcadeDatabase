@@ -3,7 +3,7 @@
 
 	<setname>astrians</setname>
 	<name>Astrians (Swarm) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Swarm</version>
 	<alternative>yes</alternative>
 	<parent_title>Galaxian</parent_title>

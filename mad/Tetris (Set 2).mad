@@ -3,7 +3,7 @@
 
 	<setname>atetrisa</setname>
 	<name>Tetris (Set 2)</name>
-	<region></region>
+	<region>World</region>
 	<version>Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Tetris</parent_title>

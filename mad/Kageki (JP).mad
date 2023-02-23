@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Kageki</parent_title>
-	<platform>Taito The Newzealand Story hardware</platform>
+	<platform>Taito The NewZealand Story hardware</platform>
 	<series>Kageki</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

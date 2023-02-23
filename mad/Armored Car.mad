@@ -3,7 +3,7 @@
 
 	<setname>armorcar</setname>
 	<name>Armored Car</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Armored Car</parent_title>

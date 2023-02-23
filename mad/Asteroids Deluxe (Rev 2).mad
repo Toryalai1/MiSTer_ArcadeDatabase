@@ -3,7 +3,7 @@
 
 	<setname>astdelux2</setname>
 	<name>Asteroids Deluxe (Rev 2)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Asteroids Deluxe</parent_title>

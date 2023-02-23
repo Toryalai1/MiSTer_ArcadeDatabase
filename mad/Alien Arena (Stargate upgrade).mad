@@ -3,7 +3,7 @@
 
 	<setname>alienaru</setname>
 	<name>Alien Arena (Stargate upgrade)</name>
-	<region></region>
+	<region>World</region>
 	<version>Stargate upgrade</version>
 	<alternative>no</alternative>
 	<parent_title>Alien Arena</parent_title>

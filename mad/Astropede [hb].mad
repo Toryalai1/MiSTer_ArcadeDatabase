@@ -3,7 +3,7 @@
 
 	<setname>astroped</setname>
 	<name>Astropede [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Centipede</parent_title>

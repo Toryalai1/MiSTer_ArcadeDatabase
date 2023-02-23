@@ -7,7 +7,7 @@
 	<version>World Games</version>
 	<alternative>yes</alternative>
 	<parent_title>Extermination</parent_title>
-	<platform>Taito The Newzealand Story hardware</platform>
+	<platform>Taito The NewZealand Story hardware</platform>
 	<series>Extermination</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
