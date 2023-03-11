@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>karnovj</setname>
-	<name>Karnov (JP)</name>
+	<setname>kabukizj</setname>
+	<name>Kabuki-Z (JP)</name>
 	<region>Japan</region>
 	<version></version>
 	<alternative>yes</alternative>
-	<parent_title>Karnov</parent_title>
-	<platform>Data East Karnov hardware</platform>
-	<series>Karnov</series>
+	<parent_title>Kabuki-Z</parent_title>
+	<platform>Taito The NewZealand Story hardware</platform>
+	<series>Kabuki-Z</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1987</year>
-	<manufacturer>Data East Corporation</manufacturer>
-	<category>Platform - Shooter Scrolling</category>
+	<year>1988</year>
+	<manufacturer>Kaneko - Taito Corporation</manufacturer>
+	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

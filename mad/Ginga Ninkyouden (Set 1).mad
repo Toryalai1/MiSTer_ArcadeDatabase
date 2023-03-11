@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>psychic5j</setname>
-	<name>Psychic 5 (JP)</name>
+	<setname>ginganin</setname>
+	<name>Ginga Ninkyouden (Set 1)</name>
 	<region>Japan</region>
-	<version></version>
-	<alternative>yes</alternative>
-	<parent_title>Psychic 5</parent_title>
-	<platform>Jaleco Psychic 5 hardware</platform>
-	<series></series>
+	<version>Set 1</version>
+	<alternative>no</alternative>
+	<parent_title>Ginga Ninkyouden</parent_title>
+	<platform>Jaleco Ginga Ninkyouden hardware</platform>
+	<series>Ginga Ninkyouden</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1987</year>
@@ -16,10 +16,10 @@
 	<category>Platform - Fighter Scrolling</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
+	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>1</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

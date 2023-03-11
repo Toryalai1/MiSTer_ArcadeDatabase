@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Dottori-Kun</platform>
+	<platform>Dottori-Kun hardware</platform>
 	<series></series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>

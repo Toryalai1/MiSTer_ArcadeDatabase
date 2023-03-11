@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>psychic5</setname>
-	<name>Psychic 5 (W)</name>
+	<setname>paddlema</setname>
+	<name>Paddle Mania</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Psychic 5</parent_title>
-	<platform>Jaleco Psychic 5 hardware</platform>
-	<series></series>
+	<parent_title>Paddle Mania</parent_title>
+	<platform>SNK - Alpha Denshi</platform>
+	<series>Paddle Mania</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1987</year>
-	<manufacturer>Jaleco</manufacturer>
-	<category>Platform - Fighter Scrolling</category>
+	<year>1988</year>
+	<manufacturer>SNK</manufacturer>
+	<category>Sports - Misc.</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
+	<rotation>vertical (cw)</rotation>
 	<flip></flip>
 
-	<players>1</players>
+	<players>4 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
