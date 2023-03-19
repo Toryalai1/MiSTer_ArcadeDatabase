@@ -6,7 +6,7 @@
 	<region>World</region>
 	<version>Rev. 1</version>
 	<alternative>yes</alternative>
-	<parent_title></parent_title>
+	<parent_title>Joust 2</parent_title>
 	<platform>Williams 2nd Generation</platform>
 	<series>Joust</series>
 	<homebrew>no</homebrew>
