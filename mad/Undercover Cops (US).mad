@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hookj</setname>
-	<name>Hook (JP)</name>
-	<region>Japan</region>
+	<setname>uccopsu</setname>
+	<name>Undercover Cops (US)</name>
+	<region>USA</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title>Hook</parent_title>
+	<alternative>yes</alternative>
+	<parent_title>Undercover Cops</parent_title>
 	<platform>Irem M92</platform>
-	<series>Hook</series>
+	<series>Underconver Cops</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1992</year>
@@ -19,7 +19,7 @@
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4 (simultaneous)</players>
+	<players>3 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

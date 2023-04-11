@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>gunforcej</setname>
-	<name>Gunforce - Battle Fire Engulfed Terror Island (JP)</name>
-	<region>Japan</region>
+	<setname>gunforceu</setname>
+	<name>Gun Force (US)</name>
+	<region>USA</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Gun Force</parent_title>

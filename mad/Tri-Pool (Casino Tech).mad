@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>tripool</setname>
+	<name>Tri-Pool (Casino Tech)</name>
+	<region>World</region>
+	<version>Casino Tech</version>
+	<alternative>no</alternative>
+	<parent_title>Tri-Pool</parent_title>
+	<platform>Cinematronics Jack The Giantkiller hardware</platform>
+	<series>Tri-Pool</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1984</year>
+	<manufacturer>Noma (Casino Tech license)</manufacturer>
+	<category>Sports - Pool</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>5</num_buttons>
+</misterarcadedescription>

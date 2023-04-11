@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>tankbatt</setname>
-	<name>Tank Battalion</name>
+	<setname>freeze</setname>
+	<name>Freeze</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Tank Battalion</parent_title>
-	<platform>Namco Unique</platform>
-	<series>Tank Battalion</series>
+	<parent_title>Freeze</parent_title>
+	<platform>Cinematronics Jack The Giantkiller hardware</platform>
+	<series>Freeze</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1980</year>
-	<manufacturer>Namco</manufacturer>
-	<category>Maze - Shooter Small</category>
+	<year>1984</year>
+	<manufacturer>Cinematronics</manufacturer>
+	<category>Maze - Shooter</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (cw)</rotation>
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<move_inputs>4-way</move_inputs>
+	<move_inputs>2-way horizontal</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>1</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

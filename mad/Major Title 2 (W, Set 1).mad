@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hookj</setname>
-	<name>Hook (JP)</name>
-	<region>Japan</region>
+	<setname>majtitl2</setname>
+	<name>Major Title 2 (W, Set 1)</name>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Hook</parent_title>
+	<parent_title>Major Title 2</parent_title>
 	<platform>Irem M92</platform>
-	<series>Hook</series>
+	<series>Major Title</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1992</year>
 	<manufacturer>Irem</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<category>Sports - Golf</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

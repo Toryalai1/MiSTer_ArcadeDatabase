@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hookj</setname>
-	<name>Hook (JP)</name>
+	<setname>dsoccr94j</setname>
+	<name>Dream Soccer '94 (Japan, M92)</name>
 	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Hook</parent_title>
+	<parent_title>Dream Soccer '94</parent_title>
 	<platform>Irem M92</platform>
-	<series>Hook</series>
+	<series>Dream Soccer</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1992</year>
+	<year>1994</year>
 	<manufacturer>Irem</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<category>Sports - Soccer</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4 (simultaneous)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

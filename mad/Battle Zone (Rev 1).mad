@@ -15,7 +15,7 @@
 	<manufacturer>Atari</manufacturer>
 	<category>Shooter - Driving 1st Person</category>
 
-	<resolution>vector</resolution>
+	<resolution>31kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 

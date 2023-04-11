@@ -16,7 +16,7 @@
 	<category>Sports - Volleyball</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip>yes</flip>
 
 	<players>1</players>

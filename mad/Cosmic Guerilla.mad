@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>cosmicg</setname>
+	<name>Cosmic Guerilla</name>
+	<region>World</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title>Cosmic Guerilla</parent_title>
+	<platform>Universal Cosmic Guerilla hardware</platform>
+	<series>Cosmic Guerilla</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1979</year>
+	<manufacturer>Universal</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>2-way horizontal</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>1</num_buttons>
+</misterarcadedescription>

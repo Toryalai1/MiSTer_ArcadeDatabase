@@ -5,7 +5,7 @@
 	<name>Kaitei Daisensou (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>In The Hunt</parent_title>
 	<platform>Irem M92</platform>
 	<series>In The Hunt</series>

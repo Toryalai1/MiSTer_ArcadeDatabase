@@ -16,7 +16,7 @@
 	<category>Shooter - 1st Person</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 
 	<players>2 (alternating)</players>

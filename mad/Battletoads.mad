@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hookj</setname>
-	<name>Hook (JP)</name>
-	<region>Japan</region>
+	<setname>btoads</setname>
+	<name>Battletoads</name>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Hook</parent_title>
-	<platform>Irem M92</platform>
-	<series>Hook</series>
+	<parent_title>Battletoads</parent_title>
+	<platform>Rare Unique hardware</platform>
+	<series>Battletoads</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1992</year>
-	<manufacturer>Irem</manufacturer>
+	<year>1994</year>
+	<manufacturer>Rare - Electronic Arts</manufacturer>
 	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4 (simultaneous)</players>
+	<players>3 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

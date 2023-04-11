@@ -5,7 +5,7 @@
 	<name>Lethal Thunder (W)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>Lethal Thunder</parent_title>
 	<platform>Irem M92</platform>
 	<series>Lethal Thunder</series>
@@ -16,7 +16,7 @@
 	<category>Shooter - Flying Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>

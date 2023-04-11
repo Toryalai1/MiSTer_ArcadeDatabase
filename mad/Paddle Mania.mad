@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Paddle Mania</parent_title>
-	<platform>SNK - Alpha Denshi</platform>
+	<platform>SNK 68000</platform>
 	<series>Paddle Mania</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

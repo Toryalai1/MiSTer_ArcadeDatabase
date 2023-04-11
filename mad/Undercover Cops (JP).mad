@@ -5,7 +5,7 @@
 	<name>Undercover Cops (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Undercover Cops</parent_title>
 	<platform>Irem M92</platform>
 	<series>Underconver Cops</series>

@@ -2,10 +2,10 @@
 <misterarcadedescription>
 
 	<setname>gunforce</setname>
-	<name>Gunforce - Battle Fire Engulfed Terror Island (W)</name>
+	<name>Gun Force (W)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>Gun Force</parent_title>
 	<platform>Irem M92</platform>
 	<series>Gun Force</series>

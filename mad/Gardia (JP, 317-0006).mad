@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>geostorm</setname>
+	<setname>gardiaj</setname>
 	<name>Gardia (JP, 317-0006)</name>
 	<region>Japan</region>
-	<version></version>
+	<version>317-0006</version>
 	<alternative>yes</alternative>
-	<parent_title>Gun Force</parent_title>
-	<platform>Irem M92</platform>
-	<series>Gun Force</series>
+	<parent_title>Gardia</parent_title>
+	<platform>Sega System 1</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1994</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Platform - Shooter Scrolling</category>
+	<year>1986</year>
+	<manufacturer>Sega - Coreland</manufacturer>
+	<category>Shooter - Flying Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
-	<flip></flip>
+	<rotation>vertical (ccw)</rotation>
+	<flip>no</flip>
 
-	<players>2 (simultaneous)</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

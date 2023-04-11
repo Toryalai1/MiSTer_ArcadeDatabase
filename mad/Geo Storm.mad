@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>gunforceu</setname>
-	<name>Gunforce - Battle Fire Engulfed Terror Island (US)</name>
-	<region>USA</region>
+	<setname>geostorm</setname>
+	<name>Geo Storm</name>
+	<region>Japan</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Gun Force</parent_title>
 	<platform>Irem M92</platform>
 	<series>Gun Force</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1991</year>
+	<year>1994</year>
 	<manufacturer>Irem</manufacturer>
 	<category>Platform - Shooter Scrolling</category>
 

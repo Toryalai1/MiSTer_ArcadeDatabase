@@ -5,7 +5,7 @@
 	<name>Ninja Baseball Bat Man (W)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>Ninja Baseball Bat Man</parent_title>
 	<platform>Irem M92</platform>
 	<series>Ninja Baseball Bat Man</series>

@@ -5,9 +5,9 @@
 	<name>The Next Space (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>The Next Space</parent_title>
-	<platform>SNK - Alpha Denshi</platform>
+	<platform>SNK 68000</platform>
 	<series>The Next Space</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
