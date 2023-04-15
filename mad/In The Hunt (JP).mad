@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>geostorm</setname>
-	<name>Geo Storm</name>
+	<setname>kaiteids</setname>
+	<name>In The Hunt (JP)</name>
 	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Gun Force</parent_title>
+	<parent_title>In The Hunt</parent_title>
 	<platform>Irem M92</platform>
-	<series>Gun Force</series>
+	<series>In The Hunt</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1994</year>
+	<year>1993</year>
 	<manufacturer>Irem</manufacturer>
-	<category>Platform - Shooter Scrolling</category>
+	<category>Shooter - Misc. Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

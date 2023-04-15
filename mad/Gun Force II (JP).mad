@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>kaiteids</setname>
-	<name>Kaitei Daisensou (JP)</name>
+	<setname>geostorm</setname>
+	<name>Gun Force II (JP)</name>
 	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>In The Hunt</parent_title>
+	<parent_title>Gun Force II</parent_title>
 	<platform>Irem M92</platform>
-	<series>In The Hunt</series>
+	<series>Gun Force</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1993</year>
+	<year>1994</year>
 	<manufacturer>Irem</manufacturer>
-	<category>Shooter - Misc. Horizontal</category>
+	<category>Platform - Shooter Scrolling</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
