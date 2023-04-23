@@ -3,7 +3,7 @@
 
 	<setname>dotrona</setname>
 	<name>Discs of Tron (Alt.)</name>
-	<region></region>
+	<region>World</region>
 	<version>Alt.</version>
 	<alternative>yes</alternative>
 	<parent_title>Discs of Tron</parent_title>

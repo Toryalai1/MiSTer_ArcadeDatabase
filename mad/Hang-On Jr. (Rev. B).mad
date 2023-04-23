@@ -3,7 +3,7 @@
 
 	<setname>hangonjr</setname>
 	<name>Hang-On Jr. (Rev. B)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev. B</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

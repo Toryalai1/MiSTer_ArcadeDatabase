@@ -3,7 +3,7 @@
 
 	<setname>subs</setname>
 	<name>Subs</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>subs</parent_title>

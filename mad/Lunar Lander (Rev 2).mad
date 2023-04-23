@@ -3,7 +3,7 @@
 
 	<setname>llander</setname>
 	<name>Lunar Lander (Rev 2)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev 2</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

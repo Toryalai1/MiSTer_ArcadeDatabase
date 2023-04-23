@@ -3,7 +3,7 @@
 
 	<setname>pacbell</setname>
 	<name>Pac-Man (Bell) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Bell</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

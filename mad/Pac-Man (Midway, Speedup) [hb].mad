@@ -3,7 +3,7 @@
 
 	<setname>pacmanf</setname>
 	<name>Pac-Man (Midway, Speedup) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Midway, Speedup</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

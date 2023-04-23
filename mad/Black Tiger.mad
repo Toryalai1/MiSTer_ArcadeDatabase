@@ -3,7 +3,7 @@
 
 	<setname>blktiger</setname>
 	<name>Black Tiger</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Black Tiger</parent_title>

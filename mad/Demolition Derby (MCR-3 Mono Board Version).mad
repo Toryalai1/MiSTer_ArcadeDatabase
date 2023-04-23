@@ -3,7 +3,7 @@
 
 	<setname>demoderm</setname>
 	<name>Demolition Derby (MCR-3 Mono Board Version)</name>
-	<region></region>
+	<region>World</region>
 	<version>MCR-3 Mono Board Version</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

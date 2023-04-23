@@ -3,7 +3,7 @@
 
 	<setname>sfzch_cps15</setname>
 	<name>Street Fighter Zero (CPS 1.5 Qsound) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>CPS 1.5 Qsound</version>
 	<alternative>yes</alternative>
 	<parent_title>Street Fighter Zero</parent_title>

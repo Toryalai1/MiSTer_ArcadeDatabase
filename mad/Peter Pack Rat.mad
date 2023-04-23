@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dsoccr94j</setname>
-	<name>Dream Soccer '94 (Japan, M92)</name>
-	<region>Japan</region>
+	<setname>peterpak</setname>
+	<name>Peter Pack Rat</name>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Dream Soccer '94</parent_title>
-	<platform>Irem M92</platform>
-	<series>Dream Soccer</series>
+	<parent_title>Peter Pack Rat</parent_title>
+	<platform>Atari System-1</platform>
+	<series>Peter Pack Rat</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1994</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Sports - Soccer</category>
+	<year>1984</year>
+	<manufacturer>Atari Games</manufacturer>
+	<category>Platform - Run Jump</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

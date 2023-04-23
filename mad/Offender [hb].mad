@@ -3,7 +3,7 @@
 
 	<setname>offender</setname>
 	<name>Offender [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Scramble</parent_title>

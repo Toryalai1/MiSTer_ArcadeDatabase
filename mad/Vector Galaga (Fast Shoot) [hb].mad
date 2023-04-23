@@ -3,7 +3,7 @@
 
 	<setname>vgalagaf</setname>
 	<name>Vector Galaga (Fast Shoot) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Fast Shoot</version>
 	<alternative>yes</alternative>
 	<parent_title>Galaga</parent_title>

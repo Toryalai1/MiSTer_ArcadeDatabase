@@ -3,7 +3,7 @@
 
 	<setname>bnjr</setname>
 	<name>Bump 'n' Jump (Reverse) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Reverse</version>
 	<alternative>yes</alternative>
 	<parent_title>Burning Rubber</parent_title>

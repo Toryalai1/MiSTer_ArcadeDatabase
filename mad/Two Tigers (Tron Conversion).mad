@@ -3,7 +3,7 @@
 
 	<setname>twotigerc</setname>
 	<name>Two Tigers (Tron Conversion)</name>
-	<region></region>
+	<region>World</region>
 	<version>Tron Conversion</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>maze</setname>
 	<name>Amazing Maze</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Amazing Maze</parent_title>

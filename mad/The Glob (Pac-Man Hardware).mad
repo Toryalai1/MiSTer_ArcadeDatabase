@@ -3,7 +3,7 @@
 
 	<setname>theglobp</setname>
 	<name>The Glob (Pac-Man Hardware)</name>
-	<region></region>
+	<region>World</region>
 	<version>Pac-Man Hardware</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

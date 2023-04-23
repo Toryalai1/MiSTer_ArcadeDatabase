@@ -3,7 +3,7 @@
 
 	<setname>calipso</setname>
 	<name>Calipso</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Calipso</parent_title>

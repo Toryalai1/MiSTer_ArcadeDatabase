@@ -3,7 +3,7 @@
 
 	<setname>sxevious</setname>
 	<name>Super Xevious</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>xevious</parent_title>

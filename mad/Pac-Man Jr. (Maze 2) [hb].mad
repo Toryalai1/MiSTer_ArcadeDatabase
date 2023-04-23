@@ -3,7 +3,7 @@
 
 	<setname>pacjr2</setname>
 	<name>Pac-Man Jr. (Maze 2) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Maze 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

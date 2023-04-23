@@ -3,7 +3,7 @@
 
 	<setname>gaunt2</setname>
 	<name>Gauntlet II</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Gauntlet II</parent_title>

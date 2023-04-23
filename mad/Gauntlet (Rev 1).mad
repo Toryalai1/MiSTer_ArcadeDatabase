@@ -3,7 +3,7 @@
 
 	<setname>gauntletr1</setname>
 	<name>Gauntlet (Rev 1)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev 1</version>
 	<alternative>yes</alternative>
 	<parent_title>Gauntlet</parent_title>

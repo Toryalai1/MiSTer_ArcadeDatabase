@@ -3,7 +3,7 @@
 
 	<setname>defender</setname>
 	<name>Defender (Red Label)</name>
-	<region></region>
+	<region>World</region>
 	<version>Red Label</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

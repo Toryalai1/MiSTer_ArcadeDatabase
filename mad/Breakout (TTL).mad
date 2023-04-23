@@ -3,7 +3,7 @@
 
 	<setname>breakout</setname>
 	<name>Breakout (TTL)</name>
-	<region></region>
+	<region>World</region>
 	<version>TTL</version>
 	<alternative>no</alternative>
 	<parent_title>Breakout</parent_title>

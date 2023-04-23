@@ -3,7 +3,7 @@
 
 	<setname>berzerkb</setname>
 	<name>Berzerk (Rev RC28)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev RC28</version>
 	<alternative>yes</alternative>
 	<parent_title>Berzerk</parent_title>

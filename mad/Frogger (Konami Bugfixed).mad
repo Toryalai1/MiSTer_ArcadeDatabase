@@ -3,7 +3,7 @@
 
 	<setname>frogger</setname>
 	<name>Frogger (Konami Bugfixed)</name>
-	<region></region>
+	<region>World</region>
 	<version>Konami Bugfixed</version>
 	<alternative>no</alternative>
 	<parent_title>Frogger</parent_title>

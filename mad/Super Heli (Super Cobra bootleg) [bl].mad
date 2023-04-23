@@ -2,8 +2,8 @@
 <misterarcadedescription>
 
 	<setname>suprheli</setname>
-	<name>Super Heli (Super Cobra bootleg) (Super Cobra) [bl]</name>
-	<region></region>
+	<name>Super Heli (Super Cobra bootleg) [bl]</name>
+	<region>World</region>
 	<version>Super Cobra</version>
 	<alternative>yes</alternative>
 	<parent_title>Super Cobra</parent_title>

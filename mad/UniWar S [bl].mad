@@ -3,7 +3,7 @@
 
 	<setname>uniwarsa</setname>
 	<name>UniWar S [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>UniWar S</parent_title>

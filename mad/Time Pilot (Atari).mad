@@ -3,7 +3,7 @@
 
 	<setname>timeplta</setname>
 	<name>Time Pilot (Atari)</name>
-	<region></region>
+	<region>World</region>
 	<version>Atari</version>
 	<alternative>yes</alternative>
 	<parent_title>Time Pilot</parent_title>

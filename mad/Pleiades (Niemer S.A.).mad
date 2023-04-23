@@ -3,7 +3,7 @@
 
 	<setname>pleiadsn</setname>
 	<name>Pleiades (Niemer S.A.)</name>
-	<region></region>
+	<region>World</region>
 	<version>Niemer S.A.</version>
 	<alternative>yes</alternative>
 	<parent_title>Pleiades</parent_title>

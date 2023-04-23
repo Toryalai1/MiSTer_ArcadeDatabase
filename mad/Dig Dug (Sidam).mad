@@ -3,7 +3,7 @@
 
 	<setname>digsid</setname>
 	<name>Dig Dug (Sidam)</name>
-	<region></region>
+	<region>World</region>
 	<version>Sidam</version>
 	<alternative>yes</alternative>
 	<parent_title>Dig Dug</parent_title>

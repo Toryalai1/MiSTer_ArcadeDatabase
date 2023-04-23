@@ -3,7 +3,7 @@
 
 	<setname>bigkong</setname>
 	<name>Big Kong</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Big Kong</parent_title>

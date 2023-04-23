@@ -3,7 +3,7 @@
 
 	<setname>zigzagb</setname>
 	<name>Zig Zag (Dig Dug Conversion) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Dig Dug Conversion, Set 2</version>
 	<alternative>no</alternative>
 	<parent_title>Dig Dug</parent_title>

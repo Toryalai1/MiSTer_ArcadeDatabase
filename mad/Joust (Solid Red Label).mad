@@ -3,7 +3,7 @@
 
 	<setname>joustr</setname>
 	<name>Joust (Solid Red Label)</name>
-	<region></region>
+	<region>World</region>
 	<version>Solid Red Label</version>
 	<alternative>yes</alternative>
 	<parent_title>Joust</parent_title>

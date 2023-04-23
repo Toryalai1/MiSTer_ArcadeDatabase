@@ -3,7 +3,7 @@
 
 	<setname>robotronyo</setname>
 	<name>Robotron 2084 (Yellow-Orange Label)</name>
-	<region></region>
+	<region>World</region>
 	<version>Yellow-Orange Label</version>
 	<alternative>yes</alternative>
 	<parent_title>Robotron 2084</parent_title>

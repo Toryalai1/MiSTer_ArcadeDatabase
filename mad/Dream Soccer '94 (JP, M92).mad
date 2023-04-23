@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>geostorm</setname>
-	<name>Gun Force II (JP)</name>
+	<setname>dsoccr94j</setname>
+	<name>Dream Soccer '94 (JP, M92)</name>
 	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Gun Force II</parent_title>
+	<parent_title>Dream Soccer '94</parent_title>
 	<platform>Irem M92</platform>
-	<series>Gun Force</series>
+	<series>Dream Soccer</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1994</year>
 	<manufacturer>Irem</manufacturer>
-	<category>Platform - Shooter Scrolling</category>
+	<category>Sports - Soccer</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

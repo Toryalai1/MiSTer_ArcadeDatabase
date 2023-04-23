@@ -3,7 +3,7 @@
 
 	<setname>colony7</setname>
 	<name>Colony 7 (Set 1)</name>
-	<region></region>
+	<region>World</region>
 	<version>Set 1</version>
 	<alternative>no</alternative>
 	<parent_title>Colony 7</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>gorfpgm1</setname>
 	<name>Gorf (Program 1)</name>
-	<region></region>
+	<region>World</region>
 	<version>Program 1</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

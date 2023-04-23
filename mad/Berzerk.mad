@@ -3,7 +3,7 @@
 
 	<setname>berzerk</setname>
 	<name>Berzerk</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Berzerk</parent_title>

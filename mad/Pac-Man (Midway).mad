@@ -3,7 +3,7 @@
 
 	<setname>pacman</setname>
 	<name>Pac-Man (Midway)</name>
-	<region></region>
+	<region>World</region>
 	<version>Midway</version>
 	<alternative>no</alternative>
 	<parent_title>Pac-Man</parent_title>

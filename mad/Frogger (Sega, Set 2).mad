@@ -3,7 +3,7 @@
 
 	<setname>froggers2</setname>
 	<name>Frogger (Sega, Set 2)</name>
-	<region></region>
+	<region>World</region>
 	<version>Sega, Set 2</version>
 	<alternative>no</alternative>
 	<parent_title>Frogger</parent_title>

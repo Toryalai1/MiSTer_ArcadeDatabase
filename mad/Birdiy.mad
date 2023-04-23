@@ -3,7 +3,7 @@
 
 	<setname>birdiy</setname>
 	<name>Birdiy</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Birdiy</parent_title>

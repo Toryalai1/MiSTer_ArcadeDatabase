@@ -3,7 +3,7 @@
 
 	<setname>brubber</setname>
 	<name>Burnin' Rubber</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Burnin' Rubber</parent_title>

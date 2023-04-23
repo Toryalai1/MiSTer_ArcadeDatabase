@@ -3,7 +3,7 @@
 
 	<setname>dkongpac</setname>
 	<name>Donkey Kong (Pac-Man GFX) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Pac-Man GFX</version>
 	<alternative>yes</alternative>
 	<parent_title>Donkey Kong</parent_title>

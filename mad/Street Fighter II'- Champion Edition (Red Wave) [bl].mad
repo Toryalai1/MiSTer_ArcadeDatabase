@@ -3,7 +3,7 @@
 
 	<setname>sf2red</setname>
 	<name>Street Fighter II'- Champion Edition (Red Wave) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Red Wave</version>
 	<alternative>yes</alternative>
 	<parent_title>Street Fighter II</parent_title>

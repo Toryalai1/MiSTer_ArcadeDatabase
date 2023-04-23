@@ -3,7 +3,7 @@
 
 	<setname>hvymetal</setname>
 	<name>Heavy Metal (315-5135)</name>
-	<region></region>
+	<region>World</region>
 	<version>315-5135</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

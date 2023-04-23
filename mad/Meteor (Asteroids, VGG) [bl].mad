@@ -3,7 +3,7 @@
 
 	<setname>meteorts</setname>
 	<name>Meteor (Asteroids, VGG) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Asteroids, VGG</version>
 	<alternative>yes</alternative>
 	<parent_title>Asteroids</parent_title>

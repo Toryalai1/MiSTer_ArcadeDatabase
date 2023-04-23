@@ -5,7 +5,7 @@
 	<name>Mystic Riders (W)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Mystic Riders</parent_title>
 	<platform>Irem M92</platform>
 	<series>Mystic Riders</series>

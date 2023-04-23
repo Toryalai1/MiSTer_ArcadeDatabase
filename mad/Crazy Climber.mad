@@ -3,7 +3,7 @@
 
 	<setname>cclimber</setname>
 	<name>Crazy Climber</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Crazy Climber</parent_title>

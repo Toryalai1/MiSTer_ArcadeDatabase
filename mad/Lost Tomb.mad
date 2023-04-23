@@ -3,7 +3,7 @@
 
 	<setname>losttomb</setname>
 	<name>Lost Tomb</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Lost Tomb</parent_title>

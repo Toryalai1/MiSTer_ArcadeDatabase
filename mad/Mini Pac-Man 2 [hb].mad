@@ -3,7 +3,7 @@
 
 	<setname>pacmini2</setname>
 	<name>Mini Pac-Man 2 [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

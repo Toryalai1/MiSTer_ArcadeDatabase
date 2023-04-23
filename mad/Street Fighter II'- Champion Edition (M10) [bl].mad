@@ -3,7 +3,7 @@
 
 	<setname>sf2m10</setname>
 	<name>Street Fighter II'- Champion Edition (M10) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>M10</version>
 	<alternative>yes</alternative>
 	<parent_title>Street Fighter II</parent_title>

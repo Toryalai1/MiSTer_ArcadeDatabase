@@ -3,7 +3,7 @@
 
 	<setname>blueshrk</setname>
 	<name>Blue Shark</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Blue Shark</parent_title>

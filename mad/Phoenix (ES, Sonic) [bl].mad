@@ -3,7 +3,7 @@
 
 	<setname>phoenixs</setname>
 	<name>Phoenix (ES, Sonic) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Sonic, Spanish</version>
 	<alternative>yes</alternative>
 	<parent_title>Phoenix</parent_title>

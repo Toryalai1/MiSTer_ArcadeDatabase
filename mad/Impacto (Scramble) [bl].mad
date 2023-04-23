@@ -3,7 +3,7 @@
 
 	<setname>scrambp</setname>
 	<name>Impacto (Scramble) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Scramble</version>
 	<alternative>yes</alternative>
 	<parent_title>Scramble</parent_title>

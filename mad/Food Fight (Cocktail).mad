@@ -3,7 +3,7 @@
 
 	<setname>foodfc</setname>
 	<name>Food Fight (Cocktail)</name>
-	<region></region>
+	<region>World</region>
 	<version>Cocktail</version>
 	<alternative>yes</alternative>
 	<parent_title>Food Fight</parent_title>

@@ -5,7 +5,7 @@
 	<name>Gun Force II (US)</name>
 	<region>USA</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Gun Force II</parent_title>
 	<platform>Irem M92</platform>
 	<series>Gun Force</series>

@@ -3,12 +3,12 @@
 
 	<setname>centiped</setname>
 	<name>Centipede (Rev 4)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev 4</version>
 	<alternative>no</alternative>
 	<parent_title>Centipede</parent_title>
 	<platform>Atari Centipede based</platform>
-	<series>*pede</series>
+	<series>Centipede</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1980</year>

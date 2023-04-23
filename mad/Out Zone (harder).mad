@@ -3,7 +3,7 @@
 
 	<setname>outzoneh</setname>
 	<name>Out Zone (harder)</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Out Zone</parent_title>

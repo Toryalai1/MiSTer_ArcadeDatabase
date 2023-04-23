@@ -3,7 +3,7 @@
 
 	<setname>scobras</setname>
 	<name>Super Cobra (Stern)</name>
-	<region></region>
+	<region>World</region>
 	<version>Stern</version>
 	<alternative>yes</alternative>
 	<parent_title>Super Cobra</parent_title>

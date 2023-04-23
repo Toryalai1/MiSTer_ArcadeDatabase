@@ -3,7 +3,7 @@
 
 	<setname>tnk3</setname>
 	<name>TNKIII</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>TNKIII</parent_title>

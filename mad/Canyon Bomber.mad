@@ -3,7 +3,7 @@
 
 	<setname>canyon</setname>
 	<name>Canyon Bomber</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Canyon Bomber</parent_title>

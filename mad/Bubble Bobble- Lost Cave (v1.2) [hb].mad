@@ -3,7 +3,7 @@
 
 	<setname>bublcave</setname>
 	<name>Bubble Bobble- Lost Cave (v1.2) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>v1.2</version>
 	<alternative>yes</alternative>
 	<parent_title>Bubble Bobble</parent_title>

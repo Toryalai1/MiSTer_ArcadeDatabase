@@ -3,7 +3,7 @@
 
 	<setname>galagosb</setname>
 	<name>Galaga Ghost (Set 2) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Galaga</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>beastfp</setname>
 	<name>Beastie Feastie (Pac-Man Conversion)</name>
-	<region></region>
+	<region>World</region>
 	<version>Pac-Man Conversion</version>
 	<alternative>no</alternative>
 	<parent_title>Beastie Feastie</parent_title>

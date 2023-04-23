@@ -3,7 +3,7 @@
 
 	<setname>sf2mix</setname>
 	<name>Street Fighter 2 Mix (v0.98c) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>v0.98c</version>
 	<alternative>yes</alternative>
 	<parent_title>Street Fighter II</parent_title>

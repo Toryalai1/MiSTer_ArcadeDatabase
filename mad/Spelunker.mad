@@ -3,7 +3,7 @@
 
 	<setname>spelunkr</setname>
 	<name>Spelunker</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Spelunker</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>pang3b</setname>
 	<name>Pang! 3 [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pang! 3</parent_title>

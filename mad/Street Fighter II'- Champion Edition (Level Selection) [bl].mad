@@ -3,7 +3,7 @@
 
 	<setname>sf2level</setname>
 	<name>Street Fighter II'- Champion Edition (Level Selection) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Level Selection</version>
 	<alternative>yes</alternative>
 	<parent_title>Street Fighter II</parent_title>

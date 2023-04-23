@@ -3,7 +3,7 @@
 
 	<setname>sathena</setname>
 	<name>Super Athena [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Athena</parent_title>

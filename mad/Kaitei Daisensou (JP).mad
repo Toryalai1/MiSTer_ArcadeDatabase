@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>leaguemn</setname>
-	<name>Ninja Baseball Bat Man (JP)</name>
+	<setname>kaiteids</setname>
+	<name>Kaitei Daisensou (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>no</alternative>
-	<parent_title>Ninja Baseball Bat Man</parent_title>
+	<alternative>yes</alternative>
+	<parent_title>In The Hunt</parent_title>
 	<platform>Irem M92</platform>
-	<series>Ninja Baseball Bat Man</series>
+	<series>In The Hunt</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1993</year>
 	<manufacturer>Irem</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<category>Shooter - Misc. Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4 (simultaneous)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

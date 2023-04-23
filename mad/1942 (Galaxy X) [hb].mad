@@ -3,7 +3,7 @@
 
 	<setname>galagax</setname>
 	<name>1942 (Galaxy X) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Galaxy X</version>
 	<alternative>yes</alternative>
 	<parent_title>1942</parent_title>

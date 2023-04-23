@@ -3,7 +3,7 @@
 
 	<setname>vortex</setname>
 	<name>Vortex</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

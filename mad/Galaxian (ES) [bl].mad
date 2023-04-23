@@ -3,7 +3,7 @@
 
 	<setname>galaxrf</setname>
 	<name>Galaxian (ES) [bl]</name>
-	<region></region>
+	<region>Spain</region>
 	<version>Spanish</version>
 	<alternative>yes</alternative>
 	<parent_title>Galaxian</parent_title>

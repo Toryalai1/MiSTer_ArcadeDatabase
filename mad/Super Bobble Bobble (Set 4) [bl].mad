@@ -3,7 +3,7 @@
 
 	<setname>sboblbobld</setname>
 	<name>Super Bobble Bobble (Set 4) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Set 4</version>
 	<alternative>yes</alternative>
 	<parent_title>Bubble Bobble</parent_title>

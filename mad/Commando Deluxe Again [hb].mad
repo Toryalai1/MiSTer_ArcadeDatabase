@@ -3,7 +3,7 @@
 
 	<setname>comdlux1</setname>
 	<name>Commando Deluxe Again [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Commando</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>pitfall2</setname>
 	<name>Pitfall II</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

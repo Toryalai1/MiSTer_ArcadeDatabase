@@ -3,7 +3,7 @@
 
 	<setname>digdugat1</setname>
 	<name>Dig Dug (Atari, Rev 1)</name>
-	<region></region>
+	<region>World</region>
 	<version>Atari, Rev 1</version>
 	<alternative>yes</alternative>
 	<parent_title>Dig Dug</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>brain</setname>
 	<name>Brain</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Brain</parent_title>

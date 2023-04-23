@@ -3,7 +3,7 @@
 
 	<setname>bombjred</setname>
 	<name>Bomb Jack (Red) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Red</version>
 	<alternative>yes</alternative>
 	<parent_title>Bomb Jack</parent_title>

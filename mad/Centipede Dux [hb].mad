@@ -3,12 +3,12 @@
 
 	<setname>centipdd</setname>
 	<name>Centipede Dux [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Centipede</parent_title>
 	<platform>Atari Centipede based</platform>
-	<series>*pede</series>
+	<series>Centipede</series>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>

@@ -3,7 +3,7 @@
 
 	<setname>pacjail</setname>
 	<name>Pac-Man (Jail) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Jail</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

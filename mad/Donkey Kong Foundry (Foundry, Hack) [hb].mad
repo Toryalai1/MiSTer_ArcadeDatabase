@@ -3,7 +3,7 @@
 
 	<setname>dkongf</setname>
 	<name>Donkey Kong Foundry (Foundry, Hack) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Foundry, Hack</version>
 	<alternative>yes</alternative>
 	<parent_title>Donkey Kong</parent_title>

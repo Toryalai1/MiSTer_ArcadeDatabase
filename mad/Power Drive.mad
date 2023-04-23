@@ -3,7 +3,7 @@
 
 	<setname>powerdrv</setname>
 	<name>Power Drive</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

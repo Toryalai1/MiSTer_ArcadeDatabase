@@ -5,7 +5,7 @@
 	<name>Hook (W)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Hook</parent_title>
 	<platform>Irem M92</platform>
 	<series>Hook</series>

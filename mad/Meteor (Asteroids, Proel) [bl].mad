@@ -3,7 +3,7 @@
 
 	<setname>meteorite</setname>
 	<name>Meteor (Asteroids, Proel) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Asteroids, Proel</version>
 	<alternative>yes</alternative>
 	<parent_title>Asteroids</parent_title>

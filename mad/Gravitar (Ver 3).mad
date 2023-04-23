@@ -3,7 +3,7 @@
 
 	<setname>gravitar</setname>
 	<name>Gravitar (Ver 3)</name>
-	<region></region>
+	<region>World</region>
 	<version>Ver 3</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

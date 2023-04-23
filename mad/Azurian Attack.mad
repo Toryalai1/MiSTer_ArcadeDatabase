@@ -3,7 +3,7 @@
 
 	<setname>azurian</setname>
 	<name>Azurian Attack</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Azurian Attack</parent_title>

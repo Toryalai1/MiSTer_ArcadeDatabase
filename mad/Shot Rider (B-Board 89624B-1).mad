@@ -3,7 +3,7 @@
 
 	<setname>shtrider</setname>
 	<name>Shot Rider (B-Board 89624B-1)</name>
-	<region></region>
+	<region>World</region>
 	<version>B-Board 89624B-1</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

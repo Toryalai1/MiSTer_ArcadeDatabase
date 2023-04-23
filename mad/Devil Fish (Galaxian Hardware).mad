@@ -3,7 +3,7 @@
 
 	<setname>devilfsg</setname>
 	<name>Devil Fish (Galaxian Hardware)</name>
-	<region></region>
+	<region>World</region>
 	<version>Galaxian Hardware</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

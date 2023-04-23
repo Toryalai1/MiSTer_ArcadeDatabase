@@ -3,7 +3,7 @@
 
 	<setname>bagmanj</setname>
 	<name>Bagman (Taito)</name>
-	<region></region>
+	<region>World</region>
 	<version>Taito</version>
 	<alternative>yes</alternative>
 	<parent_title>Bagman</parent_title>

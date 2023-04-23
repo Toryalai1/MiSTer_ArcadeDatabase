@@ -3,7 +3,7 @@
 
 	<setname>ballbomb</setname>
 	<name>Balloon Bomber</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Balloon Bomber</parent_title>

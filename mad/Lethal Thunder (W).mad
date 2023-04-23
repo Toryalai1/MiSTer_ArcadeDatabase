@@ -5,7 +5,7 @@
 	<name>Lethal Thunder (W)</name>
 	<region>World</region>
 	<version></version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Lethal Thunder</parent_title>
 	<platform>Irem M92</platform>
 	<series>Lethal Thunder</series>

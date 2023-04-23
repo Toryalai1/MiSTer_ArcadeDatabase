@@ -3,7 +3,7 @@
 
 	<setname>hearts</setname>
 	<name>Pac-Man (Hearts) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Hearts</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

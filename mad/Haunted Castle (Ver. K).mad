@@ -5,7 +5,7 @@
 	<name>Haunted Castle (Ver. K)</name>
 	<region>World</region>
 	<version>Version K</version>
-	<alternative>yes</alternative>
+	<alternative>no</alternative>
 	<parent_title>Haunted Castle</parent_title>
 	<platform>Konami 6309 based</platform>
 	<series>Castlevania</series>

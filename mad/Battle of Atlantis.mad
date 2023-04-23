@@ -3,7 +3,7 @@
 
 	<setname>atlantis2</setname>
 	<name>Battle of Atlantis</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Battle of Atlantis</parent_title>

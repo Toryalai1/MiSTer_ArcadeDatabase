@@ -3,7 +3,7 @@
 
 	<setname>playball</setname>
 	<name>Playball (Prototype)</name>
-	<region></region>
+	<region>World</region>
 	<version>Prototype</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

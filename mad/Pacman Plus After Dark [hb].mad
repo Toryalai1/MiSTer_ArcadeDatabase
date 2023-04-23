@@ -3,7 +3,7 @@
 
 	<setname>pplusad</setname>
 	<name>Pacman Plus After Dark [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

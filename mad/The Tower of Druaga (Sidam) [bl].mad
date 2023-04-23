@@ -3,7 +3,7 @@
 
 	<setname>todruagas</setname>
 	<name>The Tower of Druaga (Sidam) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Sidam</version>
 	<alternative>yes</alternative>
 	<parent_title>The Tower of Druaga</parent_title>

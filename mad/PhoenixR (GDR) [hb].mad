@@ -3,7 +3,7 @@
 
 	<setname>phoenixr</setname>
 	<name>PhoenixR (GDR) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>GDR</version>
 	<alternative>yes</alternative>
 	<parent_title>Phoenix</parent_title>

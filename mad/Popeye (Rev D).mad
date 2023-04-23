@@ -3,7 +3,7 @@
 
 	<setname>popeye</setname>
 	<name>Popeye (Rev D)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev D</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

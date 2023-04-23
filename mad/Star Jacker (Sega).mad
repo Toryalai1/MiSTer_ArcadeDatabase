@@ -3,7 +3,7 @@
 
 	<setname>starjack</setname>
 	<name>Star Jacker (Sega)</name>
-	<region></region>
+	<region>World</region>
 	<version>Sega</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

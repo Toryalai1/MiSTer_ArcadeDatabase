@@ -3,7 +3,7 @@
 
 	<setname>digdug2</setname>
 	<name>Dig Dug II (New Ver)</name>
-	<region></region>
+	<region>World</region>
 	<version>New Ver</version>
 	<alternative>no</alternative>
 	<parent_title>Dig Dug II</parent_title>

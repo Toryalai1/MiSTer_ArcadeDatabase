@@ -3,7 +3,7 @@
 
 	<setname>gaplus</setname>
 	<name>Gaplus (GP2, Rev B)</name>
-	<region></region>
+	<region>World</region>
 	<version>GP2 Rev B</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

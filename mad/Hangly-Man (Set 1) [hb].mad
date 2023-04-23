@@ -3,7 +3,7 @@
 
 	<setname>hangly</setname>
 	<name>Hangly-Man (Set 1) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Set 1</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

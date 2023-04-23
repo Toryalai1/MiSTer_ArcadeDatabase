@@ -3,7 +3,7 @@
 
 	<setname>blockgal</setname>
 	<name>Block Gal</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Block Gal</parent_title>

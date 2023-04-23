@@ -3,7 +3,7 @@
 
 	<setname>pengo5</setname>
 	<name>Pengo (Set 5)</name>
-	<region></region>
+	<region>World</region>
 	<version>Set 5</version>
 	<alternative>yes</alternative>
 	<parent_title>Pengo</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>zerotime</setname>
 	<name>Zero Time (Petaco S.A.)</name>
-	<region></region>
+	<region>World</region>
 	<version>Petaco S.A.</version>
 	<alternative>yes</alternative>
 	<parent_title>Galaxian</parent_title>

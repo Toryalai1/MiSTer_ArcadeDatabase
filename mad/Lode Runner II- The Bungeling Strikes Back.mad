@@ -3,7 +3,7 @@
 
 	<setname>ldrun2</setname>
 	<name>Lode Runner II- The Bungeling Strikes Back</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Lode Runner II</parent_title>

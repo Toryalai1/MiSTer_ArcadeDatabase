@@ -3,7 +3,7 @@
 
 	<setname>sbagmans</setname>
 	<name>Super Bagman (Stern)</name>
-	<region></region>
+	<region>World</region>
 	<version>Stern</version>
 	<alternative>yes</alternative>
 	<parent_title>Super Bagman</parent_title>

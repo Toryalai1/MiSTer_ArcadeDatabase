@@ -3,7 +3,7 @@
 
 	<setname>ikari</setname>
 	<name>Ikari Warriors</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Ikari Warriors</parent_title>

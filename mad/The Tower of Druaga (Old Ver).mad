@@ -3,7 +3,7 @@
 
 	<setname>todruagao</setname>
 	<name>The Tower of Druaga (Old Ver)</name>
-	<region></region>
+	<region>World</region>
 	<version>Old Ver</version>
 	<alternative>yes</alternative>
 	<parent_title>The Tower of Druaga</parent_title>

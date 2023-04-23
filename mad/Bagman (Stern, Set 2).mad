@@ -3,7 +3,7 @@
 
 	<setname>bagmans2</setname>
 	<name>Bagman (Stern, Set 2)</name>
-	<region></region>
+	<region>World</region>
 	<version>Stern, Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Bagman</parent_title>

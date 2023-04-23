@@ -3,7 +3,7 @@
 
 	<setname>bombjack</setname>
 	<name>Bomb Jack</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Bomb Jack</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>maxrpm</setname>
 	<name>Max RPM (v2)</name>
-	<region></region>
+	<region>World</region>
 	<version>v2</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

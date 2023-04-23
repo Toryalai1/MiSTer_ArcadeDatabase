@@ -5,7 +5,7 @@
 	<name>R-Type Leo (JP)</name>
 	<region>Japan</region>
 	<version></version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title>R-Type Leo</parent_title>
 	<platform>Irem M92</platform>
 	<series>R-Type</series>

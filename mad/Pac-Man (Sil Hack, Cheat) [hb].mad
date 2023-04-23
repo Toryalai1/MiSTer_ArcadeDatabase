@@ -3,7 +3,7 @@
 
 	<setname>namcosil</setname>
 	<name>Pac-Man (Sil Hack, Cheat) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Sil Hack, Cheat</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>gunsmoke</setname>
 	<name>Gun Smoke</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Gun Smoke</parent_title>

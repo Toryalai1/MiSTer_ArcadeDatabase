@@ -3,7 +3,7 @@
 
 	<setname>blkhole</setname>
 	<name>Black Hole</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Black Hole</parent_title>

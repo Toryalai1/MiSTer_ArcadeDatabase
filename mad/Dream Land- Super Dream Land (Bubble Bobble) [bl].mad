@@ -3,7 +3,7 @@
 
 	<setname>dland</setname>
 	<name>Dream Land- Super Dream Land (Bubble Bobble) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Bubble Bobble</version>
 	<alternative>yes</alternative>
 	<parent_title>Bubble Bobble</parent_title>

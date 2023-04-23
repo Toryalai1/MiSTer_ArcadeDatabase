@@ -3,7 +3,7 @@
 
 	<setname>kickc</setname>
 	<name>Kick (Cocktail)</name>
-	<region></region>
+	<region>World</region>
 	<version>Cocktail</version>
 	<alternative>yes</alternative>
 	<parent_title>Kick</parent_title>

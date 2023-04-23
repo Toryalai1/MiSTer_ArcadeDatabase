@@ -3,7 +3,7 @@
 
 	<setname>bagman</setname>
 	<name>Bagman</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Bagman</parent_title>

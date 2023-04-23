@@ -3,7 +3,7 @@
 
 	<setname>tigeroad</setname>
 	<name>Tiger Road</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Tiger Road</parent_title>

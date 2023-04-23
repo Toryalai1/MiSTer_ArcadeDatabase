@@ -3,7 +3,7 @@
 
 	<setname>vautour</setname>
 	<name>Vautour (Phoenix, 8085A CPU) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Phoenix, 8085A CPU</version>
 	<alternative>yes</alternative>
 	<parent_title>Phoenix</parent_title>

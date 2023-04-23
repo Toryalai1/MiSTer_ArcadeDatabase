@@ -3,7 +3,7 @@
 
 	<setname>phoenixha</setname>
 	<name>Phoenix (Hellomat Automaten) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Hellomat Automaten</version>
 	<alternative>yes</alternative>
 	<parent_title>Phoenix</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>chtpac3d</setname>
 	<name>Pac-Man 3D (Cheat) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Cheat</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

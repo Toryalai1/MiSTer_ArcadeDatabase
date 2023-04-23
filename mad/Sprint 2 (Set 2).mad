@@ -3,7 +3,7 @@
 
 	<setname>sprint2a</setname>
 	<name>Sprint 2 (Set 2)</name>
-	<region></region>
+	<region>World</region>
 	<version>Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Sprint 2</parent_title>

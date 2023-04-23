@@ -3,7 +3,7 @@
 
 	<setname>trojanr</setname>
 	<name>Trojan (Romstar)</name>
-	<region></region>
+	<region>World</region>
 	<version>Romstar</version>
 	<alternative>no</alternative>
 	<parent_title>Trojan</parent_title>

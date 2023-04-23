@@ -3,7 +3,7 @@
 
 	<setname>handiman</setname>
 	<name>Handi-Man in Cyberworld [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Tron</parent_title>

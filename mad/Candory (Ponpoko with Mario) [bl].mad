@@ -3,7 +3,7 @@
 
 	<setname>candory</setname>
 	<name>Candory (Ponpoko with Mario) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Ponpoko with Mario</version>
 	<alternative>yes</alternative>
 	<parent_title>Ponpoko</parent_title>

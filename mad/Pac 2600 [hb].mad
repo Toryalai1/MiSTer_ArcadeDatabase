@@ -3,7 +3,7 @@
 
 	<setname>pac2600a</setname>
 	<name>Pac 2600 [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

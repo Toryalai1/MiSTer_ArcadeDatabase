@@ -3,7 +3,7 @@
 
 	<setname>sbrkout</setname>
 	<name>Super Breakout (Rev 04)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev 04</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

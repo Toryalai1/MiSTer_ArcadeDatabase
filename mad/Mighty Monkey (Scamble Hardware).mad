@@ -3,7 +3,7 @@
 
 	<setname>mimonscr</setname>
 	<name>Mighty Monkey (Scamble Hardware)</name>
-	<region></region>
+	<region>World</region>
 	<version>Scramble Hardware</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

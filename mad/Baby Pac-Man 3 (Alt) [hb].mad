@@ -3,7 +3,7 @@
 
 	<setname>baby3</setname>
 	<name>Baby Pac-Man 3 (Alt) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Alt</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

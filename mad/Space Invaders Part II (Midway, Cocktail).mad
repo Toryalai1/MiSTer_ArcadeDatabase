@@ -3,7 +3,7 @@
 
 	<setname>invad2ct</setname>
 	<name>Space Invaders Part II (Midway, Cocktail)</name>
-	<region></region>
+	<region>World</region>
 	<version>Midway, Cocktail</version>
 	<alternative>yes</alternative>
 	<parent_title>Space Invaders</parent_title>

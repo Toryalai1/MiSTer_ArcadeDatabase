@@ -3,7 +3,7 @@
 
 	<setname>terracre</setname>
 	<name>Terra Cresta (YM3526 set 1)</name>
-	<region></region>
+	<region>World</region>
 	<version>YM3526 set 1</version>
 	<alternative>no</alternative>
 	<parent_title>Terra Cresta</parent_title>

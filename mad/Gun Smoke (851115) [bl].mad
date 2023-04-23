@@ -3,7 +3,7 @@
 
 	<setname>gunsmokeb</setname>
 	<name>Gun Smoke (851115) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>851115</version>
 	<alternative>yes</alternative>
 	<parent_title>Gun Smoke</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>numcrash</setname>
 	<name>Number Crash</name>
-	<region></region>
+	<region>World</region>
 	<version>Set 1</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

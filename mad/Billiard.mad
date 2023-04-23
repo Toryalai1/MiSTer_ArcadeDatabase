@@ -3,7 +3,7 @@
 
 	<setname>bilyard</setname>
 	<name>Billiard</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Billiard</parent_title>

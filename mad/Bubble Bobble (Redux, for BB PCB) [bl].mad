@@ -3,7 +3,7 @@
 
 	<setname>bbredux</setname>
 	<name>Bubble Bobble (Redux, for BB PCB) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Redux, for BB PCB</version>
 	<alternative>yes</alternative>
 	<parent_title>Bubble Bobble</parent_title>

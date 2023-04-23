@@ -3,7 +3,7 @@
 
 	<setname>phoenix2</setname>
 	<name>Phoenix (Amstar, Set 2)</name>
-	<region></region>
+	<region>World</region>
 	<version>Amstar, Set 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Phoenix</parent_title>

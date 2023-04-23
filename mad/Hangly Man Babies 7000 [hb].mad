@@ -3,7 +3,7 @@
 
 	<setname>hmba7000</setname>
 	<name>Hangly Man Babies 7000 [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

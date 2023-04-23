@@ -3,7 +3,7 @@
 
 	<setname>gyrussce</setname>
 	<name>Gyruss (Centuri)</name>
-	<region></region>
+	<region>World</region>
 	<version>Centuri</version>
 	<alternative>yes</alternative>
 	<parent_title>Gyruss</parent_title>

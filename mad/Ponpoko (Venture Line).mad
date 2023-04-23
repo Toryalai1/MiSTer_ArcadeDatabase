@@ -3,7 +3,7 @@
 
 	<setname>ponpokov</setname>
 	<name>Ponpoko (Venture Line)</name>
-	<region></region>
+	<region>World</region>
 	<version>Venture Line</version>
 	<alternative>yes</alternative>
 	<parent_title>Ponpoko</parent_title>

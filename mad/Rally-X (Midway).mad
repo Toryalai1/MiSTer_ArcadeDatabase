@@ -3,7 +3,7 @@
 
 	<setname>rallyxm</setname>
 	<name>Rally-X (Midway)</name>
-	<region></region>
+	<region>World</region>
 	<version>Midway</version>
 	<alternative>yes</alternative>
 	<parent_title>Rally-X</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>galaxian</setname>
 	<name>Galaxian (Namco, Set 1)</name>
-	<region></region>
+	<region>World</region>
 	<version>Namco, Set 1</version>
 	<alternative>no</alternative>
 	<parent_title>Galaxian</parent_title>

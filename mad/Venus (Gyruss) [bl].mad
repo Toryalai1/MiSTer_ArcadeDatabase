@@ -3,7 +3,7 @@
 
 	<setname>venus</setname>
 	<name>Venus (Gyruss) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Gyruss</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

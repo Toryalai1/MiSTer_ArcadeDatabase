@@ -3,7 +3,7 @@
 
 	<setname>bubbles</setname>
 	<name>Bubbles</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Bubbles</parent_title>

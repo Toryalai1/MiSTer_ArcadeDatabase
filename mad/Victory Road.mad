@@ -3,7 +3,7 @@
 
 	<setname>victroad</setname>
 	<name>Victory Road</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Victory Road</parent_title>

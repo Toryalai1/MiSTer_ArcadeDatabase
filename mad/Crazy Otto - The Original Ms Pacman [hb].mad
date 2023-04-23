@@ -3,7 +3,7 @@
 
 	<setname>ottopza</setname>
 	<name>Crazy Otto - The Original Ms Pacman [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Ms. Pac-man</parent_title>

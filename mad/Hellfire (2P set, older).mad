@@ -3,7 +3,7 @@
 
 	<setname>hellfire2a</setname>
 	<name>Hellfire (2P set, older)</name>
-	<region></region>
+	<region>World</region>
 	<version>2P Set</version>
 	<alternative>yes</alternative>
 	<parent_title>Hellfire</parent_title>

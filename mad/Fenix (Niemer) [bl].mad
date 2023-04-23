@@ -3,7 +3,7 @@
 
 	<setname>fenixn</setname>
 	<name>Fenix (Niemer) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version>Niemer</version>
 	<alternative>yes</alternative>
 	<parent_title>Phoenix</parent_title>

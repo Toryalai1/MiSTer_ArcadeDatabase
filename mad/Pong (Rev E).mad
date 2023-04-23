@@ -3,7 +3,7 @@
 
 	<setname>pong</setname>
 	<name>Pong (Rev E)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev E</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

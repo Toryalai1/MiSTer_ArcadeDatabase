@@ -3,7 +3,7 @@
 
 	<setname>frenzy</setname>
 	<name>Frenzy (Rev RA1)</name>
-	<region></region>
+	<region>World</region>
 	<version>Rev RA1</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

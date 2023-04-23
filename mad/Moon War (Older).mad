@@ -3,7 +3,7 @@
 
 	<setname>moonwara</setname>
 	<name>Moon War (Older)</name>
-	<region></region>
+	<region>World</region>
 	<version>Older</version>
 	<alternative>yes</alternative>
 	<parent_title>Moon War</parent_title>

@@ -3,7 +3,7 @@
 
 	<setname>tokiob</setname>
 	<name>Tokio (Scramble Formation) [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Scramble Formation</parent_title>

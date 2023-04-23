@@ -3,7 +3,7 @@
 
 	<setname>vpacms2</setname>
 	<name>Vector Pac-Man (Ms. Pac-Man Maze 2) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Ms. Pac-Man Maze 2</version>
 	<alternative>yes</alternative>
 	<parent_title>Pac-Man</parent_title>

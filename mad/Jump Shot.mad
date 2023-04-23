@@ -3,7 +3,7 @@
 
 	<setname>jumpshot</setname>
 	<name>Jump Shot</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Jump Shot</parent_title>

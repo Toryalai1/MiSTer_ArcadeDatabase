@@ -3,7 +3,7 @@
 
 	<setname>robotron12</setname>
 	<name>Robotron 2084 (Wave 201 Start, 2012) [hb]</name>
-	<region></region>
+	<region>World</region>
 	<version>Wave 201 Start, 2012</version>
 	<alternative>yes</alternative>
 	<parent_title>Robotron 2084</parent_title>

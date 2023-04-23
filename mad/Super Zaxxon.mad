@@ -3,7 +3,7 @@
 
 	<setname>szaxxon</setname>
 	<name>Super Zaxxon</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>

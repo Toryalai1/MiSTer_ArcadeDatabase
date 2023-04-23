@@ -3,7 +3,7 @@
 
 	<setname>gyruss</setname>
 	<name>Gyruss</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Gyruss</parent_title>

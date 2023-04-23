@@ -3,7 +3,7 @@
 
 	<setname>scramblebb</setname>
 	<name>Scramble [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Scramble</parent_title>

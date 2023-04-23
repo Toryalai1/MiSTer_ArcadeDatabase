@@ -3,7 +3,7 @@
 
 	<setname>tron5</setname>
 	<name>Tron (Ver 5-12)</name>
-	<region></region>
+	<region>World</region>
 	<version>Ver 5-12</version>
 	<alternative>yes</alternative>
 	<parent_title>Tron</parent_title>

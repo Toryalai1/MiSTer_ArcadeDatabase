@@ -3,7 +3,7 @@
 
 	<setname>piscesb</setname>
 	<name>Pisces [bl]</name>
-	<region></region>
+	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
 	<parent_title>Pisces</parent_title>

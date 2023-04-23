@@ -3,7 +3,7 @@
 
 	<setname>gaplust</setname>
 	<name>Gaplus (Tecfri PCB)</name>
-	<region></region>
+	<region>World</region>
 	<version>Tecfri PCB</version>
 	<alternative>yes</alternative>
 	<parent_title>Gaplus</parent_title>
