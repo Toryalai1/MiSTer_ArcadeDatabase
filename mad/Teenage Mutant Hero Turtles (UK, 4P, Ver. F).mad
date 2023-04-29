@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>tmht</setname>
+	<name>Teenage Mutant Hero Turtles (UK, 4P, Ver. F)</name>
+	<region>Europe</region>
+	<version>4 Player, Version F</version>
+	<alternative>yes</alternative>
+	<parent_title>Teenage Mutant Ninja Turtles</parent_title>
+	<platform>Konami TMNT based</platform>
+	<series>Teenage Mutant Ninja Turtles</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1989</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Fighter - 2.5D</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>4 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
