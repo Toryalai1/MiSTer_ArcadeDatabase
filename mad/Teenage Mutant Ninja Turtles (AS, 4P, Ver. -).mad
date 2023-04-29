@@ -2,9 +2,9 @@
 <misterarcadedescription>
 
 	<setname>tmnta</setname>
-	<name>Teenage Mutant Ninja Turtles (AS, 4P, Ver. ?)</name>
+	<name>Teenage Mutant Ninja Turtles (AS, 4P, Ver. -)</name>
 	<region>World</region>
-	<version>4 Player, Version ?</version>
+	<version>4 Player, Version -</version>
 	<alternative>yes</alternative>
 	<parent_title>Teenage Mutant Ninja Turtles</parent_title>
 	<platform>Konami TMNT based</platform>

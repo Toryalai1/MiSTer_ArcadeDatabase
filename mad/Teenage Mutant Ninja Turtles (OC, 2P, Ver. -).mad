@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>tmht2pa</setname>
-	<name>Teenage Mutant Hero Turtles (UK, 2P, Ver. ?)</name>
-	<region>Europe</region>
-	<version>2 Player, Version ?</version>
+	<setname>tmnt2po</setname>
+	<name>Teenage Mutant Ninja Turtles (OC, 2P, Ver. -)</name>
+	<region>World</region>
+	<version>2 Player, Version -</version>
 	<alternative>yes</alternative>
 	<parent_title>Teenage Mutant Ninja Turtles</parent_title>
 	<platform>Konami TMNT based</platform>
