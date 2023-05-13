@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>airduelm72</setname>
-	<name>Air Duel (W, M72 hardware)</name>
-	<region>World</region>
+	<setname>rodlandj</setname>
+	<name>Rod-Land (JP)</name>
+	<region>Japan</region>
 	<version></version>
 	<alternative>yes</alternative>
-	<parent_title>Air Duel</parent_title>
-	<platform>Irem M72</platform>
-	<series></series>
+	<parent_title>Rod-Land</parent_title>
+	<platform>Jaleco Mega System 1</platform>
+	<series>Rod-Land</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1990</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Shooter - Flying Vertical</category>
+	<manufacturer>Jaleco</manufacturer>
+	<category>Platform - Run Jump</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
-	<flip>yes</flip>
+	<rotation>horizontal</rotation>
+	<flip></flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>

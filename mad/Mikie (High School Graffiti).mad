@@ -17,7 +17,7 @@
 
 	<resolution>15kHz</resolution>
 	<rotation>vertical (ccw)</rotation>
-	<flip></flip>
+	<flip>yes</flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>4-way</move_inputs>

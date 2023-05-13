@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>nomnlnd</setname>
-	<name>No Mans Land</name>
+	<setname>porter</setname>
+	<name>Port Man (Moon Cresta hardware) [bl]</name>
 	<region>World</region>
-	<version></version>
+	<version>Moon Cresta hardware</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Universal Cosmic hardware</platform>
-	<series></series>
+	<parent_title>Port Man</parent_title>
+	<platform>Namco Galaxian based</platform>
+	<series>Port Man</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1980</year>
-	<manufacturer>Universal</manufacturer>
-	<category>Shooter - Field</category>
+	<manufacturer>bootleg</manufacturer>
+	<category>Platform - Run Jump</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
-	<flip>yes</flip>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
 
 	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>

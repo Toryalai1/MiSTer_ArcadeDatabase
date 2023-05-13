@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>aliensj</setname>
+	<name>Aliens (JP, Set 1)</name>
+	<region>Japan</region>
+	<version>Set 1</version>
+	<alternative>yes</alternative>
+	<parent_title>Aliens</parent_title>
+	<platform>Konami Aliens based</platform>
+	<series>Alien</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Platform - Shooter Scrolling</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>

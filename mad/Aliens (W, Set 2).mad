@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>airduelm72</setname>
-	<name>Air Duel (W, M72 hardware)</name>
+	<setname>aliens2</setname>
+	<name>Aliens (W, Set 2)</name>
 	<region>World</region>
-	<version></version>
+	<version>Set 2</version>
 	<alternative>yes</alternative>
-	<parent_title>Air Duel</parent_title>
-	<platform>Irem M72</platform>
-	<series></series>
+	<parent_title>Aliens</parent_title>
+	<platform>Konami Aliens based</platform>
+	<series>Alien</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1990</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Shooter - Flying Vertical</category>
+	<manufacturer>Konami</manufacturer>
+	<category>Platform - Shooter Scrolling</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
-	<flip>yes</flip>
+	<rotation>horizontal</rotation>
+	<flip></flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
