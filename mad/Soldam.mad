@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>rittam</setname>
-	<name>R&amp;T (Rod-Land Prototype)</name>
+	<setname>soldam</setname>
+	<name>Soldam</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Rod-Land</parent_title>
+	<parent_title>Soldam</parent_title>
 	<platform>Jaleco Mega System 1</platform>
-	<series>Rod-Land</series>
+	<series>Soldam</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1990</year>
+	<year>1992</year>
 	<manufacturer>Jaleco</manufacturer>
-	<category>Platform - Run Jump</category>
+	<category>Puzzle - Drop</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
