@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>p47b</setname>
+	<name>P-47 - The Freedom Fighter (W) [bl]</name>
+	<region>World</region>
+	<version>bootleg</version>
+	<alternative>yes</alternative>
+	<parent_title>P-47 - The Phantom Fighter</parent_title>
+	<platform>Jaleco Mega System 1</platform>
+	<series>P-47</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1988</year>
+	<manufacturer>Jaleco</manufacturer>
+	<category>Shooter - Flying Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs></move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
+</misterarcadedescription>
