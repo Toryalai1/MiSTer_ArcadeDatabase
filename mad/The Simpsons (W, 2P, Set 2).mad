@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>stdragona</setname>
-	<name>Saint Dragon (Set 2)</name>
+	<setname>simpsons2p2</setname>
+	<name>The Simpsons (W, 2P, Set 2)</name>
 	<region>World</region>
 	<version>Set 2</version>
 	<alternative>yes</alternative>
-	<parent_title>Saint Dragon</parent_title>
-	<platform>Jaleco Mega System 1</platform>
+	<parent_title>The Simpsons</parent_title>
+	<platform>Konami The Simpsons hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>Jaleco</manufacturer>
-	<category>Shooter - Flying Horizontal</category>
+	<year>1991</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs></move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

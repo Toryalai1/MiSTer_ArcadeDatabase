@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>tmhtb</setname>
-	<name>Teenage Mutant Hero Turtles (UK, 4P, Ver. -)</name>
-	<region>Europe</region>
-	<version>4 Player, Version -</version>
+	<setname>simpsons4pe</setname>
+	<name>The Simpsons (W, 4P, Set 2)</name>
+	<region>World</region>
+	<version>Set 2</version>
 	<alternative>yes</alternative>
-	<parent_title>Teenage Mutant Ninja Turtles</parent_title>
-	<platform>Konami TMNT based</platform>
-	<series>Teenage Mutant Ninja Turtles</series>
+	<parent_title>The Simpsons</parent_title>
+	<platform>Konami The Simpsons hardware</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1991</year>
 	<manufacturer>Konami</manufacturer>
 	<category>Fighter - 2.5D</category>
 
@@ -20,7 +20,7 @@
 	<flip></flip>
 
 	<players>4 (simultaneous)</players>
-	<move_inputs>8-way</move_inputs>
+	<move_inputs></move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
 </misterarcadedescription>

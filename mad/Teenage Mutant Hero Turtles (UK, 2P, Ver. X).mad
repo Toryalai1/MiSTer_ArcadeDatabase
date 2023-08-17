@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>tmnta</setname>
-	<name>Teenage Mutant Ninja Turtles (AS, 4P, Ver. -)</name>
-	<region>World</region>
-	<version>4 Player, Version -</version>
+	<setname>tmht2pa</setname>
+	<name>Teenage Mutant Hero Turtles (UK, 2P, Ver. X)</name>
+	<region>Europe</region>
+	<version>2 Player, Version -</version>
 	<alternative>yes</alternative>
 	<parent_title>Teenage Mutant Ninja Turtles</parent_title>
 	<platform>Konami TMNT based</platform>
@@ -19,7 +19,7 @@
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4 (simultaneous)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

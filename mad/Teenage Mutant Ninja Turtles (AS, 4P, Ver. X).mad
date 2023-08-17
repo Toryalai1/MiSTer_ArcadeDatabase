@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>tmnt2po</setname>
-	<name>Teenage Mutant Ninja Turtles (OC, 2P, Ver. -)</name>
+	<setname>tmnta</setname>
+	<name>Teenage Mutant Ninja Turtles (AS, 4P, Ver. X)</name>
 	<region>World</region>
-	<version>2 Player, Version -</version>
+	<version>4 Player, Version -</version>
 	<alternative>yes</alternative>
 	<parent_title>Teenage Mutant Ninja Turtles</parent_title>
 	<platform>Konami TMNT based</platform>
@@ -19,7 +19,7 @@
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
+	<players>4 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
