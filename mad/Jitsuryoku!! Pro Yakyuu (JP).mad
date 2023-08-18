@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>astyanaxa</setname>
-	<name>The Astyanax (Mask Rom ver)</name>
-	<region>USA</region>
-	<version>Mask Rom version</version>
-	<alternative>yes</alternative>
-	<parent_title>The Astyanax</parent_title>
+	<setname>jitsupro</setname>
+	<name>Jitsuryoku!! Pro Yakyuu (JP)</name>
+	<region>Japan</region>
+	<version></version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
 	<platform>Jaleco Mega System 1</platform>
-	<series></series>
+	<series>Moero!!</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1989</year>
 	<manufacturer>Jaleco</manufacturer>
-	<category>Platform - Fighter Scrolling</category>
+	<category>Sports - Baseball</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

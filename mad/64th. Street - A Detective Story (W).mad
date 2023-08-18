@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>tmnt</setname>
-	<name>Teenage Mutant Ninja Turtles (W, 4P, Ver. X)</name>
+	<setname>64street</setname>
+	<name>64th. Street - A Detective Story (W)</name>
 	<region>World</region>
-	<version>4 Player, Version X</version>
+	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Konami TMNT based</platform>
-	<series>Teenage Mutant Ninja Turtles</series>
+	<platform>Jaleco Mega System 1</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>Konami</manufacturer>
+	<year>1991</year>
+	<manufacturer>Jaleco</manufacturer>
 	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4 (simultaneous)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

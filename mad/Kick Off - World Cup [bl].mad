@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>astyanaxa</setname>
-	<name>The Astyanax (Mask Rom ver)</name>
-	<region>USA</region>
-	<version>Mask Rom version</version>
+	<setname>kickoffb</setname>
+	<name>Kick Off - World Cup [bl]</name>
+	<region>bootleg</region>
+	<version>Comodo</version>
 	<alternative>yes</alternative>
-	<parent_title>The Astyanax</parent_title>
+	<parent_title>Kick Off - Jaleco Cup</parent_title>
 	<platform>Jaleco Mega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
-	<year>1989</year>
+	<bootleg>yes</bootleg>
+	<year>1988</year>
 	<manufacturer>Jaleco</manufacturer>
-	<category>Platform - Fighter Scrolling</category>
+	<category>Sports - Soccer</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

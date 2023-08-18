@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>astyanaxa</setname>
-	<name>The Astyanax (Mask Rom ver)</name>
-	<region>USA</region>
-	<version>Mask Rom version</version>
+	<setname>tshingena</setname>
+	<name>Takeda Shingen (JP, JP)</name>
+	<region>Japan</region>
+	<version>Japanese</version>
 	<alternative>yes</alternative>
-	<parent_title>The Astyanax</parent_title>
+	<parent_title>Shingen Samurai-Fighter</parent_title>
 	<platform>Jaleco Mega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1988</year>
 	<manufacturer>Jaleco</manufacturer>
-	<category>Platform - Fighter Scrolling</category>
+	<category>Fighter - Field</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>phantasm</setname>
-	<name>Phantasm (JP)</name>
+	<setname>peekaboo</setname>
+	<name>Peek-a-Boo! (JP, Ver 1.1)</name>
 	<region>Japan</region>
-	<version></version>
+	<version>Ver 1.1</version>
 	<alternative>no</alternative>
-	<parent_title>Avenging Spirit</parent_title>
+	<parent_title></parent_title>
 	<platform>Jaleco Mega System 1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1991</year>
+	<year>1993</year>
 	<manufacturer>Jaleco</manufacturer>
-	<category>Platform - Fighter Scrolling</category>
+	<category>Ball &amp; Paddle - Breakout</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<move_inputs>8-way</move_inputs>
-	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<move_inputs>Paddle</move_inputs>
+	<special_controls>Paddle</special_controls>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>
