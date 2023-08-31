@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>crimfghtu</setname>
-	<name>Crime Fighters (US, 4P)</name>
-	<region>USA</region>
+	<setname>hpuncher</setname>
+	<name>Hard Puncher (JP)</name>
+	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Crime Fighters</parent_title>
-	<platform>Konami Unique</platform>
-	<series>Crime Fighters</series>
+	<parent_title>The Final Round</parent_title>
+	<platform>Konami Twin16 hardware</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1988</year>
 	<manufacturer>Konami</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<category>Sports - Boxing</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>crimfghtj</setname>
-	<name>Crime Fighters (JP, 2P)</name>
+	<setname>gradius2a</setname>
+	<name>Gradius 2 - GOFER no Yabou (JP, Old)</name>
 	<region>Japan</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title>Crime Fighters</parent_title>
-	<platform>Konami Unique</platform>
-	<series>Crime Fighters</series>
+	<version>Old</version>
+	<alternative>yes</alternative>
+	<parent_title>Vulcan Venture</parent_title>
+	<platform>Konami Twin16 hardware</platform>
+	<series>Gradius</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
+	<year>1988</year>
 	<manufacturer>Konami</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<category>Shooter - Flying Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>

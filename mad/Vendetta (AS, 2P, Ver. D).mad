@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>simpsons4pe</setname>
-	<name>The Simpsons (W, 4P, Set 2)</name>
-	<region>World</region>
-	<version>Set 2</version>
+	<setname>vendetta2pd</setname>
+	<name>Vendetta (AS, 2P, Ver. D)</name>
+	<region>Asia</region>
+	<version>Ver D</version>
 	<alternative>yes</alternative>
-	<parent_title>The Simpsons</parent_title>
-	<platform>Konami The Simpsons hardware</platform>
-	<series></series>
+	<parent_title>Vendetta</parent_title>
+	<platform>Konami Vendetta hardware</platform>
+	<series>Crime Fighters</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1991</year>
@@ -19,7 +19,7 @@
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4 (simultaneous)</players>
+	<players>2-4 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

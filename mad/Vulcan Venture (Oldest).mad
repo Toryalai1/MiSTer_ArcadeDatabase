@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>simpsons4pe</setname>
-	<name>The Simpsons (W, 4P, Set 2)</name>
+	<setname>vulcanb</setname>
+	<name>Vulcan Venture (Oldest)</name>
 	<region>World</region>
-	<version>Set 2</version>
+	<version>Oldest</version>
 	<alternative>yes</alternative>
-	<parent_title>The Simpsons</parent_title>
-	<platform>Konami The Simpsons hardware</platform>
-	<series></series>
+	<parent_title>Vulcan Venture</parent_title>
+	<platform>Konami Twin16 hardware</platform>
+	<series>Gradius</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1991</year>
+	<year>1988</year>
 	<manufacturer>Konami</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<category>Shooter - Flying Horizontal</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>4 (simultaneous)</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

@@ -1,22 +1,22 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>simpsons2p</setname>
-	<name>The Simpsons (W, 2P, Set 1)</name>
-	<region>World</region>
-	<version>Set 1</version>
-	<alternative>yes</alternative>
-	<parent_title>The Simpsons</parent_title>
-	<platform>Konami The Simpsons hardware</platform>
-	<series></series>
+	<setname>detatwin</setname>
+	<name>Detana!! Twin Bee (JP, Ver J)</name>
+	<region>Japan</region>
+	<version>Version J</version>
+	<alternative>no</alternative>
+	<parent_title>Bells &amp; Whistles</parent_title>
+	<platform>Konami TMNT 2 based</platform>
+	<series>Twin Bee</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1991</year>
 	<manufacturer>Konami</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<category>Shooter - Flying Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
+	<rotation>vertical (cw)</rotation>
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
