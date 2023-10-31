@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>froundl</setname>
-	<name>The Final Round (Ver. L)</name>
+	<setname>splatter2</setname>
+	<name>Splatter House (W, Old Version (SH2))</name>
 	<region>World</region>
-	<version>Version L</version>
+	<version>Old Version, SH2</version>
 	<alternative>yes</alternative>
-	<parent_title>The Final Round</parent_title>
-	<platform>Konami Twin16 hardware</platform>
+	<parent_title>Splatter House</parent_title>
+	<platform>Namco System-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1988</year>
-	<manufacturer>Konami</manufacturer>
-	<category>Sports - Boxing</category>
+	<manufacturer>Namco</manufacturer>
+	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>3</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>
