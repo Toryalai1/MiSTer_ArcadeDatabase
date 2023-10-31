@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ffightae</setname>
-	<name>Final Fight 30th Anniversary Edition [hb]</name>
-	<region>World</region>
-	<version></version>
-	<alternative>no</alternative>
+	<setname>ffightjh</setname>
+	<name>Street Smart- Final Fight (JP, Hack)</name>
+	<region>Japan</region>
+	<version>Hack</version>
+	<alternative>yes</alternative>
 	<parent_title>Final Fight</parent_title>
 	<platform>Capcom CPS-1</platform>
 	<series>Final Fight</series>
-	<homebrew>yes</homebrew>
+	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>2020</year>
+	<year>1989</year>
 	<manufacturer>Capcom</manufacturer>
 	<category>Fighter - 2.5D</category>
 
@@ -19,7 +19,7 @@
 	<rotation>horizontal</rotation>
 	<flip>n-a</flip>
 
-	<players>3 (simultaneous)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>

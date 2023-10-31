@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>akumajou</setname>
-	<name>Akuma-Jou Dracula (Ver. P)</name>
+	<setname>rastsagaabl</setname>
+	<name>Rastan Saga (JP, Rev 1, earlier code base) [bl]</name>
 	<region>Japan</region>
-	<version>Version P</version>
+	<version></version>
 	<alternative>yes</alternative>
-	<parent_title>Haunted Castle</parent_title>
-	<platform>Konami 6309 based</platform>
-	<series>Castlevania</series>
+	<parent_title></parent_title>
+	<platform>Taito 68000 based</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1988</year>
-	<manufacturer>Konami</manufacturer>
+	<year>1987</year>
+	<manufacturer>Taito</manufacturer>
 	<category>Platform - Fighter Scrolling</category>
 
 	<resolution>15kHz</resolution>

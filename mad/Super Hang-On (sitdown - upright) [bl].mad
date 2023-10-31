@@ -2,7 +2,7 @@
 <misterarcadedescription>
 
 	<setname>shangon3</setname>
-	<name>Super Hang-On (sitdown - upright) (FD1089B 317-0034)</name>
+	<name>Super Hang-On (sitdown - upright) [bl]</name>
 	<region>World</region>
 	<version></version>
 	<alternative>yes</alternative>
@@ -10,7 +10,7 @@
 	<platform>Sega Out Run hardware</platform>
 	<series>Hang-On</series>
 	<homebrew>no</homebrew>
-	<bootleg>no</bootleg>
+	<bootleg>yes</bootleg>
 	<year>1987</year>
 	<manufacturer>Sega</manufacturer>
 	<category>Driving - Motorbike</category>

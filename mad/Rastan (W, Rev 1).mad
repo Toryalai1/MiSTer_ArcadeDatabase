@@ -4,7 +4,7 @@
 	<setname>rastan</setname>
 	<name>Rastan (W, Rev 1)</name>
 	<region>World</region>
-	<version></version>
+	<version>Rev 1</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
 	<platform>Taito 68000 based</platform>

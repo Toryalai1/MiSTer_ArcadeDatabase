@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>espradej</setname>
-	<name>ESP Ra.De. (JP)</name>
-	<region>Japan</region>
-	<version></version>
-	<alternative>no</alternative>
+	<setname>esprade_fp</setname>
+	<name>ESP Ra.De. (Free Play)</name>
+	<region>World</region>
+	<version>Free Play</version>
+	<alternative>yes</alternative>
 	<parent_title>ESP Ra.De.</parent_title>
 	<platform>CAVE 68000</platform>
 	<series></series>

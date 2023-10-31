@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>akumajou</setname>
-	<name>Akuma-Jou Dracula (Ver. P)</name>
+	<setname>bootcamp</setname>
+	<name>Boot Camp (Set 1)</name>
 	<region>Japan</region>
-	<version>Version P</version>
+	<version>Set 1</version>
 	<alternative>yes</alternative>
-	<parent_title>Haunted Castle</parent_title>
+	<parent_title>Combat School</parent_title>
 	<platform>Konami 6309 based</platform>
-	<series>Castlevania</series>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1988</year>
 	<manufacturer>Konami</manufacturer>
-	<category>Platform - Fighter Scrolling</category>
+	<category>Sports - Track &amp; Field</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (alternating)</players>
+	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>

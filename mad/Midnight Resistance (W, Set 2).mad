@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>combatsc</setname>
-	<name>Combat School (Joystick)</name>
+	<setname>midres2</setname>
+	<name>Midnight Resistance (W, Set 2)</name>
 	<region>World</region>
-	<version></version>
+	<version>Set 2</version>
 	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Konami 6309 based</platform>
+	<parent_title>Midnight Resistance</parent_title>
+	<platform>Data East MEC-M1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1988</year>
-	<manufacturer>Konami</manufacturer>
-	<category>Sports - Track &amp; Field</category>
+	<year>1989</year>
+	<manufacturer>Data East</manufacturer>
+	<category>Platform - Shooter Scrolling</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>4</num_buttons>
 </misterarcadedescription>

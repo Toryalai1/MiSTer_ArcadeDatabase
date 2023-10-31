@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>gunsmoke</setname>
-	<name>Gun Smoke</name>
-	<region>World</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<setname>gunsmokeu</setname>
+	<name>Gun Smoke (US-CA, 860408)</name>
+	<region>USA</region>
+	<version>860408</version>
+	<alternative>yes</alternative>
+	<parent_title>Gun Smoke</parent_title>
 	<platform>Capcom CPS-0</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1985</year>
+	<year>1986</year>
 	<manufacturer>Capcom</manufacturer>
 	<category>Shooter - Walking</category>
 

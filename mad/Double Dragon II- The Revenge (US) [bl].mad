@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>midres</setname>
-	<name>Midnight Resistance (W)</name>
-	<region>World</region>
-	<version></version>
+	<setname>ddragon2b</setname>
+	<name>Double Dragon II- The Revenge (US) [bl]</name>
+	<region>USA</region>
+	<version>bootleg</version>
 	<alternative>yes</alternative>
-	<parent_title></parent_title>
-	<platform>Data East MEC-M1</platform>
+	<parent_title>Double Dragon</parent_title>
+	<platform>Technos 6309 based</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>Data East</manufacturer>
-	<category>Platform - Shooter Scrolling</category>
+	<year>1988</year>
+	<manufacturer>Technos Japan</manufacturer>
+	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>4</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

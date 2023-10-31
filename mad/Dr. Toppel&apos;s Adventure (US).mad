@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>drtoppel</setname>
-	<name>Dr. Toppel's Adventure (W)</name>
-	<region>World</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title>Dr. Toppel's Adventure</parent_title>
+	<setname>drtoppelu</setname>
+	<name>Dr. Toppel&apos;s Adventure (US)</name>
+	<region>USA</region>
+	<version>Dr. Toppel&apos;s Adventure</version>
+	<alternative>yes</alternative>
+	<parent_title></parent_title>
 	<platform>Taito The NewZealand Story hardware</platform>
 	<series>Dr. Toppel's Adventure</series>
 	<homebrew>no</homebrew>

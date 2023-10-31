@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>combatsc</setname>
-	<name>Combat School (Joystick)</name>
+	<setname>wofr1</setname>
+	<name>Warriors of Fate (W, 921002)</name>
 	<region>World</region>
-	<version></version>
-	<alternative>no</alternative>
+	<version>921002</version>
+	<alternative>yes</alternative>
 	<parent_title></parent_title>
-	<platform>Konami 6309 based</platform>
-	<series></series>
+	<platform>Capcom CPS-1.5</platform>
+	<series>Dynasty Wars</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1988</year>
-	<manufacturer>Konami</manufacturer>
-	<category>Sports - Track &amp; Field</category>
+	<year>1992</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip></flip>
+	<flip>n-a</flip>
 
-	<players>2 (simultaneous)</players>
+	<players>3 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
