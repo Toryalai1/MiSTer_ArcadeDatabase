@@ -5,7 +5,7 @@
 	<name>Thunder Cross (Set 1)</name>
 	<region>World</region>
 	<version>Set 1</version>
-	<alternative>no</alternative>
+	<alternative>yes</alternative>
 	<parent_title></parent_title>
 	<platform>Konami Thunder X hardware</platform>
 	<series>Thunder Cross</series>
