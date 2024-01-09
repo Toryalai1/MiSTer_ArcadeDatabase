@@ -6,8 +6,8 @@
 	<region>World</region>
 	<version>Rev 8.00</version>
 	<alternative>no</alternative>
-	<parent_title>Smash T.V.</parent_title>
-	<platform>Midway Z - Y unit</platform>
+	<parent_title></parent_title>
+	<platform>Midway Y-Unit</platform>
 	<series>Robotron 2084</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
