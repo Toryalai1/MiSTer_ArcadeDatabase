@@ -1,25 +1,25 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>crimfghtj</setname>
-	<name>Crime Fighters (JP, 2P)</name>
+	<setname>galaga88j</setname>
+	<name>Galaga &apos;88 (JP)</name>
 	<region>Japan</region>
 	<version></version>
 	<alternative>no</alternative>
-	<parent_title>Crime Fighters</parent_title>
-	<platform>Konami Aliens based</platform>
-	<series>Crime Fighters</series>
+	<parent_title>Galaga &apos;88</parent_title>
+	<platform>Namco System-1</platform>
+	<series>Galaxian</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1989</year>
-	<manufacturer>Konami</manufacturer>
-	<category>Fighter - 2.5D</category>
+	<year>1987</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Shooter - Gallery</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>horizontal</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
+	<players>2 (alternating)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>

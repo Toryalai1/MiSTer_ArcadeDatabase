@@ -6,13 +6,13 @@
 	<region>Japan</region>
 	<version></version>
 	<alternative>yes</alternative>
-	<parent_title>Kabuki-Z</parent_title>
+	<parent_title></parent_title>
 	<platform>Taito The NewZealand Story hardware</platform>
-	<series>Kabuki-Z</series>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1988</year>
-	<manufacturer>Kaneko - Taito Corporation</manufacturer>
+	<manufacturer>Kaneko - Taito Corporation Japan</manufacturer>
 	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>

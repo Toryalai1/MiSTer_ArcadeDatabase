@@ -4,7 +4,7 @@
 	<setname>tnzsoa</setname>
 	<name>The NewZealand Story (W, unknown version)</name>
 	<region>World</region>
-	<version>(World, unknown version) (P0-041A PCB)</version>
+	<version>(unknown version) (P0-041A PCB)</version>
 	<alternative>yes</alternative>
 	<parent_title>The NewZealand Story</parent_title>
 	<platform>Taito The NewZealand Story hardware</platform>
