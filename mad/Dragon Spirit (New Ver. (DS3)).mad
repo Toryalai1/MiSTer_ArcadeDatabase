@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>dspirit</setname>
+	<name>Dragon Spirit (New Ver. (DS3))</name>
+	<region>World</region>
+	<version>New Ver. (DS3)</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Namco System-1</platform>
+	<series>Dragon Spirit</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1987</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Shooter - Flying Vertical</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>boxyboya</setname>
+	<name>Boxy Boy (SB-)</name>
+	<region>World</region>
+	<version>SB2</version>
+	<alternative>yes</alternative>
+	<parent_title>Boxy Boy</parent_title>
+	<platform>Namco System-1</platform>
+	<series></series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1990</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Maze - Blocks</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

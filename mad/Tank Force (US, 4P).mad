@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>tankfrce4</setname>
+	<name>Tank Force (US, 4P)</name>
+	<region>USA</region>
+	<version>4 Players</version>
+	<alternative>no</alternative>
+	<parent_title>Tank Force</parent_title>
+	<platform>Namco System-1</platform>
+	<series>Tank Battalion</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1991</year>
+	<manufacturer>Namco</manufacturer>
+	<category>Maze - Shooter Small</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>
