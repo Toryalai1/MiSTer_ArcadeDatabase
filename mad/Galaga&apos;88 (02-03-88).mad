@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>galaga88</setname>
-	<name>Galaga &apos;88</name>
+	<setname>galaga88a</setname>
+	<name>Galaga&apos;88 (02-03-88)</name>
 	<region>World</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
+	<version>02-03-88</version>
+	<alternative>yes</alternative>
+	<parent_title>Galaga&apos;88</parent_title>
 	<platform>Namco System-1</platform>
 	<series>Galaxian</series>
 	<homebrew>no</homebrew>
