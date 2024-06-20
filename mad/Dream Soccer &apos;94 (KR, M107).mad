@@ -2,11 +2,11 @@
 <misterarcadedescription>
 
 	<setname>dsoccr94k</setname>
-	<name>Dream Soccer&apos;94 (KR, M107)</name>
+	<name>Dream Soccer &apos;94 (KR, M107)</name>
 	<region>Korea</region>
 	<version>M107 hardware</version>
 	<alternative>yes</alternative>
-	<parent_title>Dream Soccer&apos;94</parent_title>
+	<parent_title>Dream Soccer &apos;94</parent_title>
 	<platform>Irem M107</platform>
 	<series>Dream Soccer</series>
 	<homebrew>no</homebrew>

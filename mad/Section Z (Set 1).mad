@@ -2,9 +2,9 @@
 <misterarcadedescription>
 
 	<setname>sectionz</setname>
-	<name>Section Z</name>
+	<name>Section Z (Set 1)</name>
 	<region>World</region>
-	<version></version>
+	<version>Set 1</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
 	<platform>Capcom CPS-0</platform>

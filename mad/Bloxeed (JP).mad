@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dsoccr94j</setname>
-	<name>Dream Soccer&apos;94 (JP, M92)</name>
+	<setname>bloxeed</setname>
+	<name>Bloxeed (JP)</name>
 	<region>Japan</region>
-	<version></version>
+	<version>FD1094 317-0139</version>
 	<alternative>no</alternative>
-	<parent_title>Dream Soccer&apos;94</parent_title>
-	<platform>Irem M92</platform>
-	<series>Dream Soccer</series>
+	<parent_title></parent_title>
+	<platform>Sega System 18</platform>
+	<series>Tetris</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1994</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Sports - Soccer</category>
+	<year>1989</year>
+	<manufacturer>Sega - Elorg</manufacturer>
+	<category>Puzzle - Drop</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>
