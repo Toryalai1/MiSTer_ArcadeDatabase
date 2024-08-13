@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>dsoccr94</setname>
+	<name>Dream Soccer&apos; 94 (W, M107)</name>
+	<region>World</region>
+	<version>M107 hardware</version>
+	<alternative>no</alternative>
+	<parent_title></parent_title>
+	<platform>Irem M107</platform>
+	<series>Dream Soccer</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1994</year>
+	<manufacturer>Irem (Data East Corporation license)</manufacturer>
+	<category>Sports - Soccer</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2-4 (simultaneous)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>

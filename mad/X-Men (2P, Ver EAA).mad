@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dsoccr94k</setname>
-	<name>Dream Soccer &apos;94 (KR, M107)</name>
-	<region>Korea</region>
-	<version>M107 hardware</version>
+	<setname>xmen2pe</setname>
+	<name>X-Men (2P, Ver EAA)</name>
+	<region>Europe</region>
+	<version>Ver. EAA</version>
 	<alternative>yes</alternative>
-	<parent_title>Dream Soccer &apos;94</parent_title>
-	<platform>Irem M107</platform>
-	<series>Dream Soccer</series>
+	<parent_title>X-Men</parent_title>
+	<platform>Konami X-Men hardware</platform>
+	<series>X-Men</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1994</year>
-	<manufacturer>Irem (Data East Corporation license)</manufacturer>
-	<category>Sports - Soccer</category>
+	<year>1992</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
