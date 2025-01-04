@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>riskchal</setname>
-	<name>Risky Challenge</name>
+	<setname>flstory</setname>
+	<name>The FairyLand Story</name>
 	<region>World</region>
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Irem M90</platform>
+	<platform>Taito The FairyLand Story hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1993</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Puzzle - Drop</category>
+	<year>1985</year>
+	<manufacturer>Taito</manufacturer>
+	<category>Platform - Run Jump</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (simultaneous)</players>
-	<move_inputs>8-way</move_inputs>
+	<players>2 (alternating)</players>
+	<move_inputs>2-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
 </misterarcadedescription>

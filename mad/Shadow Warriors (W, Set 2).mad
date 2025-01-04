@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>riskchal</setname>
-	<name>Risky Challenge</name>
+	<setname>shadowwa</setname>
+	<name>Shadow Warriors (W, Set 2)</name>
 	<region>World</region>
-	<version></version>
-	<alternative>no</alternative>
-	<parent_title></parent_title>
-	<platform>Irem M90</platform>
+	<version>Set 2</version>
+	<alternative>yes</alternative>
+	<parent_title>Shadow Warriors</parent_title>
+	<platform>Tecmo Ninja Gaiden hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1993</year>
-	<manufacturer>Irem</manufacturer>
-	<category>Puzzle - Drop</category>
+	<year>1988</year>
+	<manufacturer>Tecmo</manufacturer>
+	<category>Fighter - 2.5D</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
@@ -22,5 +22,5 @@
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>2</num_buttons>
+	<num_buttons>3</num_buttons>
 </misterarcadedescription>

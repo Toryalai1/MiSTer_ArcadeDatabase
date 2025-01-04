@@ -20,7 +20,7 @@
 	<flip></flip>
 
 	<players>2 (alternating)</players>
-	<move_inputs></move_inputs>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
 	<num_buttons>2</num_buttons>
 </misterarcadedescription>
