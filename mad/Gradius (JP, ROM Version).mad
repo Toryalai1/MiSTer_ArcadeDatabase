@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+
+	<setname>gradius</setname>
+	<name>Gradius (JP, ROM Version)</name>
+	<region>Japan</region>
+	<version>Rom Version</version>
+	<alternative>no</alternative>
+	<parent_title>Nemesis</parent_title>
+	<platform>Konami GX400</platform>
+	<series>Gradius</series>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<year>1985</year>
+	<manufacturer>Konami</manufacturer>
+	<category>Shooter - Flying Horizontal</category>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<move_inputs>8-way</move_inputs>
+	<special_controls></special_controls>
+	<num_buttons>3</num_buttons>
+</misterarcadedescription>
