@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>batrider</setname>
-	<name>Armed Police Batrider (EU) </name>
-	<region>Europe</region>
+	<setname>batriderc</setname>
+	<name>Armed Police Batrider (CN)</name>
+	<region>China</region>
 	<version>Fri Feb 13 1998</version>
 	<alternative>yes</alternative>
 	<parent_title>Armed Police Batrider</parent_title>

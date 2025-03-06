@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>hsf2</setname>
-	<name>Hyper Street Fighter II- The Anniversary Edition (US, 040202)</name>
+	<setname>avengers</setname>
+	<name>Avengers (US, Rev C)</name>
 	<region>USA</region>
-	<version>40202</version>
+	<version>Rev C</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Capcom CPS-2</platform>
-	<series>Street Fighter</series>
+	<platform>Capcom CPS-0</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>2004</year>
+	<year>1987</year>
 	<manufacturer>Capcom</manufacturer>
-	<category>Fighter - Versus</category>
+	<category>Fighter - Vertical</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
-	<flip>n-a</flip>
+	<flip></flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls>n-a</special_controls>
-	<num_buttons>6</num_buttons>
+	<special_controls></special_controls>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

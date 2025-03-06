@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>batriderhk</setname>
-	<name>Armed Police Batrider (HK) </name>
-	<region>Hong Kong</region>
-	<version>Mon Dec 22 1997</version>
+	<setname>batrider</setname>
+	<name>Armed Police Batrider (EU)</name>
+	<region>Europe</region>
+	<version>Fri Feb 13 1998</version>
 	<alternative>yes</alternative>
 	<parent_title>Armed Police Batrider</parent_title>
 	<platform>Toaplan 2</platform>

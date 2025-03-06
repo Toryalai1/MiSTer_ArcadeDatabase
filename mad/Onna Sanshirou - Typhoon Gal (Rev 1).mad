@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>rygarj</setname>
-	<name>Arashi no Senshi </name>
-	<region>Japan</region>
-	<version></version>
+	<setname>onna34ro</setname>
+	<name>Onna Sanshirou - Typhoon Gal (Rev 1)</name>
+	<region>World</region>
+	<version>Rev 1</version>
 	<alternative>no</alternative>
-	<parent_title>Rygar</parent_title>
-	<platform>Tecmo hardware</platform>
-	<series>Rygar</series>
+	<parent_title></parent_title>
+	<platform>Taito The FairyLand Story hardware</platform>
+	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1986</year>
-	<manufacturer>Tecmo</manufacturer>
-	<category>Platform - Fighter Scrolling</category>
+	<year>1985</year>
+	<manufacturer>Taito</manufacturer>
+	<category>Fighter - Versus</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>

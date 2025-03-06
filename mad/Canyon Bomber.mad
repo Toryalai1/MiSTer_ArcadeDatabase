@@ -7,7 +7,7 @@
 	<version></version>
 	<alternative>no</alternative>
 	<parent_title>Canyon Bomber</parent_title>
-	<platform>Atari 6502 </platform>
+	<platform>Atari 6502</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>

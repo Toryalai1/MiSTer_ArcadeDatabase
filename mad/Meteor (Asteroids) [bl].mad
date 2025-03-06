@@ -7,7 +7,7 @@
 	<version>Asteroids</version>
 	<alternative>yes</alternative>
 	<parent_title>Asteroids</parent_title>
-	<platform>Atari 6502 </platform>
+	<platform>Atari 6502</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>yes</bootleg>

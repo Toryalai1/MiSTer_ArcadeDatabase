@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>rpatroln</setname>
-	<name>River Patrol (JP, Unprotected)</name>
+	<setname>pmonster</setname>
+	<name>Gamushara Battle! Puchi Monster (JP)</name>
 	<region>Japan</region>
-	<version>Unprotected</version>
+	<version>990519</version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Taito Licensed</platform>
+	<platform>Capcom CPS-1</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>1981</year>
-	<manufacturer>Orca</manufacturer>
-	<category>Driving - Boat</category>
+	<year>1999</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Medal Game - Versus</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
-	<players>2 (alternating)</players>
-	<move_inputs>2-way horizontal</move_inputs>
+	<players>1</players>
+	<move_inputs>Buttons</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>1</num_buttons>
+	<num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>dimahoou</setname>
-	<name>Dimahoo (US, 000121)</name>
-	<region>USA</region>
-	<version>121</version>
+	<setname>batriderhk</setname>
+	<name>Armed Police Batrider (HK)</name>
+	<region>Hong Kong</region>
+	<version>Mon Dec 22 1997</version>
 	<alternative>yes</alternative>
-	<parent_title>Dimahoo</parent_title>
-	<platform>Capcom CPS-2</platform>
+	<parent_title>Armed Police Batrider</parent_title>
+	<platform>Toaplan 2</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<year>2000</year>
-	<manufacturer>Eighting - Raizing - Capcom</manufacturer>
+	<year>1998</year>
+	<manufacturer>Raizing - Eighting</manufacturer>
 	<category>Shooter - Flying Vertical</category>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip>yes</flip>
 
 	<players>2 (simultaneous)</players>
 	<move_inputs>8-way</move_inputs>
-	<special_controls>n-a</special_controls>
+	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>
 </misterarcadedescription>

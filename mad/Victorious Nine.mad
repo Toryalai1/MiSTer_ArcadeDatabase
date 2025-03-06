@@ -1,26 +1,26 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>squaitsa</setname>
-	<name>Squash (Itisa)</name>
+	<setname>victnine</setname>
+	<name>Victorious Nine</name>
 	<region>World</region>
-	<version>Itisa</version>
+	<version></version>
 	<alternative>no</alternative>
 	<parent_title></parent_title>
-	<platform>Taito Licensed</platform>
+	<platform>Taito The FairyLand Story hardware</platform>
 	<series></series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1984</year>
-	<manufacturer>Itisa</manufacturer>
-	<category>Sports - Tennis</category>
+	<manufacturer>Taito</manufacturer>
+	<category>Sports - Baseball</category>
 
 	<resolution>15kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
 	<players>2 (simultaneous)</players>
-	<move_inputs>4-way</move_inputs>
+	<move_inputs>8-way</move_inputs>
 	<special_controls></special_controls>
-	<num_buttons>1</num_buttons>
+	<num_buttons>6</num_buttons>
 </misterarcadedescription>
