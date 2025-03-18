@@ -1,12 +1,8 @@
 # Arcade Database
 
-The [MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) Arcade Database repo contains files and lists about the different arcade core MRAs that are available for MiSTer. The purpose of this database is to be used with the [Arcade Organizer script](https://github.com/theypsilon/arcade-organizer "Arcade Organizer script") that [theypsilon](https://github.com/theypsilon "theypsilon") has created. While the name is MiSTer Arcade Database, it could be used with any application that uses some sort of an organizer script.
+The [MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) Arcade Database repo contains files and lists about the different arcade core MRAs that are available for MiSTer.
 
-Anything missing in the database or have a suggestion? Create an issue ticket.
-
-I'm in the process of automating so that whoever wants to contribute to the project is only required to edit the CSV file and make a pull request.
-
-Don't like the structure of the database and want to use your own MAD database? Here is a guide on how to do it: https://github.com/theypsilon/MAD_Database_MiSTer
+Anything missing in the database or have a suggestion? Create an issue ticket or create a pull request.
 
 Auto-Generated JSON DB file at: https://github.com/Toryalai1/MiSTer_ArcadeDatabase/tree/db
 
@@ -30,4 +26,3 @@ As you might've noticed, there are different versions/clones of the same game. S
 - Prefer releases from original developers/publishers rather than licensees
 - Prefer releases without region-specific notices or warnings
 ```
-
