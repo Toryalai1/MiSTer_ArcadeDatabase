@@ -38,10 +38,6 @@
         
         <xs:element name="hacks" type="yes-no-type" minOccurs="0" maxOccurs="1" />
         
-        <!-- format is "list(xs:string)|position(xs:unsignedByte)", it can be a comma separated list -->
-        <!-- example: <best_of>IGN Best Arcades|1, Famitsu Top 1996|2</best_of> -->
-        <xs:element name="best_of" type="best-of-type" minOccurs="0" maxOccurs="1" />
-        
         <!-- can be a comma separated list -->
         <xs:element name="platform" type="xs:string" minOccurs="0" maxOccurs="1" />
         
@@ -85,11 +81,6 @@
     <xs:restriction base="xs:token">
       <xs:enumeration value="yes"/>
       <xs:enumeration value="no"/>
-    </xs:restriction>
-  </xs:simpleType>
-  <xs:simpleType name="best-of-type">
-    <xs:restriction base="xs:string">
-      <xs:pattern value="[ -_'\(\)\[\];a-zA-Z0-9]+(\|[0-9]+)?(,\s*[ -_'\(\)\[\];a-zA-Z0-9]+(\|[0-9]+)?)*"/>
     </xs:restriction>
   </xs:simpleType>
 </xs:schema>
