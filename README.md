@@ -2,7 +2,7 @@
 
 The [MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) Arcade Database repo contains files and lists about the different arcade core MRAs that are available for MiSTer.
 
-Anything missing in the database or have a suggestion? Create an issue ticket or create a pull request.
+Anything missing in the database or have a suggestion? Create an issue ticket or submit a pull request.
 
 Auto-Generated JSON DB file at: https://github.com/Toryalai1/MiSTer_ArcadeDatabase/tree/db
 
