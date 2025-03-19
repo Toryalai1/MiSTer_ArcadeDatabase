@@ -1,10 +1,8 @@
-# Arcade Database
+# Arcade Organizer
 
-The [MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) Arcade Database repo contains files and lists about the different arcade core MRAs that are available for MiSTer.
+The ArcadeOrganizer_[MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) repo contains files and lists about the different arcade core MRAs that are available for MiSTer.
 
 Anything missing in the database or have a suggestion? Create an issue ticket or submit a pull request.
-
-Auto-Generated JSON DB file at: https://github.com/Toryalai1/MiSTer_ArcadeDatabase/tree/db
 
 # Naming convention
 Since it is important to know exactly what version of the game you play, I've decided to go for the following naming convention:  
