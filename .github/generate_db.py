@@ -14,35 +14,16 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import sys
 import subprocess
 from pathlib import Path
-import configparser
-from inspect import currentframe, getframeinfo
-import itertools
 import os
-import io
 import hashlib
-import distutils.util
-import datetime
-import difflib
-import shutil
-import time
 import json
 import xml.etree.cElementTree as ET
-import urllib.request
 
 def main():
 
     print('START!')
-
-    rotations = dict()
-    for line in urllib.request.urlopen('https://raw.githubusercontent.com/theypsilon/_arcade-organizer/master/rotations/mame-rotations.txt'):
-        parts = line.decode('utf-8').split(',')
-        if len(parts) == 2:
-            rot = translate_mame_rotation(parts[1].strip('\n').lower())
-            if rot is not None:
-                rotations[parts[0]] = rot
 
     mad_finder = MadFinder('mad')
     mad_reader = MadReader()
@@ -54,13 +35,6 @@ def main():
     data = mad_reader.data()
     repeated = mad_reader.repeated()
     errors = mad_reader.errors()
-
-    for setname in rotations:
-        if setname not in data:
-            data[setname] = dict()
-
-        if 'rotation' not in data[setname]:
-            data[setname]['rotation'] = rotations[setname]
 
     create_orphan_branch('db')
     json_filename = 'mad_db.json'
@@ -94,18 +68,6 @@ def main():
     force_push_file(zip_filename, 'db')
 
     print('Done.')
-
-def translate_mame_rotation(rot):
-    if rot == 'rot0':
-        return 0
-    elif  rot == 'rot90':
-        return 90
-    elif  rot == 'rot180':
-        return 180
-    elif  rot == 'rot270':
-        return 270
-    else:
-        return None
 
 def translate_mad_rotation(rot):
     if rot == 'horizontal':
