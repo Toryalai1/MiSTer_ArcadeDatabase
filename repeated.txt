@@ -1,0 +1,5 @@
+: mad/Arkanoid (Unl. Lives) [hb].mad, mad/Arkanoid (Unl. Lives, slower) [hb].mad, mad/Biaofeng Zhanjing (CN, CPS1.5) [bl].mad, mad/Computer Space.mad, mad/Dark Planet (no BKG).mad, mad/Ghouls'n Ghosts (W, Patched).mad, mad/Gorf (Speech).mad, mad/Mega Man- The Power Battle (CPS1.5 Qsound) [hb].mad, mad/Pacmanic Miner.mad, mad/Space Invaders - Space Invaders M.mad, mad/Street Fighter Zero (JP, 950727, Unlocked).mad, mad/The End (BKG).mad, mad/Wizard of Wor (Speech).mad, mad/Wonder Boy (JP, Set 1).mad
+insectx: mad/Insector X (W).mad, mad/Insector X [bl].mad
+shangon3: mad/Super Hang-On (sitdown - upright) [bl].mad, mad/Super Hang-On (sitdown - upright).mad
+vendetta2pd: mad/Crime Fighters 2 (JP, 4P, Ver. N).mad, mad/Vendetta (AS, 2P, Ver. D).mad
+vulcanb: mad/Vulcan Venture (Older).mad, mad/Vulcan Venture (Oldest).mad
