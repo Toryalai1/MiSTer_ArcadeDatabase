@@ -1,6 +1,6 @@
-# Arcade Organizer
+# Arcade Database for MiSTer
 
-The ArcadeOrganizer_[MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) repo contains files and lists about the different arcade core MRAs that are available for MiSTer.
+The ArcadeDatabase_[MiSTer](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki) repo contains files and lists about the different arcade core MRAs that are available for MiSTer.
 
 Anything missing in the database or have a suggestion? Create an issue ticket or submit a pull request.
 
